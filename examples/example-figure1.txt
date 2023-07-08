@@ -1,0 +1,2 @@
+./coco-images/images/COCO_train2014_000000394151.jpg,394151,The woman is standing above the two packed suitcases.,The woman is standing above some packed suitcases.,The woman is standing here.,The woman is standing above this.,They are standing above the two packed suitcases.,The person is standing above the two packed suitcases.,"They are doing something here.
+",0.8565086126327515,0.8275262266397476,0.5536564812064171,0.4930926486849785,0.7435233145952225,0.7608168572187424,0.4645940661430359

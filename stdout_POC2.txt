@@ -1,0 +1,3314 @@
+../photobook_coco_images/images/COCO_train2014_000000196545.jpg
+They are doing something here. A person wearing a neon safety vest holding an orange and green umbrella
+full_caption: 0.1957653909921646
+random_caption: 0.1962849497795105
+They are doing something here. Two Navy sailors cutting a large sheet cake.
+full_caption: 0.1957653909921646
+random_caption: 0.16355891525745392
+They are doing something here. a man in a brown shirt is holding two large stuffed teddy bears
+full_caption: 0.1957653909921646
+random_caption: 0.18254037201404572
+They are doing something here. A banana and a strawberry sitting on a lap top computer.
+full_caption: 0.1957653909921646
+random_caption: 0.1895473450422287
+They are doing something here. A dog inside a stuffed hot dog bun on a man's lap.
+full_caption: 0.1957653909921646
+random_caption: 0.29817289113998413
+They are doing something here. A lady holding a bottle of ketchup and a dog in a hot dog bun costume.
+full_caption: 0.1957653909921646
+random_caption: 0.34337118268013
+They are doing something here. A large white cake sitting on top of a table.
+full_caption: 0.1957653909921646
+random_caption: 0.20387591421604156
+They are doing something here. A man doing a handstand trick on a skateboard near the beach and next to a group of parked bicycles.
+full_caption: 0.1957653909921646
+random_caption: 0.15562011301517487
+They are doing something here. A man in a helmet observes his reflection in a motorcycle side mirror.
+full_caption: 0.1957653909921646
+random_caption: 0.11883191764354706
+They are doing something here. Soldiers hold a refrigerator open to show a woman what's inside.
+full_caption: 0.1957653909921646
+random_caption: 0.18768310546875
+../photobook_coco_images/images/COCO_train2014_000000196545.jpg full greater than random: 6
+../photobook_coco_images/images/COCO_train2014_000000196545.jpg random greater than full: 4
+../photobook_coco_images/images/COCO_train2014_000000134599.jpg
+They are doing something here. A couple of kids laying on top of booths.
+full_caption: 0.20580479502677917
+random_caption: 0.1456090658903122
+They are doing something here. A man carrying two large teddy bears while looking to his left.
+full_caption: 0.20580479502677917
+random_caption: 0.18554948270320892
+They are doing something here. A hot dog covered in toppings sitting next to beer.
+full_caption: 0.20580479502677917
+random_caption: 0.1952957957983017
+They are doing something here. A woman holds a hot dog with toppings while sitting on a bench.
+full_caption: 0.20580479502677917
+random_caption: 0.19581478834152222
+They are doing something here. A banana and a strawboard are on a laptop keyboard.
+full_caption: 0.20580479502677917
+random_caption: 0.2161381095647812
+They are doing something here. A person wearing a neon safety vest holding an orange and green umbrella
+full_caption: 0.20580479502677917
+random_caption: 0.2443082332611084
+They are doing something here. a woman stands in front of stainless steel refrigerators holding a sign
+full_caption: 0.20580479502677917
+random_caption: 0.16599297523498535
+They are doing something here. Two Navy sailors cutting a large sheet cake.
+full_caption: 0.20580479502677917
+random_caption: 0.2911091148853302
+They are doing something here. Two movers with their open moving van, which is parked on a city street.
+full_caption: 0.20580479502677917
+random_caption: 0.14936795830726624
+They are doing something here. Two young boys playing with letter magnets on the front of a refrigerator.
+full_caption: 0.20580479502677917
+random_caption: 0.1971307396888733
+../photobook_coco_images/images/COCO_train2014_000000134599.jpg full greater than random: 7
+../photobook_coco_images/images/COCO_train2014_000000134599.jpg random greater than full: 3
+../photobook_coco_images/images/COCO_train2014_000000196545.jpg
+They are doing something here. A man in grey sweater on floor next to a suitcase.
+full_caption: 0.1957653909921646
+random_caption: 0.2056841105222702
+They are doing something here. Two movers with their open moving van, which is parked on a city street.
+full_caption: 0.1957653909921646
+random_caption: 0.1675228774547577
+They are doing something here. A hot dog covered in toppings sitting next to beer.
+full_caption: 0.1957653909921646
+random_caption: 0.3104265332221985
+They are doing something here. A man in a helmet observes his reflection in a motorcycle side mirror.
+full_caption: 0.1957653909921646
+random_caption: 0.11883191764354706
+They are doing something here. A person with face make up and a multi color umbrella and jacket.
+full_caption: 0.1957653909921646
+random_caption: 0.23122289776802063
+They are doing something here. A person is getting ready to cut a white cake.
+full_caption: 0.1957653909921646
+random_caption: 0.2353065311908722
+They are doing something here. A man in a black t-shirt stands in front of a birthday cake in a kitchen.
+full_caption: 0.1957653909921646
+random_caption: 0.18318060040473938
+They are doing something here. A large white cake sitting on top of a table.
+full_caption: 0.1957653909921646
+random_caption: 0.20387591421604156
+They are doing something here. A person wearing a neon safety vest holding an orange and green umbrella
+full_caption: 0.1957653909921646
+random_caption: 0.1962849497795105
+They are doing something here. Children laying in a booth at a restaurant
+full_caption: 0.1957653909921646
+random_caption: 0.18999339640140533
+../photobook_coco_images/images/COCO_train2014_000000196545.jpg full greater than random: 4
+../photobook_coco_images/images/COCO_train2014_000000196545.jpg random greater than full: 6
+../photobook_coco_images/images/COCO_train2014_000000475999.jpg
+They are doing something here. Without paper handy, a man writes a reminder about the parking meter on his palm.
+full_caption: 0.2014448046684265
+random_caption: 0.14208471775054932
+They are doing something here. Two movers with their open moving van, which is parked on a city street.
+full_caption: 0.2014448046684265
+random_caption: 0.1643511950969696
+They are doing something here. a man and a woman with bicycles standing next to a train
+full_caption: 0.2014448046684265
+random_caption: 0.17794601619243622
+They are doing something here. A young woman sitting in a restaurant with a pizza and soda in front of her.
+full_caption: 0.2014448046684265
+random_caption: 0.2088763564825058
+They are doing something here. The woman is showing the toppings on her hotdog.
+full_caption: 0.2014448046684265
+random_caption: 0.24881386756896973
+They are doing something here. a gray and white cat is laying on top of a laptop
+full_caption: 0.2014448046684265
+random_caption: 0.10892870277166367
+They are doing something here. The woman is standing above the two packed suitcases.
+full_caption: 0.2014448046684265
+random_caption: 0.24296525120735168
+They are doing something here. A pug dog lying on a persons lap who's holding a remote controller.
+full_caption: 0.2014448046684265
+random_caption: 0.12653839588165283
+They are doing something here. A large white cake sitting on top of a table.
+full_caption: 0.2014448046684265
+random_caption: 0.25194481015205383
+They are doing something here. Two small children playing with their refrigerator magnets.
+full_caption: 0.2014448046684265
+random_caption: 0.1738370656967163
+../photobook_coco_images/images/COCO_train2014_000000475999.jpg full greater than random: 6
+../photobook_coco_images/images/COCO_train2014_000000475999.jpg random greater than full: 4
+../photobook_coco_images/images/COCO_train2014_000000134599.jpg
+They are doing something here. The woman is showing the toppings on her hotdog.
+full_caption: 0.20580479502677917
+random_caption: 0.21781879663467407
+They are doing something here. A veteran cutting a birthday cake that is decorated in red, white, and blue.
+full_caption: 0.20580479502677917
+random_caption: 0.3093457520008087
+They are doing something here. A man is carrying two extra large teddy bears.
+full_caption: 0.20580479502677917
+random_caption: 0.16608311235904694
+They are doing something here. a man carrying one brown and one tan stuffed bear standing in front of a car poster
+full_caption: 0.20580479502677917
+random_caption: 0.1490100920200348
+They are doing something here. A man in a helmet observes his reflection in a motorcycle side mirror.
+full_caption: 0.20580479502677917
+random_caption: 0.17007718980312347
+They are doing something here. A man in a black t-shirt stands in front of a birthday cake in a kitchen.
+full_caption: 0.20580479502677917
+random_caption: 0.327240914106369
+They are doing something here. A woman with luggage standing behind her open trunk
+full_caption: 0.20580479502677917
+random_caption: 0.23274925351142883
+They are doing something here. A dog riding on a motorcycle with a person
+full_caption: 0.20580479502677917
+random_caption: 0.15321476757526398
+They are doing something here. A man posing with a birthday cake in a kitchen.
+full_caption: 0.20580479502677917
+random_caption: 0.30746990442276
+They are doing something here. Children laying in a booth at a restaurant
+full_caption: 0.20580479502677917
+random_caption: 0.17303714156150818
+../photobook_coco_images/images/COCO_train2014_000000134599.jpg full greater than random: 5
+../photobook_coco_images/images/COCO_train2014_000000134599.jpg random greater than full: 5
+../photobook_coco_images/images/COCO_train2014_000000488127.jpg
+They are doing something here. A dog with a wine glass being held to its face.
+full_caption: 0.18412353098392487
+random_caption: 0.10090173780918121
+They are doing something here. A man carrying two large teddy bears while looking to his left.
+full_caption: 0.18412353098392487
+random_caption: 0.1937370002269745
+They are doing something here. A woman with a tattoo playing the Wii.
+full_caption: 0.18412353098392487
+random_caption: 0.1297048181295395
+They are doing something here. two children laying on restaurant booth seats 
+full_caption: 0.18412353098392487
+random_caption: 0.1333610713481903
+They are doing something here. Two young boys playing with letter magnets on the front of a refrigerator.
+full_caption: 0.18412353098392487
+random_caption: 0.13619840145111084
+They are doing something here. a man carrying one brown and one tan stuffed bear standing in front of a car poster
+full_caption: 0.18412353098392487
+random_caption: 0.18095256388187408
+They are doing something here. A man in a helmet observes his reflection in a motorcycle side mirror.
+full_caption: 0.18412353098392487
+random_caption: 0.11488641053438187
+They are doing something here. Soldiers hold a refrigerator open to show a woman what's inside.
+full_caption: 0.18412353098392487
+random_caption: 0.23464417457580566
+They are doing something here. The woman is showing the toppings on her hotdog.
+full_caption: 0.18412353098392487
+random_caption: 0.1659362018108368
+They are doing something here. A woman sitting on a bench holding a hot dog
+full_caption: 0.18412353098392487
+random_caption: 0.12646393477916718
+../photobook_coco_images/images/COCO_train2014_000000488127.jpg full greater than random: 8
+../photobook_coco_images/images/COCO_train2014_000000488127.jpg random greater than full: 2
+../photobook_coco_images/images/COCO_train2014_000000096222.jpg
+They are doing something here. a woman stands in front of stainless steel refrigerators holding a sign
+full_caption: 0.1959156095981598
+random_caption: 0.18737809360027313
+They are doing something here. A tin cup of noodles in water sitting in front of a computer.
+full_caption: 0.1959156095981598
+random_caption: 0.2048252820968628
+They are doing something here. A young woman sits at a cafe table with a piece of pizza and a beverage.
+full_caption: 0.1959156095981598
+random_caption: 0.16651591658592224
+They are doing something here. A man riding on the back of a motorcycle with a large brown dog.
+full_caption: 0.1959156095981598
+random_caption: 0.145152285695076
+They are doing something here. A banana and strawberry on top of a laptop
+full_caption: 0.1959156095981598
+random_caption: 0.1851234883069992
+They are doing something here. A veteran cutting a birthday cake that is decorated in red, white, and blue.
+full_caption: 0.1959156095981598
+random_caption: 0.3452763557434082
+They are doing something here. A dog riding on a scooter with someone.
+full_caption: 0.1959156095981598
+random_caption: 0.1282489150762558
+They are doing something here. A young woman sitting in a restaurant with a pizza and soda in front of her.
+full_caption: 0.1959156095981598
+random_caption: 0.15359903872013092
+They are doing something here. A man in a suit and tie holding an umbrella in an alley filled with them.
+full_caption: 0.1959156095981598
+random_caption: 0.1514301747083664
+They are doing something here. A banana and a strawberry is sitting on an open laptop keyboard.
+full_caption: 0.1959156095981598
+random_caption: 0.2112933248281479
+../photobook_coco_images/images/COCO_train2014_000000096222.jpg full greater than random: 7
+../photobook_coco_images/images/COCO_train2014_000000096222.jpg random greater than full: 3
+../photobook_coco_images/images/COCO_train2014_000000266311.jpg
+They are doing something here. Two movers with their open moving van, which is parked on a city street.
+full_caption: 0.1951168179512024
+random_caption: 0.18698036670684814
+They are doing something here. A pug dog lying on a persons lap who's holding a remote controller.
+full_caption: 0.1951168179512024
+random_caption: 0.11344727128744125
+They are doing something here. Two children lying on the booth seats of a restaurant.
+full_caption: 0.1951168179512024
+random_caption: 0.13383258879184723
+They are doing something here. Two Navy sailors cutting a large sheet cake.
+full_caption: 0.1951168179512024
+random_caption: 0.1619764119386673
+They are doing something here. A man in a helmet observes his reflection in a motorcycle side mirror.
+full_caption: 0.1951168179512024
+random_caption: 0.20512288808822632
+They are doing something here. A wallet, laptop, cellphone, cups and bottles of water sitting on a table.
+full_caption: 0.1951168179512024
+random_caption: 0.16608774662017822
+They are doing something here. Two elderly women speak to each other on a bench.
+full_caption: 0.1951168179512024
+random_caption: 0.1396952122449875
+They are doing something here. a man and a woman with bicycles standing next to a train
+full_caption: 0.1951168179512024
+random_caption: 0.19225774705410004
+They are doing something here. The woman is standing above the two packed suitcases.
+full_caption: 0.1951168179512024
+random_caption: 0.18694539368152618
+They are doing something here. A dog riding on a motorcycle with a person
+full_caption: 0.1951168179512024
+random_caption: 0.1964135468006134
+../photobook_coco_images/images/COCO_train2014_000000266311.jpg full greater than random: 8
+../photobook_coco_images/images/COCO_train2014_000000266311.jpg random greater than full: 2
+../photobook_coco_images/images/COCO_train2014_000000195449.jpg
+They are doing something here. A large white cake sitting on top of a table.
+full_caption: 0.2288864403963089
+random_caption: 0.19324171543121338
+They are doing something here. A young woman sits at a cafe table with a piece of pizza and a beverage.
+full_caption: 0.2288864403963089
+random_caption: 0.13322287797927856
+They are doing something here. a gray and white cat is laying on top of a laptop
+full_caption: 0.2288864403963089
+random_caption: 0.12851178646087646
+They are doing something here. A man laying on the floor near a suitcase.
+full_caption: 0.2288864403963089
+random_caption: 0.19965194165706635
+They are doing something here. A man and woman pause with their bikes beside a train.
+full_caption: 0.2288864403963089
+random_caption: 0.2211962789297104
+They are doing something here. A white frosted cake in the middle of a table with someone holding a knife above it.
+full_caption: 0.2288864403963089
+random_caption: 0.14087200164794922
+They are doing something here. A soldier preparing to cut a large cake.
+full_caption: 0.2288864403963089
+random_caption: 0.15691512823104858
+They are doing something here. A man is standing beside a parking meter, writing on his hand.
+full_caption: 0.2288864403963089
+random_caption: 0.20185218751430511
+They are doing something here. A man is laying on the floor of a hotel room next to an open suitcase.
+full_caption: 0.2288864403963089
+random_caption: 0.17501607537269592
+They are doing something here. A wallet, laptop, cellphone, cups and bottles of water sitting on a table.
+full_caption: 0.2288864403963089
+random_caption: 0.1643514186143875
+../photobook_coco_images/images/COCO_train2014_000000195449.jpg full greater than random: 10
+../photobook_coco_images/images/COCO_train2014_000000195449.jpg random greater than full: 0
+../photobook_coco_images/images/COCO_train2014_000000449904.jpg
+They are doing something here. Children laying in a booth at a restaurant
+full_caption: 0.18912188708782196
+random_caption: 0.2366352677345276
+They are doing something here. A person is getting ready to cut a white cake.
+full_caption: 0.18912188708782196
+random_caption: 0.23734688758850098
+They are doing something here. A man is carrying two extra large teddy bears.
+full_caption: 0.18912188708782196
+random_caption: 0.18716125190258026
+They are doing something here. The woman is showing the toppings on her hotdog.
+full_caption: 0.18912188708782196
+random_caption: 0.2552041709423065
+They are doing something here. A man carrying two large teddy bears while looking to his left.
+full_caption: 0.18912188708782196
+random_caption: 0.20048262178897858
+They are doing something here. Two men sit on a boat and prepare to scuba dive.
+full_caption: 0.18912188708782196
+random_caption: 0.1265021115541458
+They are doing something here. A person in a yellow shirt about to ketchup the dog in a hot dog costume.
+full_caption: 0.18912188708782196
+random_caption: 0.21616582572460175
+They are doing something here. A couple of kids laying on top of booths.
+full_caption: 0.18912188708782196
+random_caption: 0.22429169714450836
+They are doing something here. A woman in a white dress is sitting with her cell phone.
+full_caption: 0.18912188708782196
+random_caption: 0.24175001680850983
+They are doing something here. A young woman in glasses is holding a hot dog.
+full_caption: 0.18912188708782196
+random_caption: 0.3201642632484436
+../photobook_coco_images/images/COCO_train2014_000000449904.jpg full greater than random: 2
+../photobook_coco_images/images/COCO_train2014_000000449904.jpg random greater than full: 8
+../photobook_coco_images/images/COCO_train2014_000000522288.jpg
+They are doing something here. A dog riding on a scooter with someone.
+full_caption: 0.19043506681919098
+random_caption: 0.18335430324077606
+They are doing something here. Two children lying on the booth seats of a restaurant.
+full_caption: 0.19043506681919098
+random_caption: 0.15739010274410248
+They are doing something here. A man in a black t-shirt stands in front of a birthday cake in a kitchen.
+full_caption: 0.19043506681919098
+random_caption: 0.14940817654132843
+They are doing something here. A man is laying on the floor of a hotel room next to an open suitcase.
+full_caption: 0.19043506681919098
+random_caption: 0.16908442974090576
+They are doing something here. A girl with long brown hair with streaks of red lays on a bed and looks at an open laptop computer.
+full_caption: 0.19043506681919098
+random_caption: 0.14270146191120148
+They are doing something here. A veteran cutting a birthday cake that is decorated in red, white, and blue.
+full_caption: 0.19043506681919098
+random_caption: 0.16614462435245514
+They are doing something here. two children laying on restaurant booth seats 
+full_caption: 0.19043506681919098
+random_caption: 0.15791988372802734
+They are doing something here. a woman stands in front of stainless steel refrigerators holding a sign
+full_caption: 0.19043506681919098
+random_caption: 0.12243295460939407
+They are doing something here. An infant and a teddy beat sitting up next to each other.
+full_caption: 0.19043506681919098
+random_caption: 0.1972701996564865
+They are doing something here. A man and woman pause with their bikes beside a train.
+full_caption: 0.19043506681919098
+random_caption: 0.06427199393510818
+../photobook_coco_images/images/COCO_train2014_000000522288.jpg full greater than random: 9
+../photobook_coco_images/images/COCO_train2014_000000522288.jpg random greater than full: 1
+../photobook_coco_images/images/COCO_train2014_000000196545.jpg
+They are doing something here. Girl laying on bed with a stuffed panda posing for the camera.
+full_caption: 0.1957653909921646
+random_caption: 0.16089271008968353
+They are doing something here. a man and a woman with bicycles standing next to a train
+full_caption: 0.1957653909921646
+random_caption: 0.19727161526679993
+They are doing something here. A woman with luggage standing behind her open trunk
+full_caption: 0.1957653909921646
+random_caption: 0.2140682190656662
+They are doing something here. A man posing with a birthday cake in a kitchen.
+full_caption: 0.1957653909921646
+random_caption: 0.15602858364582062
+They are doing something here. A man and woman pause with their bikes beside a train.
+full_caption: 0.1957653909921646
+random_caption: 0.1842988133430481
+They are doing something here. A gray cat laying on top of a laptop computer.
+full_caption: 0.1957653909921646
+random_caption: 0.06887504458427429
+They are doing something here. An infant sits next to a stuffed teddy bear toy.
+full_caption: 0.1957653909921646
+random_caption: 0.18529844284057617
+They are doing something here. A woman standing next to refrigerators holding a sign.
+full_caption: 0.1957653909921646
+random_caption: 0.21473120152950287
+They are doing something here. A cake with a missing slice on a floral plate, two bowls of fruit and a hand of bananas.
+full_caption: 0.1957653909921646
+random_caption: 0.19761468470096588
+They are doing something here. A person wearing a neon safety vest holding an orange and green umbrella
+full_caption: 0.1957653909921646
+random_caption: 0.1962849497795105
+../photobook_coco_images/images/COCO_train2014_000000196545.jpg full greater than random: 5
+../photobook_coco_images/images/COCO_train2014_000000196545.jpg random greater than full: 5
+../photobook_coco_images/images/COCO_train2014_000000488127.jpg
+They are doing something here. A woman painting flowers on a red umbrella.
+full_caption: 0.18412353098392487
+random_caption: 0.11710644513368607
+They are doing something here. A woman in a dress standing by some motorcycles.
+full_caption: 0.18412353098392487
+random_caption: 0.13109248876571655
+They are doing something here. A young woman sits at a cafe table with a piece of pizza and a beverage.
+full_caption: 0.18412353098392487
+random_caption: 0.11025476455688477
+They are doing something here. Two elderly women speak to each other on a bench.
+full_caption: 0.18412353098392487
+random_caption: 0.12456337362527847
+They are doing something here. A wallet, laptop, cellphone, cups and bottles of water sitting on a table.
+full_caption: 0.18412353098392487
+random_caption: 0.137895405292511
+They are doing something here. A small white dog is poses near a wine glass.
+full_caption: 0.18412353098392487
+random_caption: 0.07715187966823578
+They are doing something here. A banana and a strawberry is sitting on an open laptop keyboard.
+full_caption: 0.18412353098392487
+random_caption: 0.12677030265331268
+They are doing something here. A large stack of brownies at a market.
+full_caption: 0.18412353098392487
+random_caption: 0.214843288064003
+They are doing something here. A dog riding on a scooter with someone.
+full_caption: 0.18412353098392487
+random_caption: 0.06909434497356415
+They are doing something here. A tin cup of noodles in water sitting in front of a computer.
+full_caption: 0.18412353098392487
+random_caption: 0.12553009390830994
+../photobook_coco_images/images/COCO_train2014_000000488127.jpg full greater than random: 9
+../photobook_coco_images/images/COCO_train2014_000000488127.jpg random greater than full: 1
+../photobook_coco_images/images/COCO_train2014_000000459209.jpg
+They are doing something here. A woman with glasses sitting at a table with a slice of pizza in front of her and a soft drink cup.
+full_caption: 0.23731082677841187
+random_caption: 0.08447384089231491
+They are doing something here. A banana and a strawboard are on a laptop keyboard.
+full_caption: 0.23731082677841187
+random_caption: 0.20535674691200256
+They are doing something here. A young boy eating a hot dog over a paper plate.
+full_caption: 0.23731082677841187
+random_caption: 0.17577826976776123
+They are doing something here. A person is getting ready to cut a white cake.
+full_caption: 0.23731082677841187
+random_caption: 0.20374780893325806
+They are doing something here. A soldier cuts a large American military-themed cake.
+full_caption: 0.23731082677841187
+random_caption: 0.17392973601818085
+They are doing something here. A hot dog covered in toppings sitting next to beer.
+full_caption: 0.23731082677841187
+random_caption: 0.1209954246878624
+They are doing something here. A man laying on the floor near a suitcase.
+full_caption: 0.23731082677841187
+random_caption: 0.15192192792892456
+They are doing something here. a woman stands in front of stainless steel refrigerators holding a sign
+full_caption: 0.23731082677841187
+random_caption: 0.17464980483055115
+They are doing something here. A man posing with a birthday cake in a kitchen.
+full_caption: 0.23731082677841187
+random_caption: 0.18222084641456604
+They are doing something here. A woman is painting designs on an umbrella.
+full_caption: 0.23731082677841187
+random_caption: 0.18031738698482513
+../photobook_coco_images/images/COCO_train2014_000000459209.jpg full greater than random: 10
+../photobook_coco_images/images/COCO_train2014_000000459209.jpg random greater than full: 0
+../photobook_coco_images/images/COCO_train2014_000000522288.jpg
+They are doing something here. A large white cake sitting on top of a table.
+full_caption: 0.19043506681919098
+random_caption: 0.2063644975423813
+They are doing something here. A man in camouflage is shaking hands with a man in a suit in front of some trucks.
+full_caption: 0.19043506681919098
+random_caption: 0.06226281076669693
+They are doing something here. A young woman sitting at a table in front of a piece of pizza.
+full_caption: 0.19043506681919098
+random_caption: 0.18629351258277893
+They are doing something here. two women are chatting on a brown bench
+full_caption: 0.19043506681919098
+random_caption: 0.11532698571681976
+They are doing something here. Two movers with their open moving van, which is parked on a city street.
+full_caption: 0.19043506681919098
+random_caption: 0.11209145933389664
+They are doing something here. A man and woman pause with their bikes beside a train.
+full_caption: 0.19043506681919098
+random_caption: 0.06427199393510818
+They are doing something here. A girl with long brown hair with streaks of red lays on a bed and looks at an open laptop computer.
+full_caption: 0.19043506681919098
+random_caption: 0.14270146191120148
+They are doing something here. A person in a yellow shirt about to ketchup the dog in a hot dog costume.
+full_caption: 0.19043506681919098
+random_caption: 0.18784309923648834
+They are doing something here. A motorcyclist with helmet and neon vest taking a photograph in side mirror
+full_caption: 0.19043506681919098
+random_caption: 0.14699117839336395
+They are doing something here. A person with face make up and a multi color umbrella and jacket.
+full_caption: 0.19043506681919098
+random_caption: 0.20356695353984833
+../photobook_coco_images/images/COCO_train2014_000000522288.jpg full greater than random: 8
+../photobook_coco_images/images/COCO_train2014_000000522288.jpg random greater than full: 2
+../photobook_coco_images/images/COCO_train2014_000000210266.jpg
+They are doing something here. A woman with glasses sitting at a table with a slice of pizza in front of her and a soft drink cup.
+full_caption: 0.20282433927059174
+random_caption: 0.13747228682041168
+They are doing something here. 2 children look at magnetic letters on a refrigerator
+full_caption: 0.20282433927059174
+random_caption: 0.1293545961380005
+They are doing something here. A person with a yellow lab on a moped ridding down the street.
+full_caption: 0.20282433927059174
+random_caption: 0.11997000873088837
+They are doing something here. A man riding on the back of a motorcycle with a large brown dog.
+full_caption: 0.20282433927059174
+random_caption: 0.12089528143405914
+They are doing something here. Soldiers hold a refrigerator open to show a woman what's inside.
+full_caption: 0.20282433927059174
+random_caption: 0.14766567945480347
+They are doing something here. A small white dog is poses near a wine glass.
+full_caption: 0.20282433927059174
+random_caption: 0.13448981940746307
+They are doing something here. Two movers with their open moving van, which is parked on a city street.
+full_caption: 0.20282433927059174
+random_caption: 0.19621600210666656
+They are doing something here. A person holding a green plastic knife getting ready to cut a white cake.
+full_caption: 0.20282433927059174
+random_caption: 0.1623491495847702
+They are doing something here. a man in a brown shirt is holding two large stuffed teddy bears
+full_caption: 0.20282433927059174
+random_caption: 0.16355983912944794
+They are doing something here. a man and woman standing next to a bike next to a subtrain
+full_caption: 0.20282433927059174
+random_caption: 0.15737439692020416
+../photobook_coco_images/images/COCO_train2014_000000210266.jpg full greater than random: 10
+../photobook_coco_images/images/COCO_train2014_000000210266.jpg random greater than full: 0
+../photobook_coco_images/images/COCO_train2014_000000122731.jpg
+They are doing something here. Soldiers hold a refrigerator open to show a woman what's inside.
+full_caption: 0.19990170001983643
+random_caption: 0.14591191709041595
+They are doing something here. A man riding on the back of a motorcycle with a large brown dog.
+full_caption: 0.19990170001983643
+random_caption: 0.14912277460098267
+They are doing something here. a man holding two very large teddy bears
+full_caption: 0.19990170001983643
+random_caption: 0.1588410586118698
+They are doing something here. two women are chatting on a brown bench
+full_caption: 0.19990170001983643
+random_caption: 0.16162636876106262
+They are doing something here. A wallet, laptop, cellphone, cups and bottles of water sitting on a table.
+full_caption: 0.19990170001983643
+random_caption: 0.16441123187541962
+They are doing something here. A young woman sits at a cafe table with a piece of pizza and a beverage.
+full_caption: 0.19990170001983643
+random_caption: 0.13425232470035553
+They are doing something here. a man carrying one brown and one tan stuffed bear standing in front of a car poster
+full_caption: 0.19990170001983643
+random_caption: 0.17029324173927307
+They are doing something here. A dog with a wine glass being held to its face.
+full_caption: 0.19990170001983643
+random_caption: 0.1550179272890091
+They are doing something here. A person with a yellow lab on a moped ridding down the street.
+full_caption: 0.19990170001983643
+random_caption: 0.14627259969711304
+They are doing something here. A woman in a white dress is sitting with her cell phone.
+full_caption: 0.19990170001983643
+random_caption: 0.17280173301696777
+../photobook_coco_images/images/COCO_train2014_000000122731.jpg full greater than random: 10
+../photobook_coco_images/images/COCO_train2014_000000122731.jpg random greater than full: 0
+../photobook_coco_images/images/COCO_train2014_000000029642.jpg
+They are doing something here. The woman is standing above the two packed suitcases.
+full_caption: 0.21945028007030487
+random_caption: 0.23738476634025574
+They are doing something here. A person with a yellow lab on a moped ridding down the street.
+full_caption: 0.21945028007030487
+random_caption: 0.16729982197284698
+They are doing something here. A banana and a strawberry sitting on a lap top computer.
+full_caption: 0.21945028007030487
+random_caption: 0.24842703342437744
+They are doing something here. A man laying on the floor near a suitcase.
+full_caption: 0.21945028007030487
+random_caption: 0.26295873522758484
+They are doing something here. Soldiers hold a refrigerator open to show a woman what's inside.
+full_caption: 0.21945028007030487
+random_caption: 0.2065921276807785
+They are doing something here. A dog riding on a motorcycle with a person
+full_caption: 0.21945028007030487
+random_caption: 0.2136543244123459
+They are doing something here. A man riding on the back of a motorcycle with a large brown dog.
+full_caption: 0.21945028007030487
+random_caption: 0.20847100019454956
+They are doing something here. A veteran cutting a birthday cake that is decorated in red, white, and blue.
+full_caption: 0.21945028007030487
+random_caption: 0.1997828334569931
+They are doing something here. A small white dog being offered a glass of red wine.
+full_caption: 0.21945028007030487
+random_caption: 0.21665461361408234
+They are doing something here. A person with face make up and a multi color umbrella and jacket.
+full_caption: 0.21945028007030487
+random_caption: 0.21938568353652954
+../photobook_coco_images/images/COCO_train2014_000000029642.jpg full greater than random: 7
+../photobook_coco_images/images/COCO_train2014_000000029642.jpg random greater than full: 3
+../photobook_coco_images/images/COCO_train2014_000000096222.jpg
+They are doing something here. A man and woman pause with their bikes beside a train.
+full_caption: 0.1959156095981598
+random_caption: 0.15026867389678955
+They are doing something here. A young woman sitting at a table in front of a piece of pizza.
+full_caption: 0.1959156095981598
+random_caption: 0.1887815147638321
+They are doing something here. Soldiers hold a refrigerator open to show a woman what's inside.
+full_caption: 0.1959156095981598
+random_caption: 0.20691430568695068
+They are doing something here. A white frosted cake in the middle of a table with someone holding a knife above it.
+full_caption: 0.1959156095981598
+random_caption: 0.2785175144672394
+They are doing something here. A large white cake sitting on top of a table.
+full_caption: 0.1959156095981598
+random_caption: 0.25505077838897705
+They are doing something here. A banana and a strawberry is sitting on an open laptop keyboard.
+full_caption: 0.1959156095981598
+random_caption: 0.2112933248281479
+They are doing something here. A dog inside a stuffed hot dog bun on a man's lap.
+full_caption: 0.1959156095981598
+random_caption: 0.17776960134506226
+They are doing something here. A dog riding on a scooter with someone.
+full_caption: 0.1959156095981598
+random_caption: 0.1282489150762558
+They are doing something here. A young woman in glasses is holding a hot dog.
+full_caption: 0.1959156095981598
+random_caption: 0.1925526261329651
+They are doing something here. two women are chatting on a brown bench
+full_caption: 0.1959156095981598
+random_caption: 0.12231135368347168
+../photobook_coco_images/images/COCO_train2014_000000096222.jpg full greater than random: 6
+../photobook_coco_images/images/COCO_train2014_000000096222.jpg random greater than full: 4
+../photobook_coco_images/images/COCO_train2014_000000195449.jpg
+They are doing something here. a woman stands in front of stainless steel refrigerators holding a sign
+full_caption: 0.2288864403963089
+random_caption: 0.1157146468758583
+They are doing something here. A woman painting flowers on a red umbrella.
+full_caption: 0.2288864403963089
+random_caption: 0.1871984899044037
+They are doing something here. A dog inside a stuffed hot dog bun on a man's lap.
+full_caption: 0.2288864403963089
+random_caption: 0.27602314949035645
+They are doing something here. A young woman sitting at a table in front of a piece of pizza.
+full_caption: 0.2288864403963089
+random_caption: 0.1577433943748474
+They are doing something here. 2 children look at magnetic letters on a refrigerator
+full_caption: 0.2288864403963089
+random_caption: 0.10268249362707138
+They are doing something here. Children laying in a booth at a restaurant
+full_caption: 0.2288864403963089
+random_caption: 0.12048400193452835
+They are doing something here. A man is standing beside a parking meter, writing on his hand.
+full_caption: 0.2288864403963089
+random_caption: 0.20185218751430511
+They are doing something here. A lady holding a bottle of ketchup and a dog in a hot dog bun costume.
+full_caption: 0.2288864403963089
+random_caption: 0.24764758348464966
+They are doing something here. A baby sits in a suitcase in front of a book shelf
+full_caption: 0.2288864403963089
+random_caption: 0.16291460394859314
+They are doing something here. An infant sits next to a stuffed teddy bear toy.
+full_caption: 0.2288864403963089
+random_caption: 0.2176891565322876
+../photobook_coco_images/images/COCO_train2014_000000195449.jpg full greater than random: 8
+../photobook_coco_images/images/COCO_train2014_000000195449.jpg random greater than full: 2
+../photobook_coco_images/images/COCO_train2014_000000195449.jpg
+They are doing something here. A man standing over a cake with candles.
+full_caption: 0.2288864403963089
+random_caption: 0.12065722793340683
+They are doing something here. A man and woman pause with their bikes beside a train.
+full_caption: 0.2288864403963089
+random_caption: 0.2211962789297104
+They are doing something here. A cake with a missing slice on a floral plate, two bowls of fruit and a hand of bananas.
+full_caption: 0.2288864403963089
+random_caption: 0.1663549691438675
+They are doing something here. A large stack of brownies at a market.
+full_caption: 0.2288864403963089
+random_caption: 0.17393758893013
+They are doing something here. A soldier cuts a large American military-themed cake.
+full_caption: 0.2288864403963089
+random_caption: 0.12958672642707825
+They are doing something here. A young boy eating a hot dog over a paper plate.
+full_caption: 0.2288864403963089
+random_caption: 0.17815276980400085
+They are doing something here. 2 children look at magnetic letters on a refrigerator
+full_caption: 0.2288864403963089
+random_caption: 0.10268249362707138
+They are doing something here. A person is getting ready to cut a white cake.
+full_caption: 0.2288864403963089
+random_caption: 0.18951477110385895
+They are doing something here. A wallet, laptop, cellphone, cups and bottles of water sitting on a table.
+full_caption: 0.2288864403963089
+random_caption: 0.1643514186143875
+They are doing something here. A banana and a strawberry is sitting on an open laptop keyboard.
+full_caption: 0.2288864403963089
+random_caption: 0.17489880323410034
+../photobook_coco_images/images/COCO_train2014_000000195449.jpg full greater than random: 10
+../photobook_coco_images/images/COCO_train2014_000000195449.jpg random greater than full: 0
+../photobook_coco_images/images/COCO_train2014_000000134599.jpg
+They are doing something here. A banana and a strawberry is sitting on an open laptop keyboard.
+full_caption: 0.20580479502677917
+random_caption: 0.17884929478168488
+They are doing something here. A person in a yellow shirt about to ketchup the dog in a hot dog costume.
+full_caption: 0.20580479502677917
+random_caption: 0.23283244669437408
+They are doing something here. Children laying in a booth at a restaurant
+full_caption: 0.20580479502677917
+random_caption: 0.17303714156150818
+They are doing something here. A man in a helmet observes his reflection in a motorcycle side mirror.
+full_caption: 0.20580479502677917
+random_caption: 0.17007718980312347
+They are doing something here. A man laying on the floor near a suitcase.
+full_caption: 0.20580479502677917
+random_caption: 0.17783258855342865
+They are doing something here. Two males in scuba gear on a boat.
+full_caption: 0.20580479502677917
+random_caption: 0.13917674124240875
+They are doing something here. A young woman sitting in a restaurant with a pizza and soda in front of her.
+full_caption: 0.20580479502677917
+random_caption: 0.18038201332092285
+They are doing something here. a man and woman standing next to a bike next to a subtrain
+full_caption: 0.20580479502677917
+random_caption: 0.1299927979707718
+They are doing something here. A woman with a wooden pizza board is near a huge oven.
+full_caption: 0.20580479502677917
+random_caption: 0.2299533486366272
+They are doing something here. A man is standing beside a parking meter, writing on his hand.
+full_caption: 0.20580479502677917
+random_caption: 0.14555765688419342
+../photobook_coco_images/images/COCO_train2014_000000134599.jpg full greater than random: 8
+../photobook_coco_images/images/COCO_train2014_000000134599.jpg random greater than full: 2
+../photobook_coco_images/images/COCO_train2014_000000420523.jpg
+They are doing something here. 2 children look at magnetic letters on a refrigerator
+full_caption: 0.21377119421958923
+random_caption: 0.13513226807117462
+They are doing something here. A young woman sits at a cafe table with a piece of pizza and a beverage.
+full_caption: 0.21377119421958923
+random_caption: 0.18220464885234833
+They are doing something here. A wallet, laptop, cellphone, cups and bottles of water sitting on a table.
+full_caption: 0.21377119421958923
+random_caption: 0.20690307021141052
+They are doing something here. An infant and a teddy beat sitting up next to each other.
+full_caption: 0.21377119421958923
+random_caption: 0.1616959124803543
+They are doing something here. Two young boys playing with letter magnets on the front of a refrigerator.
+full_caption: 0.21377119421958923
+random_caption: 0.14649827778339386
+They are doing something here. a person on a motorcycle and a dog
+full_caption: 0.21377119421958923
+random_caption: 0.14229154586791992
+They are doing something here. A person holds a Wii-mote while a dog sleeps in their lap.
+full_caption: 0.21377119421958923
+random_caption: 0.15279094874858856
+They are doing something here. a man in a brown shirt is holding two large stuffed teddy bears
+full_caption: 0.21377119421958923
+random_caption: 0.10712362080812454
+They are doing something here. A woman holds a hot dog with toppings while sitting on a bench.
+full_caption: 0.21377119421958923
+random_caption: 0.17825773358345032
+They are doing something here. The two friends are playing a game on the Wii console.
+full_caption: 0.21377119421958923
+random_caption: 0.19217713177204132
+../photobook_coco_images/images/COCO_train2014_000000420523.jpg full greater than random: 10
+../photobook_coco_images/images/COCO_train2014_000000420523.jpg random greater than full: 0
+../photobook_coco_images/images/COCO_train2014_000000488127.jpg
+They are doing something here. A gray cat laying on top of a laptop computer.
+full_caption: 0.18412353098392487
+random_caption: 0.07850709557533264
+They are doing something here. Two children are playing with letter magnets on a refrigerator.
+full_caption: 0.18412353098392487
+random_caption: 0.11788997054100037
+They are doing something here. A dog with a wine glass being held to its face.
+full_caption: 0.18412353098392487
+random_caption: 0.10090173780918121
+They are doing something here. A man in a suit and tie holding an umbrella in an alley filled with them.
+full_caption: 0.18412353098392487
+random_caption: 0.16896621882915497
+They are doing something here. A lady holding a bottle of ketchup and a dog in a hot dog bun costume.
+full_caption: 0.18412353098392487
+random_caption: 0.1032305508852005
+They are doing something here. A young woman in glasses is holding a hot dog.
+full_caption: 0.18412353098392487
+random_caption: 0.1750352829694748
+They are doing something here. Soldiers hold a refrigerator open to show a woman what's inside.
+full_caption: 0.18412353098392487
+random_caption: 0.23464417457580566
+They are doing something here. A woman is painting designs on an umbrella.
+full_caption: 0.18412353098392487
+random_caption: 0.14693640172481537
+They are doing something here. Children laying in a booth at a restaurant
+full_caption: 0.18412353098392487
+random_caption: 0.11551617830991745
+They are doing something here. The woman is showing the toppings on her hotdog.
+full_caption: 0.18412353098392487
+random_caption: 0.1659362018108368
+../photobook_coco_images/images/COCO_train2014_000000488127.jpg full greater than random: 9
+../photobook_coco_images/images/COCO_train2014_000000488127.jpg random greater than full: 1
+../photobook_coco_images/images/COCO_train2014_000000160471.jpg
+They are doing something here. Two elderly women speak to each other on a bench.
+full_caption: 0.21017064154148102
+random_caption: 0.12250150740146637
+They are doing something here. A young woman sitting in a restaurant with a pizza and soda in front of her.
+full_caption: 0.21017064154148102
+random_caption: 0.17342595756053925
+They are doing something here. A hot dog covered in toppings sitting next to beer.
+full_caption: 0.21017064154148102
+random_caption: 0.1982075572013855
+They are doing something here. a gray and white cat is laying on top of a laptop
+full_caption: 0.21017064154148102
+random_caption: 0.2053581029176712
+They are doing something here. A banana and strawberry on the keyboard of a laptop.
+full_caption: 0.21017064154148102
+random_caption: 0.2125122994184494
+They are doing something here. A person in a yellow shirt about to ketchup the dog in a hot dog costume.
+full_caption: 0.21017064154148102
+random_caption: 0.21851617097854614
+They are doing something here. A woman with a wooden pizza board is near a huge oven.
+full_caption: 0.21017064154148102
+random_caption: 0.20932993292808533
+They are doing something here. A man doing a handstand trick on a skateboard near the beach and next to a group of parked bicycles.
+full_caption: 0.21017064154148102
+random_caption: 0.17969723045825958
+They are doing something here. Two men sit on a boat and prepare to scuba dive.
+full_caption: 0.21017064154148102
+random_caption: 0.20318269729614258
+They are doing something here. Two movers with their open moving van, which is parked on a city street.
+full_caption: 0.21017064154148102
+random_caption: 0.19920974969863892
+../photobook_coco_images/images/COCO_train2014_000000160471.jpg full greater than random: 8
+../photobook_coco_images/images/COCO_train2014_000000160471.jpg random greater than full: 2
+../photobook_coco_images/images/COCO_train2014_000000481931.jpg
+They are doing something here. A motorcyclist with helmet and neon vest taking a photograph in side mirror
+full_caption: 0.2017640322446823
+random_caption: 0.09343499690294266
+They are doing something here. A person with a yellow lab on a moped ridding down the street.
+full_caption: 0.2017640322446823
+random_caption: 0.06419692188501358
+They are doing something here. A guy in a military uniform cutting a big cake.
+full_caption: 0.2017640322446823
+random_caption: 0.3008899688720703
+They are doing something here. A man in grey sweater on floor next to a suitcase.
+full_caption: 0.2017640322446823
+random_caption: 0.19849202036857605
+They are doing something here. two children laying on restaurant booth seats 
+full_caption: 0.2017640322446823
+random_caption: 0.13907289505004883
+They are doing something here. A large white cake sitting on top of a table.
+full_caption: 0.2017640322446823
+random_caption: 0.23625795543193817
+They are doing something here. The woman is standing above the two packed suitcases.
+full_caption: 0.2017640322446823
+random_caption: 0.19102327525615692
+They are doing something here. A banana and a strawberry sitting on a lap top computer.
+full_caption: 0.2017640322446823
+random_caption: 0.14752399921417236
+They are doing something here. A young woman sits at a cafe table with a piece of pizza and a beverage.
+full_caption: 0.2017640322446823
+random_caption: 0.1345314383506775
+They are doing something here. A pug dog lying on a persons lap who's holding a remote controller.
+full_caption: 0.2017640322446823
+random_caption: 0.09610788524150848
+../photobook_coco_images/images/COCO_train2014_000000481931.jpg full greater than random: 8
+../photobook_coco_images/images/COCO_train2014_000000481931.jpg random greater than full: 2
+../photobook_coco_images/images/COCO_train2014_000000420523.jpg
+They are doing something here. 2 children look at magnetic letters on a refrigerator
+full_caption: 0.21377119421958923
+random_caption: 0.13513226807117462
+They are doing something here. A dog inside a stuffed hot dog bun on a man's lap.
+full_caption: 0.21377119421958923
+random_caption: 0.1359165906906128
+They are doing something here. A wallet, laptop, cellphone, cups and bottles of water sitting on a table.
+full_caption: 0.21377119421958923
+random_caption: 0.20690307021141052
+They are doing something here. A man is carrying two extra large teddy bears.
+full_caption: 0.21377119421958923
+random_caption: 0.14596067368984222
+They are doing something here. The two friends are playing a game on the Wii console.
+full_caption: 0.21377119421958923
+random_caption: 0.19217713177204132
+They are doing something here. A man in camouflage is shaking hands with a man in a suit in front of some trucks.
+full_caption: 0.21377119421958923
+random_caption: 0.15942798554897308
+They are doing something here. a person on a motorcycle and a dog
+full_caption: 0.21377119421958923
+random_caption: 0.14229154586791992
+They are doing something here. Without paper handy, a man writes a reminder about the parking meter on his palm.
+full_caption: 0.21377119421958923
+random_caption: 0.16281086206436157
+They are doing something here. A man is laying on the floor of a hotel room next to an open suitcase.
+full_caption: 0.21377119421958923
+random_caption: 0.17119809985160828
+They are doing something here. A man riding on the back of a motorcycle with a large brown dog.
+full_caption: 0.21377119421958923
+random_caption: 0.1008453443646431
+../photobook_coco_images/images/COCO_train2014_000000420523.jpg full greater than random: 10
+../photobook_coco_images/images/COCO_train2014_000000420523.jpg random greater than full: 0
+../photobook_coco_images/images/COCO_train2014_000000522288.jpg
+They are doing something here. A hot dog covered in toppings sitting next to beer.
+full_caption: 0.19043506681919098
+random_caption: 0.20444513857364655
+They are doing something here. A man posing with a birthday cake in a kitchen.
+full_caption: 0.19043506681919098
+random_caption: 0.17565038800239563
+They are doing something here. A tin cup of noodles in water sitting in front of a computer.
+full_caption: 0.19043506681919098
+random_caption: 0.17220909893512726
+They are doing something here. Soldiers hold a refrigerator open to show a woman what's inside.
+full_caption: 0.19043506681919098
+random_caption: 0.12312496453523636
+They are doing something here. a woman stands in front of stainless steel refrigerators holding a sign
+full_caption: 0.19043506681919098
+random_caption: 0.12243295460939407
+They are doing something here. The woman is showing the toppings on her hotdog.
+full_caption: 0.19043506681919098
+random_caption: 0.18523162603378296
+They are doing something here. A man and woman pause with their bikes beside a train.
+full_caption: 0.19043506681919098
+random_caption: 0.06427199393510818
+They are doing something here. Woman sitting on a bench holding a hotdog in her hand
+full_caption: 0.19043506681919098
+random_caption: 0.16954617202281952
+They are doing something here. Two men sit on a boat and prepare to scuba dive.
+full_caption: 0.19043506681919098
+random_caption: 0.12986889481544495
+They are doing something here. a man and a woman with bicycles standing next to a train
+full_caption: 0.19043506681919098
+random_caption: 0.08537085354328156
+../photobook_coco_images/images/COCO_train2014_000000522288.jpg full greater than random: 9
+../photobook_coco_images/images/COCO_train2014_000000522288.jpg random greater than full: 1
+../photobook_coco_images/images/COCO_train2014_000000336942.jpg
+They are doing something here. A motorcyclist with helmet and neon vest taking a photograph in side mirror
+full_caption: 0.21237966418266296
+random_caption: 0.16445446014404297
+They are doing something here. A woman sitting on a bench holding a hot dog
+full_caption: 0.21237966418266296
+random_caption: 0.26112130284309387
+They are doing something here. A young woman sitting in a restaurant with a pizza and soda in front of her.
+full_caption: 0.21237966418266296
+random_caption: 0.28217947483062744
+They are doing something here. The woman is standing above the two packed suitcases.
+full_caption: 0.21237966418266296
+random_caption: 0.22341372072696686
+They are doing something here. A young woman in glasses is holding a hot dog.
+full_caption: 0.21237966418266296
+random_caption: 0.24860873818397522
+They are doing something here. A dog with a wine glass being held to its face.
+full_caption: 0.21237966418266296
+random_caption: 0.1902850717306137
+They are doing something here. A banana and strawberry on the keyboard of a laptop.
+full_caption: 0.21237966418266296
+random_caption: 0.1883535087108612
+They are doing something here. A banana and a strawberry sitting on a lap top computer.
+full_caption: 0.21237966418266296
+random_caption: 0.21276213228702545
+They are doing something here. A person with face make up and a multi color umbrella and jacket.
+full_caption: 0.21237966418266296
+random_caption: 0.20138663053512573
+They are doing something here. A young woman sits at a cafe table with a piece of pizza and a beverage.
+full_caption: 0.21237966418266296
+random_caption: 0.27459046244621277
+../photobook_coco_images/images/COCO_train2014_000000336942.jpg full greater than random: 4
+../photobook_coco_images/images/COCO_train2014_000000336942.jpg random greater than full: 6
+../photobook_coco_images/images/COCO_train2014_000000134238.jpg
+They are doing something here. A person holds a Wii-mote while a dog sleeps in their lap.
+full_caption: 0.18175910413265228
+random_caption: 0.1260223537683487
+They are doing something here. A man is laying on the floor of a hotel room next to an open suitcase.
+full_caption: 0.18175910413265228
+random_caption: 0.12389656901359558
+They are doing something here. two women are chatting on a brown bench
+full_caption: 0.18175910413265228
+random_caption: 0.1325468271970749
+They are doing something here. A dog with a wine glass being held to its face.
+full_caption: 0.18175910413265228
+random_caption: 0.10541373491287231
+They are doing something here. Without paper handy, a man writes a reminder about the parking meter on his palm.
+full_caption: 0.18175910413265228
+random_caption: 0.08567410707473755
+They are doing something here. A woman with luggage standing behind her open trunk
+full_caption: 0.18175910413265228
+random_caption: 0.13554774224758148
+They are doing something here. a man and a woman with bicycles standing next to a train
+full_caption: 0.18175910413265228
+random_caption: 0.09883469343185425
+They are doing something here. A person holding a green plastic knife getting ready to cut a white cake.
+full_caption: 0.18175910413265228
+random_caption: 0.1964922547340393
+They are doing something here. Two Navy sailors cutting a large sheet cake.
+full_caption: 0.18175910413265228
+random_caption: 0.17993232607841492
+They are doing something here. A man in grey sweater on floor next to a suitcase.
+full_caption: 0.18175910413265228
+random_caption: 0.13561518490314484
+../photobook_coco_images/images/COCO_train2014_000000134238.jpg full greater than random: 9
+../photobook_coco_images/images/COCO_train2014_000000134238.jpg random greater than full: 1
+../photobook_coco_images/images/COCO_train2014_000000196545.jpg
+They are doing something here. two women are chatting on a brown bench
+full_caption: 0.1957653909921646
+random_caption: 0.26252278685569763
+They are doing something here. A hot dog covered in toppings sitting next to beer.
+full_caption: 0.1957653909921646
+random_caption: 0.3104265332221985
+They are doing something here. A woman standing in front of a metal refrigerator freezer.
+full_caption: 0.1957653909921646
+random_caption: 0.20991472899913788
+They are doing something here. a woman stands in front of stainless steel refrigerators holding a sign
+full_caption: 0.1957653909921646
+random_caption: 0.1854543536901474
+They are doing something here. A man laying on the floor near a suitcase.
+full_caption: 0.1957653909921646
+random_caption: 0.18206404149532318
+They are doing something here. A man riding on the back of a motorcycle with a large brown dog.
+full_caption: 0.1957653909921646
+random_caption: 0.18761658668518066
+They are doing something here. A woman in a dress standing by some motorcycles.
+full_caption: 0.1957653909921646
+random_caption: 0.187306746840477
+They are doing something here. A person with face make up and a multi color umbrella and jacket.
+full_caption: 0.1957653909921646
+random_caption: 0.23122289776802063
+They are doing something here. Children laying in a booth at a restaurant
+full_caption: 0.1957653909921646
+random_caption: 0.18999339640140533
+They are doing something here. A man is carrying two extra large teddy bears.
+full_caption: 0.1957653909921646
+random_caption: 0.17355065047740936
+../photobook_coco_images/images/COCO_train2014_000000196545.jpg full greater than random: 6
+../photobook_coco_images/images/COCO_train2014_000000196545.jpg random greater than full: 4
+../photobook_coco_images/images/COCO_train2014_000000195449.jpg
+They are doing something here. A large stack of brownies at a market.
+full_caption: 0.2288864403963089
+random_caption: 0.17393758893013
+They are doing something here. A baby sits in a suitcase in front of a book shelf
+full_caption: 0.2288864403963089
+random_caption: 0.16291460394859314
+They are doing something here. 2 children look at magnetic letters on a refrigerator
+full_caption: 0.2288864403963089
+random_caption: 0.10268249362707138
+They are doing something here. Girl laying on bed with a stuffed panda posing for the camera.
+full_caption: 0.2288864403963089
+random_caption: 0.15664264559745789
+They are doing something here. A woman with glasses sitting at a table with a slice of pizza in front of her and a soft drink cup.
+full_caption: 0.2288864403963089
+random_caption: 0.13819792866706848
+They are doing something here. A man in a helmet observes his reflection in a motorcycle side mirror.
+full_caption: 0.2288864403963089
+random_caption: 0.27884355187416077
+They are doing something here. a man and woman standing next to a bike next to a subtrain
+full_caption: 0.2288864403963089
+random_caption: 0.2298833280801773
+They are doing something here. A man laying on the floor near a suitcase.
+full_caption: 0.2288864403963089
+random_caption: 0.19965194165706635
+They are doing something here. A dog with a wine glass being held to its face.
+full_caption: 0.2288864403963089
+random_caption: 0.24529999494552612
+They are doing something here. A dog inside a stuffed hot dog bun on a man's lap.
+full_caption: 0.2288864403963089
+random_caption: 0.27602314949035645
+../photobook_coco_images/images/COCO_train2014_000000195449.jpg full greater than random: 6
+../photobook_coco_images/images/COCO_train2014_000000195449.jpg random greater than full: 4
+../photobook_coco_images/images/COCO_train2014_000000184930.jpg
+They are doing something here. A soldier preparing to cut a large cake.
+full_caption: 0.19710199534893036
+random_caption: 0.15667498111724854
+They are doing something here. Two movers with their open moving van, which is parked on a city street.
+full_caption: 0.19710199534893036
+random_caption: 0.16832397878170013
+They are doing something here. A wallet, laptop, cellphone, cups and bottles of water sitting on a table.
+full_caption: 0.19710199534893036
+random_caption: 0.10958068072795868
+They are doing something here. A man riding on the back of a motorcycle with a large brown dog.
+full_caption: 0.19710199534893036
+random_caption: 0.22988362610340118
+They are doing something here. A woman painting flowers on a red umbrella.
+full_caption: 0.19710199534893036
+random_caption: 0.08253587037324905
+They are doing something here. A woman standing next to refrigerators holding a sign.
+full_caption: 0.19710199534893036
+random_caption: 0.1635291874408722
+They are doing something here. A white frosted cake in the middle of a table with someone holding a knife above it.
+full_caption: 0.19710199534893036
+random_caption: 0.1319938600063324
+They are doing something here. A banana and strawberry on the keyboard of a laptop.
+full_caption: 0.19710199534893036
+random_caption: 0.0801655501127243
+They are doing something here. A small white dog being offered a glass of red wine.
+full_caption: 0.19710199534893036
+random_caption: 0.13957087695598602
+They are doing something here. Woman sitting on a bench holding a hotdog in her hand
+full_caption: 0.19710199534893036
+random_caption: 0.11613171547651291
+../photobook_coco_images/images/COCO_train2014_000000184930.jpg full greater than random: 9
+../photobook_coco_images/images/COCO_train2014_000000184930.jpg random greater than full: 1
+../photobook_coco_images/images/COCO_train2014_000000200221.jpg
+They are doing something here. A young woman sitting at a table in front of a piece of pizza.
+full_caption: 0.19130559265613556
+random_caption: 0.18425670266151428
+They are doing something here. 2 children look at magnetic letters on a refrigerator
+full_caption: 0.19130559265613556
+random_caption: 0.24058198928833008
+They are doing something here. a woman stands in front of stainless steel refrigerators holding a sign
+full_caption: 0.19130559265613556
+random_caption: 0.18623952567577362
+They are doing something here. A motorcyclist with helmet and neon vest taking a photograph in side mirror
+full_caption: 0.19130559265613556
+random_caption: 0.14547370374202728
+They are doing something here. A man posing with a birthday cake in a kitchen.
+full_caption: 0.19130559265613556
+random_caption: 0.1705871969461441
+They are doing something here. two children laying on restaurant booth seats 
+full_caption: 0.19130559265613556
+random_caption: 0.21357333660125732
+They are doing something here. Two children lying on the booth seats of a restaurant.
+full_caption: 0.19130559265613556
+random_caption: 0.21443627774715424
+They are doing something here. A banana and a strawberry is sitting on an open laptop keyboard.
+full_caption: 0.19130559265613556
+random_caption: 0.22250713407993317
+They are doing something here. A person holding a green plastic knife getting ready to cut a white cake.
+full_caption: 0.19130559265613556
+random_caption: 0.17481771111488342
+They are doing something here. A young woman sitting in a restaurant with a pizza and soda in front of her.
+full_caption: 0.19130559265613556
+random_caption: 0.15334951877593994
+../photobook_coco_images/images/COCO_train2014_000000200221.jpg full greater than random: 6
+../photobook_coco_images/images/COCO_train2014_000000200221.jpg random greater than full: 4
+../photobook_coco_images/images/COCO_train2014_000000449904.jpg
+They are doing something here. A motorcyclist with helmet and neon vest taking a photograph in side mirror
+full_caption: 0.18912188708782196
+random_caption: 0.18537616729736328
+They are doing something here. An infant sits next to a stuffed teddy bear toy.
+full_caption: 0.18912188708782196
+random_caption: 0.19865721464157104
+They are doing something here. A man in a suit and tie holding an umbrella in an alley filled with them.
+full_caption: 0.18912188708782196
+random_caption: 0.17613908648490906
+They are doing something here. A banana and a strawberry is sitting on an open laptop keyboard.
+full_caption: 0.18912188708782196
+random_caption: 0.19945552945137024
+They are doing something here. A banana and a strawberry sitting on a lap top computer.
+full_caption: 0.18912188708782196
+random_caption: 0.20542889833450317
+They are doing something here. A person holding a green plastic knife getting ready to cut a white cake.
+full_caption: 0.18912188708782196
+random_caption: 0.23677577078342438
+They are doing something here. Two males in scuba gear on a boat.
+full_caption: 0.18912188708782196
+random_caption: 0.11509017646312714
+They are doing something here. A guy in a military uniform cutting a big cake.
+full_caption: 0.18912188708782196
+random_caption: 0.14750990271568298
+They are doing something here. Two Navy sailors cutting a large sheet cake.
+full_caption: 0.18912188708782196
+random_caption: 0.1707669496536255
+They are doing something here. Two children lying on the booth seats of a restaurant.
+full_caption: 0.18912188708782196
+random_caption: 0.2563808560371399
+../photobook_coco_images/images/COCO_train2014_000000449904.jpg full greater than random: 5
+../photobook_coco_images/images/COCO_train2014_000000449904.jpg random greater than full: 5
+../photobook_coco_images/images/COCO_train2014_000000488127.jpg
+They are doing something here. A person with a yellow lab on a moped ridding down the street.
+full_caption: 0.18412353098392487
+random_caption: 0.06992660462856293
+They are doing something here. A young woman sitting in a restaurant with a pizza and soda in front of her.
+full_caption: 0.18412353098392487
+random_caption: 0.08868285268545151
+They are doing something here. A banana and a strawberry is sitting on an open laptop keyboard.
+full_caption: 0.18412353098392487
+random_caption: 0.12677030265331268
+They are doing something here. Soldiers hold a refrigerator open to show a woman what's inside.
+full_caption: 0.18412353098392487
+random_caption: 0.23464417457580566
+They are doing something here. Two children lying on the booth seats of a restaurant.
+full_caption: 0.18412353098392487
+random_caption: 0.13235554099082947
+They are doing something here. A dog inside a stuffed hot dog bun on a man's lap.
+full_caption: 0.18412353098392487
+random_caption: 0.13941892981529236
+They are doing something here. a man and woman standing next to a bike next to a subtrain
+full_caption: 0.18412353098392487
+random_caption: 0.11683310568332672
+They are doing something here. A man posing with a birthday cake in a kitchen.
+full_caption: 0.18412353098392487
+random_caption: 0.25553590059280396
+They are doing something here. A man in camouflage is shaking hands with a man in a suit in front of some trucks.
+full_caption: 0.18412353098392487
+random_caption: 0.24265387654304504
+They are doing something here. a person on a motorcycle and a dog
+full_caption: 0.18412353098392487
+random_caption: 0.12295404076576233
+../photobook_coco_images/images/COCO_train2014_000000488127.jpg full greater than random: 7
+../photobook_coco_images/images/COCO_train2014_000000488127.jpg random greater than full: 3
+../photobook_coco_images/images/COCO_train2014_000000330652.jpg
+They are doing something here. A person with a yellow lab on a moped ridding down the street.
+full_caption: 0.2377873957157135
+random_caption: 0.09812501072883606
+They are doing something here. A person holding a green plastic knife getting ready to cut a white cake.
+full_caption: 0.2377873957157135
+random_caption: 0.09940917044878006
+They are doing something here. Two movers with their open moving van, which is parked on a city street.
+full_caption: 0.2377873957157135
+random_caption: 0.15086309611797333
+They are doing something here. A woman holds a hot dog with toppings while sitting on a bench.
+full_caption: 0.2377873957157135
+random_caption: 0.1799488663673401
+They are doing something here. A lady holding a bottle of ketchup and a dog in a hot dog bun costume.
+full_caption: 0.2377873957157135
+random_caption: 0.15922467410564423
+They are doing something here. A man posing with a birthday cake in a kitchen.
+full_caption: 0.2377873957157135
+random_caption: 0.0979938879609108
+They are doing something here. A young boy eating a hot dog over a paper plate.
+full_caption: 0.2377873957157135
+random_caption: 0.1728861778974533
+They are doing something here. A man and woman pause with their bikes beside a train.
+full_caption: 0.2377873957157135
+random_caption: 0.11266222596168518
+They are doing something here. A cake with a missing slice on a floral plate, two bowls of fruit and a hand of bananas.
+full_caption: 0.2377873957157135
+random_caption: 0.14281392097473145
+They are doing something here. a person on a motorcycle and a dog
+full_caption: 0.2377873957157135
+random_caption: 0.14426474273204803
+../photobook_coco_images/images/COCO_train2014_000000330652.jpg full greater than random: 10
+../photobook_coco_images/images/COCO_train2014_000000330652.jpg random greater than full: 0
+../photobook_coco_images/images/COCO_train2014_000000459209.jpg
+They are doing something here. a man holding two very large teddy bears
+full_caption: 0.23731082677841187
+random_caption: 0.1386355310678482
+They are doing something here. A woman with a tattoo playing the Wii.
+full_caption: 0.23731082677841187
+random_caption: 0.17094454169273376
+They are doing something here. A woman standing next to refrigerators holding a sign.
+full_caption: 0.23731082677841187
+random_caption: 0.21680806577205658
+They are doing something here. A man standing over a cake with candles.
+full_caption: 0.23731082677841187
+random_caption: 0.16211169958114624
+They are doing something here. Without paper handy, a man writes a reminder about the parking meter on his palm.
+full_caption: 0.23731082677841187
+random_caption: 0.18314793705940247
+They are doing something here. A girl with long brown hair with streaks of red lays on a bed and looks at an open laptop computer.
+full_caption: 0.23731082677841187
+random_caption: 0.11124229431152344
+They are doing something here. A young woman sitting in a restaurant with a pizza and soda in front of her.
+full_caption: 0.23731082677841187
+random_caption: 0.08441806584596634
+They are doing something here. A lady holding a bottle of ketchup and a dog in a hot dog bun costume.
+full_caption: 0.23731082677841187
+random_caption: 0.13382373750209808
+They are doing something here. A man in a helmet observes his reflection in a motorcycle side mirror.
+full_caption: 0.23731082677841187
+random_caption: 0.10338611155748367
+They are doing something here. A young woman sits at a cafe table with a piece of pizza and a beverage.
+full_caption: 0.23731082677841187
+random_caption: 0.08126472681760788
+../photobook_coco_images/images/COCO_train2014_000000459209.jpg full greater than random: 10
+../photobook_coco_images/images/COCO_train2014_000000459209.jpg random greater than full: 0
+../photobook_coco_images/images/COCO_train2014_000000034815.jpg
+They are doing something here. Two children are playing with letter magnets on a refrigerator.
+full_caption: 0.18677569925785065
+random_caption: 0.1311069279909134
+They are doing something here. a woman stands in front of stainless steel refrigerators holding a sign
+full_caption: 0.18677569925785065
+random_caption: 0.17189598083496094
+They are doing something here. A banana and a strawboard are on a laptop keyboard.
+full_caption: 0.18677569925785065
+random_caption: 0.15655772387981415
+They are doing something here. A woman painting flowers on a red umbrella.
+full_caption: 0.18677569925785065
+random_caption: 0.1617785096168518
+They are doing something here. A man in grey sweater on floor next to a suitcase.
+full_caption: 0.18677569925785065
+random_caption: 0.18152113258838654
+They are doing something here. two women are chatting on a brown bench
+full_caption: 0.18677569925785065
+random_caption: 0.2321232557296753
+They are doing something here. A man laying on the floor near a suitcase.
+full_caption: 0.18677569925785065
+random_caption: 0.15004295110702515
+They are doing something here. A young boy eating a hot dog over a paper plate.
+full_caption: 0.18677569925785065
+random_caption: 0.11362487077713013
+They are doing something here. A hot dog covered in toppings sitting next to beer.
+full_caption: 0.18677569925785065
+random_caption: 0.13952478766441345
+They are doing something here. A dog riding on a motorcycle with a person
+full_caption: 0.18677569925785065
+random_caption: 0.17980366945266724
+../photobook_coco_images/images/COCO_train2014_000000034815.jpg full greater than random: 9
+../photobook_coco_images/images/COCO_train2014_000000034815.jpg random greater than full: 1
+../photobook_coco_images/images/COCO_train2014_000000449904.jpg
+They are doing something here. A small white dog is poses near a wine glass.
+full_caption: 0.18912188708782196
+random_caption: 0.15522149205207825
+They are doing something here. A veteran cutting a birthday cake that is decorated in red, white, and blue.
+full_caption: 0.18912188708782196
+random_caption: 0.1855892688035965
+They are doing something here. a man holding two very large teddy bears
+full_caption: 0.18912188708782196
+random_caption: 0.17045526206493378
+They are doing something here. The woman is showing the toppings on her hotdog.
+full_caption: 0.18912188708782196
+random_caption: 0.2552041709423065
+They are doing something here. A large white cake sitting on top of a table.
+full_caption: 0.18912188708782196
+random_caption: 0.25650885701179504
+They are doing something here. An infant sits next to a stuffed teddy bear toy.
+full_caption: 0.18912188708782196
+random_caption: 0.19865721464157104
+They are doing something here. A woman with luggage standing behind her open trunk
+full_caption: 0.18912188708782196
+random_caption: 0.1906544268131256
+They are doing something here. a man carrying one brown and one tan stuffed bear standing in front of a car poster
+full_caption: 0.18912188708782196
+random_caption: 0.1587003469467163
+They are doing something here. A woman with a tattoo playing the Wii.
+full_caption: 0.18912188708782196
+random_caption: 0.22196780145168304
+They are doing something here. A man doing a handstand trick on a skateboard near the beach and next to a group of parked bicycles.
+full_caption: 0.18912188708782196
+random_caption: 0.09403445571660995
+../photobook_coco_images/images/COCO_train2014_000000449904.jpg full greater than random: 5
+../photobook_coco_images/images/COCO_train2014_000000449904.jpg random greater than full: 5
+../photobook_coco_images/images/COCO_train2014_000000420523.jpg
+They are doing something here. A red laptop on a desk with various devices plugged in.
+full_caption: 0.21377119421958923
+random_caption: 0.23607808351516724
+They are doing something here. A woman painting flowers on a red umbrella.
+full_caption: 0.21377119421958923
+random_caption: 0.15933381021022797
+They are doing something here. Two men sit on a boat and prepare to scuba dive.
+full_caption: 0.21377119421958923
+random_caption: 0.13633990287780762
+They are doing something here. The woman is standing above the two packed suitcases.
+full_caption: 0.21377119421958923
+random_caption: 0.15731748938560486
+They are doing something here. A baby sits in a suitcase in front of a book shelf
+full_caption: 0.21377119421958923
+random_caption: 0.12603741884231567
+They are doing something here. A man posing with a birthday cake in a kitchen.
+full_caption: 0.21377119421958923
+random_caption: 0.18692216277122498
+They are doing something here. An infant sits next to a stuffed teddy bear toy.
+full_caption: 0.21377119421958923
+random_caption: 0.1372872292995453
+They are doing something here. a person on a motorcycle and a dog
+full_caption: 0.21377119421958923
+random_caption: 0.14229154586791992
+They are doing something here. a man in a brown shirt is holding two large stuffed teddy bears
+full_caption: 0.21377119421958923
+random_caption: 0.10712362080812454
+They are doing something here. A small white dog is poses near a wine glass.
+full_caption: 0.21377119421958923
+random_caption: 0.11659769713878632
+../photobook_coco_images/images/COCO_train2014_000000420523.jpg full greater than random: 9
+../photobook_coco_images/images/COCO_train2014_000000420523.jpg random greater than full: 1
+../photobook_coco_images/images/COCO_train2014_000000560969.jpg
+They are doing something here. two women are chatting on a brown bench
+full_caption: 0.20682485401630402
+random_caption: 0.10623520612716675
+They are doing something here. A woman with a wooden pizza board is near a huge oven.
+full_caption: 0.20682485401630402
+random_caption: 0.20220595598220825
+They are doing something here. two children laying on restaurant booth seats 
+full_caption: 0.20682485401630402
+random_caption: 0.19430924952030182
+They are doing something here. 2 children look at magnetic letters on a refrigerator
+full_caption: 0.20682485401630402
+random_caption: 0.16380318999290466
+They are doing something here. A guy in a military uniform cutting a big cake.
+full_caption: 0.20682485401630402
+random_caption: 0.19618147611618042
+They are doing something here. Two children lying on the booth seats of a restaurant.
+full_caption: 0.20682485401630402
+random_caption: 0.19893841445446014
+They are doing something here. A wallet, laptop, cellphone, cups and bottles of water sitting on a table.
+full_caption: 0.20682485401630402
+random_caption: 0.16413016617298126
+They are doing something here. Two small children playing with their refrigerator magnets.
+full_caption: 0.20682485401630402
+random_caption: 0.19030076265335083
+They are doing something here. A woman holds a hot dog with toppings while sitting on a bench.
+full_caption: 0.20682485401630402
+random_caption: 0.22109438478946686
+They are doing something here. A woman standing next to refrigerators holding a sign.
+full_caption: 0.20682485401630402
+random_caption: 0.07697475701570511
+../photobook_coco_images/images/COCO_train2014_000000560969.jpg full greater than random: 9
+../photobook_coco_images/images/COCO_train2014_000000560969.jpg random greater than full: 1
+../photobook_coco_images/images/COCO_train2014_000000420523.jpg
+They are doing something here. A cake with a missing slice on a floral plate, two bowls of fruit and a hand of bananas.
+full_caption: 0.21377119421958923
+random_caption: 0.3104141354560852
+They are doing something here. A man is standing beside a parking meter, writing on his hand.
+full_caption: 0.21377119421958923
+random_caption: 0.10228436440229416
+They are doing something here. A large white cake sitting on top of a table.
+full_caption: 0.21377119421958923
+random_caption: 0.2620682418346405
+They are doing something here. A person holds a Wii-mote while a dog sleeps in their lap.
+full_caption: 0.21377119421958923
+random_caption: 0.15279094874858856
+They are doing something here. two women are chatting on a brown bench
+full_caption: 0.21377119421958923
+random_caption: 0.17575612664222717
+They are doing something here. A man laying on the floor near a suitcase.
+full_caption: 0.21377119421958923
+random_caption: 0.15751206874847412
+They are doing something here. A person with face make up and a multi color umbrella and jacket.
+full_caption: 0.21377119421958923
+random_caption: 0.13779714703559875
+They are doing something here. a woman stands in front of stainless steel refrigerators holding a sign
+full_caption: 0.21377119421958923
+random_caption: 0.1063304916024208
+They are doing something here. A man carrying two large teddy bears while looking to his left.
+full_caption: 0.21377119421958923
+random_caption: 0.13560982048511505
+They are doing something here. a person on a motorcycle and a dog
+full_caption: 0.21377119421958923
+random_caption: 0.14229154586791992
+../photobook_coco_images/images/COCO_train2014_000000420523.jpg full greater than random: 8
+../photobook_coco_images/images/COCO_train2014_000000420523.jpg random greater than full: 2
+../photobook_coco_images/images/COCO_train2014_000000340923.jpg
+They are doing something here. A banana and a strawboard are on a laptop keyboard.
+full_caption: 0.19383738934993744
+random_caption: 0.1328776627779007
+They are doing something here. A wallet, laptop, cellphone, cups and bottles of water sitting on a table.
+full_caption: 0.19383738934993744
+random_caption: 0.12567436695098877
+They are doing something here. 2 children look at magnetic letters on a refrigerator
+full_caption: 0.19383738934993744
+random_caption: 0.1594330221414566
+They are doing something here. a woman stands in front of stainless steel refrigerators holding a sign
+full_caption: 0.19383738934993744
+random_caption: 0.12161305546760559
+They are doing something here. Two children lying on the booth seats of a restaurant.
+full_caption: 0.19383738934993744
+random_caption: 0.1955285221338272
+They are doing something here. A dog with a wine glass being held to its face.
+full_caption: 0.19383738934993744
+random_caption: 0.1596456915140152
+They are doing something here. A young woman sitting in a restaurant with a pizza and soda in front of her.
+full_caption: 0.19383738934993744
+random_caption: 0.15954965353012085
+They are doing something here. A man standing over a cake with candles.
+full_caption: 0.19383738934993744
+random_caption: 0.11617663502693176
+They are doing something here. Two males in scuba gear on a boat.
+full_caption: 0.19383738934993744
+random_caption: 0.10938549786806107
+They are doing something here. A person with a yellow lab on a moped ridding down the street.
+full_caption: 0.19383738934993744
+random_caption: 0.12548747658729553
+../photobook_coco_images/images/COCO_train2014_000000340923.jpg full greater than random: 9
+../photobook_coco_images/images/COCO_train2014_000000340923.jpg random greater than full: 1
+../photobook_coco_images/images/COCO_train2014_000000330652.jpg
+They are doing something here. A man standing over a cake with candles.
+full_caption: 0.2377873957157135
+random_caption: 0.09735270589590073
+They are doing something here. 2 children look at magnetic letters on a refrigerator
+full_caption: 0.2377873957157135
+random_caption: 0.19543741643428802
+They are doing something here. A young woman sitting in a restaurant with a pizza and soda in front of her.
+full_caption: 0.2377873957157135
+random_caption: 0.2064666748046875
+They are doing something here. A man is carrying two extra large teddy bears.
+full_caption: 0.2377873957157135
+random_caption: 0.16412195563316345
+They are doing something here. A baby sits in a suitcase in front of a book shelf
+full_caption: 0.2377873957157135
+random_caption: 0.1394806057214737
+They are doing something here. A dog riding on a scooter with someone.
+full_caption: 0.2377873957157135
+random_caption: 0.10305025428533554
+They are doing something here. A cake with a missing slice on a floral plate, two bowls of fruit and a hand of bananas.
+full_caption: 0.2377873957157135
+random_caption: 0.14281392097473145
+They are doing something here. Soldiers hold a refrigerator open to show a woman what's inside.
+full_caption: 0.2377873957157135
+random_caption: 0.15431970357894897
+They are doing something here. A woman standing next to refrigerators holding a sign.
+full_caption: 0.2377873957157135
+random_caption: 0.10402607172727585
+They are doing something here. Woman sitting on a bench holding a hotdog in her hand
+full_caption: 0.2377873957157135
+random_caption: 0.18153265118598938
+../photobook_coco_images/images/COCO_train2014_000000330652.jpg full greater than random: 10
+../photobook_coco_images/images/COCO_train2014_000000330652.jpg random greater than full: 0
+../photobook_coco_images/images/COCO_train2014_000000195449.jpg
+They are doing something here. A person in a yellow shirt about to ketchup the dog in a hot dog costume.
+full_caption: 0.2288864403963089
+random_caption: 0.26159951090812683
+They are doing something here. A man laying on the floor near a suitcase.
+full_caption: 0.2288864403963089
+random_caption: 0.19965194165706635
+They are doing something here. A woman with a wooden pizza board is near a huge oven.
+full_caption: 0.2288864403963089
+random_caption: 0.20520339906215668
+They are doing something here. a man in a brown shirt is holding two large stuffed teddy bears
+full_caption: 0.2288864403963089
+random_caption: 0.23921920359134674
+They are doing something here. A small white dog being offered a glass of red wine.
+full_caption: 0.2288864403963089
+random_caption: 0.22574560344219208
+They are doing something here. A person is getting ready to cut a white cake.
+full_caption: 0.2288864403963089
+random_caption: 0.18951477110385895
+They are doing something here. A baby sits in a suitcase in front of a book shelf
+full_caption: 0.2288864403963089
+random_caption: 0.16291460394859314
+They are doing something here. A dog with a wine glass being held to its face.
+full_caption: 0.2288864403963089
+random_caption: 0.24529999494552612
+They are doing something here. A woman holds a hot dog with toppings while sitting on a bench.
+full_caption: 0.2288864403963089
+random_caption: 0.20878644287586212
+They are doing something here. two women are chatting on a brown bench
+full_caption: 0.2288864403963089
+random_caption: 0.19059962034225464
+../photobook_coco_images/images/COCO_train2014_000000195449.jpg full greater than random: 7
+../photobook_coco_images/images/COCO_train2014_000000195449.jpg random greater than full: 3
+../photobook_coco_images/images/COCO_train2014_000000034815.jpg
+They are doing something here. a woman stands in front of stainless steel refrigerators holding a sign
+full_caption: 0.18677569925785065
+random_caption: 0.17189598083496094
+They are doing something here. A woman with glasses sitting at a table with a slice of pizza in front of her and a soft drink cup.
+full_caption: 0.18677569925785065
+random_caption: 0.14806431531906128
+They are doing something here. A person with face make up and a multi color umbrella and jacket.
+full_caption: 0.18677569925785065
+random_caption: 0.21737287938594818
+They are doing something here. A woman with a wooden pizza board is near a huge oven.
+full_caption: 0.18677569925785065
+random_caption: 0.21849384903907776
+They are doing something here. Two men sit on a boat and prepare to scuba dive.
+full_caption: 0.18677569925785065
+random_caption: 0.16261926293373108
+They are doing something here. A tin cup of noodles in water sitting in front of a computer.
+full_caption: 0.18677569925785065
+random_caption: 0.08785026520490646
+They are doing something here. A small white dog is poses near a wine glass.
+full_caption: 0.18677569925785065
+random_caption: 0.12646152079105377
+They are doing something here. A woman with luggage standing behind her open trunk
+full_caption: 0.18677569925785065
+random_caption: 0.19344426691532135
+They are doing something here. A pug dog lying on a persons lap who's holding a remote controller.
+full_caption: 0.18677569925785065
+random_caption: 0.12343159317970276
+They are doing something here. A large stack of brownies at a market.
+full_caption: 0.18677569925785065
+random_caption: 0.13843725621700287
+../photobook_coco_images/images/COCO_train2014_000000034815.jpg full greater than random: 7
+../photobook_coco_images/images/COCO_train2014_000000034815.jpg random greater than full: 3
+../photobook_coco_images/images/COCO_train2014_000000160471.jpg
+They are doing something here. A man posing with a birthday cake in a kitchen.
+full_caption: 0.21017064154148102
+random_caption: 0.2523905038833618
+They are doing something here. A gray cat laying on top of a laptop computer.
+full_caption: 0.21017064154148102
+random_caption: 0.1936865746974945
+They are doing something here. A red laptop on a desk with various devices plugged in.
+full_caption: 0.21017064154148102
+random_caption: 0.24969539046287537
+They are doing something here. Two children are playing with letter magnets on a refrigerator.
+full_caption: 0.21017064154148102
+random_caption: 0.21055671572685242
+They are doing something here. a man in a brown shirt is holding two large stuffed teddy bears
+full_caption: 0.21017064154148102
+random_caption: 0.25964435935020447
+They are doing something here. 2 children look at magnetic letters on a refrigerator
+full_caption: 0.21017064154148102
+random_caption: 0.17263847589492798
+They are doing something here. a man holding two very large teddy bears
+full_caption: 0.21017064154148102
+random_caption: 0.2416439950466156
+They are doing something here. A man standing over a cake with candles.
+full_caption: 0.21017064154148102
+random_caption: 0.23311668634414673
+They are doing something here. A motorcyclist with helmet and neon vest taking a photograph in side mirror
+full_caption: 0.21017064154148102
+random_caption: 0.18911346793174744
+They are doing something here. Two young boys playing with letter magnets on the front of a refrigerator.
+full_caption: 0.21017064154148102
+random_caption: 0.20626752078533173
+../photobook_coco_images/images/COCO_train2014_000000160471.jpg full greater than random: 4
+../photobook_coco_images/images/COCO_train2014_000000160471.jpg random greater than full: 6
+../photobook_coco_images/images/COCO_train2014_000000034815.jpg
+They are doing something here. A motorcyclist with helmet and neon vest taking a photograph in side mirror
+full_caption: 0.18677569925785065
+random_caption: 0.1994735151529312
+They are doing something here. Girl laying on bed with a stuffed panda posing for the camera.
+full_caption: 0.18677569925785065
+random_caption: 0.11414512991905212
+They are doing something here. A man standing in front of a cake on a table.
+full_caption: 0.18677569925785065
+random_caption: 0.1598230004310608
+They are doing something here. Without paper handy, a man writes a reminder about the parking meter on his palm.
+full_caption: 0.18677569925785065
+random_caption: 0.18985828757286072
+They are doing something here. A woman in a white dress is sitting with her cell phone.
+full_caption: 0.18677569925785065
+random_caption: 0.19243113696575165
+They are doing something here. A cake with a missing slice on a floral plate, two bowls of fruit and a hand of bananas.
+full_caption: 0.18677569925785065
+random_caption: 0.1436741054058075
+They are doing something here. two women are chatting on a brown bench
+full_caption: 0.18677569925785065
+random_caption: 0.2321232557296753
+They are doing something here. A woman with glasses sitting at a table with a slice of pizza in front of her and a soft drink cup.
+full_caption: 0.18677569925785065
+random_caption: 0.14806431531906128
+They are doing something here. Woman sitting on a bench holding a hotdog in her hand
+full_caption: 0.18677569925785065
+random_caption: 0.18570759892463684
+They are doing something here. A wallet, laptop, cellphone, cups and bottles of water sitting on a table.
+full_caption: 0.18677569925785065
+random_caption: 0.15281185507774353
+../photobook_coco_images/images/COCO_train2014_000000034815.jpg full greater than random: 6
+../photobook_coco_images/images/COCO_train2014_000000034815.jpg random greater than full: 4
+../photobook_coco_images/images/COCO_train2014_000000335696.jpg
+They are doing something here. A man carrying two large teddy bears while looking to his left.
+full_caption: 0.20596714317798615
+random_caption: 0.1711462438106537
+They are doing something here. A woman is painting designs on an umbrella.
+full_caption: 0.20596714317798615
+random_caption: 0.24076902866363525
+They are doing something here. An infant and a teddy beat sitting up next to each other.
+full_caption: 0.20596714317798615
+random_caption: 0.22533656656742096
+They are doing something here. Soldiers hold a refrigerator open to show a woman what's inside.
+full_caption: 0.20596714317798615
+random_caption: 0.16799242794513702
+They are doing something here. A woman painting flowers on a red umbrella.
+full_caption: 0.20596714317798615
+random_caption: 0.2446686178445816
+They are doing something here. A dog riding on a motorcycle with a person
+full_caption: 0.20596714317798615
+random_caption: 0.16044263541698456
+They are doing something here. Two children lying on the booth seats of a restaurant.
+full_caption: 0.20596714317798615
+random_caption: 0.2084522396326065
+They are doing something here. A man riding on the back of a motorcycle with a large brown dog.
+full_caption: 0.20596714317798615
+random_caption: 0.11261404305696487
+They are doing something here. Two movers with their open moving van, which is parked on a city street.
+full_caption: 0.20596714317798615
+random_caption: 0.1899014711380005
+They are doing something here. An infant sits next to a stuffed teddy bear toy.
+full_caption: 0.20596714317798615
+random_caption: 0.187139630317688
+../photobook_coco_images/images/COCO_train2014_000000335696.jpg full greater than random: 6
+../photobook_coco_images/images/COCO_train2014_000000335696.jpg random greater than full: 4
+../photobook_coco_images/images/COCO_train2014_000000040338.jpg
+They are doing something here. A dog riding on a motorcycle with a person
+full_caption: 0.1941472291946411
+random_caption: 0.08053130656480789
+They are doing something here. Two children are playing with letter magnets on a refrigerator.
+full_caption: 0.1941472291946411
+random_caption: 0.20620650053024292
+They are doing something here. A man in grey sweater on floor next to a suitcase.
+full_caption: 0.1941472291946411
+random_caption: 0.16524679958820343
+They are doing something here. a gray and white cat is laying on top of a laptop
+full_caption: 0.1941472291946411
+random_caption: 0.07495324313640594
+They are doing something here. A woman painting flowers on a red umbrella.
+full_caption: 0.1941472291946411
+random_caption: 0.1568598598241806
+They are doing something here. Two Navy sailors cutting a large sheet cake.
+full_caption: 0.1941472291946411
+random_caption: 0.2624584138393402
+They are doing something here. A young woman in glasses is holding a hot dog.
+full_caption: 0.1941472291946411
+random_caption: 0.20847754180431366
+They are doing something here. A small white dog is poses near a wine glass.
+full_caption: 0.1941472291946411
+random_caption: 0.08669865876436234
+They are doing something here. A woman with luggage standing behind her open trunk
+full_caption: 0.1941472291946411
+random_caption: 0.19991429150104523
+They are doing something here. two children laying on restaurant booth seats 
+full_caption: 0.1941472291946411
+random_caption: 0.160608172416687
+../photobook_coco_images/images/COCO_train2014_000000040338.jpg full greater than random: 6
+../photobook_coco_images/images/COCO_train2014_000000040338.jpg random greater than full: 4
+../photobook_coco_images/images/COCO_train2014_000000394151.jpg
+They are doing something here. A veteran cutting a birthday cake that is decorated in red, white, and blue.
+full_caption: 0.18583762645721436
+random_caption: 0.15070146322250366
+They are doing something here. A small white dog is poses near a wine glass.
+full_caption: 0.18583762645721436
+random_caption: 0.14428463578224182
+They are doing something here. A young boy eating a hot dog over a paper plate.
+full_caption: 0.18583762645721436
+random_caption: 0.11117316037416458
+They are doing something here. 2 children look at magnetic letters on a refrigerator
+full_caption: 0.18583762645721436
+random_caption: 0.14417555928230286
+They are doing something here. Two children are playing with letter magnets on a refrigerator.
+full_caption: 0.18583762645721436
+random_caption: 0.15918782353401184
+They are doing something here. Soldiers hold a refrigerator open to show a woman what's inside.
+full_caption: 0.18583762645721436
+random_caption: 0.19986626505851746
+They are doing something here. A guy in a military uniform cutting a big cake.
+full_caption: 0.18583762645721436
+random_caption: 0.12092771381139755
+They are doing something here. The woman is showing the toppings on her hotdog.
+full_caption: 0.18583762645721436
+random_caption: 0.17361797392368317
+They are doing something here. A person is getting ready to cut a white cake.
+full_caption: 0.18583762645721436
+random_caption: 0.18343335390090942
+They are doing something here. A woman standing next to refrigerators holding a sign.
+full_caption: 0.18583762645721436
+random_caption: 0.24736204743385315
+../photobook_coco_images/images/COCO_train2014_000000394151.jpg full greater than random: 8
+../photobook_coco_images/images/COCO_train2014_000000394151.jpg random greater than full: 2
+../photobook_coco_images/images/COCO_train2014_000000459209.jpg
+They are doing something here. A young woman sits at a cafe table with a piece of pizza and a beverage.
+full_caption: 0.23731082677841187
+random_caption: 0.08126472681760788
+They are doing something here. The two friends are playing a game on the Wii console.
+full_caption: 0.23731082677841187
+random_caption: 0.23565012216567993
+They are doing something here. A small white dog being offered a glass of red wine.
+full_caption: 0.23731082677841187
+random_caption: 0.12139182537794113
+They are doing something here. A young woman sitting in a restaurant with a pizza and soda in front of her.
+full_caption: 0.23731082677841187
+random_caption: 0.08441806584596634
+They are doing something here. A veteran cutting a birthday cake that is decorated in red, white, and blue.
+full_caption: 0.23731082677841187
+random_caption: 0.18073372542858124
+They are doing something here. A man riding on the back of a motorcycle with a large brown dog.
+full_caption: 0.23731082677841187
+random_caption: 0.06795831024646759
+They are doing something here. A man and woman pause with their bikes beside a train.
+full_caption: 0.23731082677841187
+random_caption: 0.12655594944953918
+They are doing something here. a man carrying one brown and one tan stuffed bear standing in front of a car poster
+full_caption: 0.23731082677841187
+random_caption: 0.11593236774206161
+They are doing something here. A man is standing beside a parking meter, writing on his hand.
+full_caption: 0.23731082677841187
+random_caption: 0.12662242352962494
+They are doing something here. A dog riding on a motorcycle with a person
+full_caption: 0.23731082677841187
+random_caption: 0.1297869086265564
+../photobook_coco_images/images/COCO_train2014_000000459209.jpg full greater than random: 10
+../photobook_coco_images/images/COCO_train2014_000000459209.jpg random greater than full: 0
+../photobook_coco_images/images/COCO_train2014_000000145499.jpg
+They are doing something here. A man laying on the floor near a suitcase.
+full_caption: 0.21566343307495117
+random_caption: 0.22610114514827728
+They are doing something here. An infant and a teddy beat sitting up next to each other.
+full_caption: 0.21566343307495117
+random_caption: 0.2784677743911743
+They are doing something here. A baby sits in a suitcase in front of a book shelf
+full_caption: 0.21566343307495117
+random_caption: 0.23518060147762299
+They are doing something here. a man carrying one brown and one tan stuffed bear standing in front of a car poster
+full_caption: 0.21566343307495117
+random_caption: 0.22321605682373047
+They are doing something here. A man is standing beside a parking meter, writing on his hand.
+full_caption: 0.21566343307495117
+random_caption: 0.14480507373809814
+They are doing something here. A soldier cuts a large American military-themed cake.
+full_caption: 0.21566343307495117
+random_caption: 0.23175090551376343
+They are doing something here. A man carrying two large teddy bears while looking to his left.
+full_caption: 0.21566343307495117
+random_caption: 0.24168679118156433
+They are doing something here. Two movers with their open moving van, which is parked on a city street.
+full_caption: 0.21566343307495117
+random_caption: 0.17623259127140045
+They are doing something here. A person holding a green plastic knife getting ready to cut a white cake.
+full_caption: 0.21566343307495117
+random_caption: 0.22875908017158508
+They are doing something here. two children laying on restaurant booth seats 
+full_caption: 0.21566343307495117
+random_caption: 0.23666328191757202
+../photobook_coco_images/images/COCO_train2014_000000145499.jpg full greater than random: 2
+../photobook_coco_images/images/COCO_train2014_000000145499.jpg random greater than full: 8
+../photobook_coco_images/images/COCO_train2014_000000184930.jpg
+They are doing something here. Two children are playing with letter magnets on a refrigerator.
+full_caption: 0.19710199534893036
+random_caption: 0.168008953332901
+They are doing something here. A man is standing beside a parking meter, writing on his hand.
+full_caption: 0.19710199534893036
+random_caption: 0.15410871803760529
+They are doing something here. A banana and a strawboard are on a laptop keyboard.
+full_caption: 0.19710199534893036
+random_caption: 0.13057975471019745
+They are doing something here. Two Navy sailors cutting a large sheet cake.
+full_caption: 0.19710199534893036
+random_caption: 0.14110293984413147
+They are doing something here. A guy in a military uniform cutting a big cake.
+full_caption: 0.19710199534893036
+random_caption: 0.14591628313064575
+They are doing something here. A veteran cutting a birthday cake that is decorated in red, white, and blue.
+full_caption: 0.19710199534893036
+random_caption: 0.15025490522384644
+They are doing something here. A woman standing in front of a metal refrigerator freezer.
+full_caption: 0.19710199534893036
+random_caption: 0.1591767817735672
+They are doing something here. A woman with a wooden pizza board is near a huge oven.
+full_caption: 0.19710199534893036
+random_caption: 0.14182215929031372
+They are doing something here. A person in a yellow shirt about to ketchup the dog in a hot dog costume.
+full_caption: 0.19710199534893036
+random_caption: 0.19085413217544556
+They are doing something here. A young woman in glasses is holding a hot dog.
+full_caption: 0.19710199534893036
+random_caption: 0.1278560310602188
+../photobook_coco_images/images/COCO_train2014_000000184930.jpg full greater than random: 10
+../photobook_coco_images/images/COCO_train2014_000000184930.jpg random greater than full: 0
+../photobook_coco_images/images/COCO_train2014_000000461183.jpg
+They are doing something here. A banana and strawberry on the keyboard of a laptop.
+full_caption: 0.1840866357088089
+random_caption: 0.11767050623893738
+They are doing something here. A pug dog lying on a persons lap who's holding a remote controller.
+full_caption: 0.1840866357088089
+random_caption: 0.12136886268854141
+They are doing something here. A man in a suit and tie holding an umbrella in an alley filled with them.
+full_caption: 0.1840866357088089
+random_caption: 0.11650646477937698
+They are doing something here. A man carrying two large teddy bears while looking to his left.
+full_caption: 0.1840866357088089
+random_caption: 0.1999519169330597
+They are doing something here. A young woman sits at a cafe table with a piece of pizza and a beverage.
+full_caption: 0.1840866357088089
+random_caption: 0.06590066850185394
+They are doing something here. A soldier preparing to cut a large cake.
+full_caption: 0.1840866357088089
+random_caption: 0.14760787785053253
+They are doing something here. A woman painting flowers on a red umbrella.
+full_caption: 0.1840866357088089
+random_caption: 0.09620289504528046
+They are doing something here. A young woman in glasses is holding a hot dog.
+full_caption: 0.1840866357088089
+random_caption: 0.1128053367137909
+They are doing something here. A woman with a wooden pizza board is near a huge oven.
+full_caption: 0.1840866357088089
+random_caption: 0.11746174842119217
+They are doing something here. Soldiers hold a refrigerator open to show a woman what's inside.
+full_caption: 0.1840866357088089
+random_caption: 0.1729976236820221
+../photobook_coco_images/images/COCO_train2014_000000461183.jpg full greater than random: 9
+../photobook_coco_images/images/COCO_train2014_000000461183.jpg random greater than full: 1
+../photobook_coco_images/images/COCO_train2014_000000344597.jpg
+They are doing something here. A young boy eating a hot dog over a paper plate.
+full_caption: 0.21297530829906464
+random_caption: 0.20044636726379395
+They are doing something here. Two small children playing with their refrigerator magnets.
+full_caption: 0.21297530829906464
+random_caption: 0.18565569818019867
+They are doing something here. A man laying on the floor near a suitcase.
+full_caption: 0.21297530829906464
+random_caption: 0.24192102253437042
+They are doing something here. The woman is showing the toppings on her hotdog.
+full_caption: 0.21297530829906464
+random_caption: 0.20649787783622742
+They are doing something here. a man in a brown shirt is holding two large stuffed teddy bears
+full_caption: 0.21297530829906464
+random_caption: 0.22630666196346283
+They are doing something here. A small white dog being offered a glass of red wine.
+full_caption: 0.21297530829906464
+random_caption: 0.26000091433525085
+They are doing something here. A lady holding a bottle of ketchup and a dog in a hot dog bun costume.
+full_caption: 0.21297530829906464
+random_caption: 0.21828217804431915
+They are doing something here. a woman stands in front of stainless steel refrigerators holding a sign
+full_caption: 0.21297530829906464
+random_caption: 0.09169556945562363
+They are doing something here. A man is carrying two extra large teddy bears.
+full_caption: 0.21297530829906464
+random_caption: 0.18940408527851105
+They are doing something here. two children laying on restaurant booth seats 
+full_caption: 0.21297530829906464
+random_caption: 0.18513087928295135
+../photobook_coco_images/images/COCO_train2014_000000344597.jpg full greater than random: 6
+../photobook_coco_images/images/COCO_train2014_000000344597.jpg random greater than full: 4
+../photobook_coco_images/images/COCO_train2014_000000205931.jpg
+They are doing something here. A woman with a tattoo playing the Wii.
+full_caption: 0.19894199073314667
+random_caption: 0.26262861490249634
+They are doing something here. A pug dog lying on a persons lap who's holding a remote controller.
+full_caption: 0.19894199073314667
+random_caption: 0.14855629205703735
+They are doing something here. A young woman sitting in a restaurant with a pizza and soda in front of her.
+full_caption: 0.19894199073314667
+random_caption: 0.2648324966430664
+They are doing something here. A person wearing a neon safety vest holding an orange and green umbrella
+full_caption: 0.19894199073314667
+random_caption: 0.23648299276828766
+They are doing something here. A baby sits in a suitcase in front of a book shelf
+full_caption: 0.19894199073314667
+random_caption: 0.15529420971870422
+They are doing something here. A girl with long brown hair with streaks of red lays on a bed and looks at an open laptop computer.
+full_caption: 0.19894199073314667
+random_caption: 0.22896867990493774
+They are doing something here. A man in a black t-shirt stands in front of a birthday cake in a kitchen.
+full_caption: 0.19894199073314667
+random_caption: 0.2559976577758789
+They are doing something here. A soldier preparing to cut a large cake.
+full_caption: 0.19894199073314667
+random_caption: 0.2814505100250244
+They are doing something here. two women are chatting on a brown bench
+full_caption: 0.19894199073314667
+random_caption: 0.20149771869182587
+They are doing something here. A person with a yellow lab on a moped ridding down the street.
+full_caption: 0.19894199073314667
+random_caption: 0.11065376549959183
+../photobook_coco_images/images/COCO_train2014_000000205931.jpg full greater than random: 3
+../photobook_coco_images/images/COCO_train2014_000000205931.jpg random greater than full: 7
+../photobook_coco_images/images/COCO_train2014_000000528563.jpg
+They are doing something here. A man laying on the floor near a suitcase.
+full_caption: 0.22832949459552765
+random_caption: 0.1745876967906952
+They are doing something here. A woman sitting on a bench holding a hot dog
+full_caption: 0.22832949459552765
+random_caption: 0.1984768509864807
+They are doing something here. A person with a yellow lab on a moped ridding down the street.
+full_caption: 0.22832949459552765
+random_caption: 0.14164523780345917
+They are doing something here. A soldier preparing to cut a large cake.
+full_caption: 0.22832949459552765
+random_caption: 0.20603424310684204
+They are doing something here. Children laying in a booth at a restaurant
+full_caption: 0.22832949459552765
+random_caption: 0.17285113036632538
+They are doing something here. A dog riding on a scooter with someone.
+full_caption: 0.22832949459552765
+random_caption: 0.159637913107872
+They are doing something here. A banana and strawberry on the keyboard of a laptop.
+full_caption: 0.22832949459552765
+random_caption: 0.16888757050037384
+They are doing something here. A person wearing a neon safety vest holding an orange and green umbrella
+full_caption: 0.22832949459552765
+random_caption: 0.17968516051769257
+They are doing something here. A person holds a Wii-mote while a dog sleeps in their lap.
+full_caption: 0.22832949459552765
+random_caption: 0.28303322196006775
+They are doing something here. A man in a suit and tie holding an umbrella in an alley filled with them.
+full_caption: 0.22832949459552765
+random_caption: 0.1489037126302719
+../photobook_coco_images/images/COCO_train2014_000000528563.jpg full greater than random: 9
+../photobook_coco_images/images/COCO_train2014_000000528563.jpg random greater than full: 1
+../photobook_coco_images/images/COCO_train2014_000000160471.jpg
+They are doing something here. A woman with a tattoo playing the Wii.
+full_caption: 0.21017064154148102
+random_caption: 0.25285908579826355
+They are doing something here. A red laptop on a desk with various devices plugged in.
+full_caption: 0.21017064154148102
+random_caption: 0.24969539046287537
+They are doing something here. A woman in a white dress is sitting with her cell phone.
+full_caption: 0.21017064154148102
+random_caption: 0.2017802745103836
+They are doing something here. A man doing a handstand trick on a skateboard near the beach and next to a group of parked bicycles.
+full_caption: 0.21017064154148102
+random_caption: 0.17969723045825958
+They are doing something here. A young boy eating a hot dog over a paper plate.
+full_caption: 0.21017064154148102
+random_caption: 0.19360850751399994
+They are doing something here. A person with a yellow lab on a moped ridding down the street.
+full_caption: 0.21017064154148102
+random_caption: 0.15351779758930206
+They are doing something here. Two males in scuba gear on a boat.
+full_caption: 0.21017064154148102
+random_caption: 0.18868780136108398
+They are doing something here. A white frosted cake in the middle of a table with someone holding a knife above it.
+full_caption: 0.21017064154148102
+random_caption: 0.2328799068927765
+They are doing something here. Two men sit on a boat and prepare to scuba dive.
+full_caption: 0.21017064154148102
+random_caption: 0.20318269729614258
+They are doing something here. A person in a yellow shirt about to ketchup the dog in a hot dog costume.
+full_caption: 0.21017064154148102
+random_caption: 0.21851617097854614
+../photobook_coco_images/images/COCO_train2014_000000160471.jpg full greater than random: 6
+../photobook_coco_images/images/COCO_train2014_000000160471.jpg random greater than full: 4
+../photobook_coco_images/images/COCO_train2014_000000324732.jpg
+They are doing something here. A man is standing beside a parking meter, writing on his hand.
+full_caption: 0.19190335273742676
+random_caption: 0.15562187135219574
+They are doing something here. A man standing in front of a cake on a table.
+full_caption: 0.19190335273742676
+random_caption: 0.1626615673303604
+They are doing something here. A young woman in glasses is holding a hot dog.
+full_caption: 0.19190335273742676
+random_caption: 0.2044053077697754
+They are doing something here. A young woman sitting at a table in front of a piece of pizza.
+full_caption: 0.19190335273742676
+random_caption: 0.16810622811317444
+They are doing something here. Two males in scuba gear on a boat.
+full_caption: 0.19190335273742676
+random_caption: 0.07938222587108612
+They are doing something here. Two children lying on the booth seats of a restaurant.
+full_caption: 0.19190335273742676
+random_caption: 0.12803728878498077
+They are doing something here. Soldiers hold a refrigerator open to show a woman what's inside.
+full_caption: 0.19190335273742676
+random_caption: 0.28236162662506104
+They are doing something here. two children laying on restaurant booth seats 
+full_caption: 0.19190335273742676
+random_caption: 0.16905729472637177
+They are doing something here. Two young boys playing with letter magnets on the front of a refrigerator.
+full_caption: 0.19190335273742676
+random_caption: 0.2121122181415558
+They are doing something here. A soldier cuts a large American military-themed cake.
+full_caption: 0.19190335273742676
+random_caption: 0.13222582638263702
+../photobook_coco_images/images/COCO_train2014_000000324732.jpg full greater than random: 7
+../photobook_coco_images/images/COCO_train2014_000000324732.jpg random greater than full: 3
+../photobook_coco_images/images/COCO_train2014_000000461183.jpg
+They are doing something here. Two movers with their open moving van, which is parked on a city street.
+full_caption: 0.1840866357088089
+random_caption: 0.1749468296766281
+They are doing something here. Two young boys playing with letter magnets on the front of a refrigerator.
+full_caption: 0.1840866357088089
+random_caption: 0.1813792586326599
+They are doing something here. A woman with a tattoo playing the Wii.
+full_caption: 0.1840866357088089
+random_caption: 0.1177244707942009
+They are doing something here. A man laying on the floor near a suitcase.
+full_caption: 0.1840866357088089
+random_caption: 0.16629447042942047
+They are doing something here. A man doing a handstand trick on a skateboard near the beach and next to a group of parked bicycles.
+full_caption: 0.1840866357088089
+random_caption: 0.1298828125
+They are doing something here. A man is laying on the floor of a hotel room next to an open suitcase.
+full_caption: 0.1840866357088089
+random_caption: 0.15160934627056122
+They are doing something here. A couple of kids laying on top of booths.
+full_caption: 0.1840866357088089
+random_caption: 0.16039738059043884
+They are doing something here. A man and woman pause with their bikes beside a train.
+full_caption: 0.1840866357088089
+random_caption: 0.14859291911125183
+They are doing something here. A tin cup of noodles in water sitting in front of a computer.
+full_caption: 0.1840866357088089
+random_caption: 0.1494324654340744
+They are doing something here. The woman is showing the toppings on her hotdog.
+full_caption: 0.1840866357088089
+random_caption: 0.10676269233226776
+../photobook_coco_images/images/COCO_train2014_000000461183.jpg full greater than random: 10
+../photobook_coco_images/images/COCO_train2014_000000461183.jpg random greater than full: 0
+../photobook_coco_images/images/COCO_train2014_000000121619.jpg
+They are doing something here. A person with a yellow lab on a moped ridding down the street.
+full_caption: 0.20273493230342865
+random_caption: 0.16279096901416779
+They are doing something here. A man is carrying two extra large teddy bears.
+full_caption: 0.20273493230342865
+random_caption: 0.18907804787158966
+They are doing something here. A man standing in front of a cake on a table.
+full_caption: 0.20273493230342865
+random_caption: 0.18949387967586517
+They are doing something here. A man doing a handstand trick on a skateboard near the beach and next to a group of parked bicycles.
+full_caption: 0.20273493230342865
+random_caption: 0.18061615526676178
+They are doing something here. A person wearing a neon safety vest holding an orange and green umbrella
+full_caption: 0.20273493230342865
+random_caption: 0.2149236649274826
+They are doing something here. a man holding two very large teddy bears
+full_caption: 0.20273493230342865
+random_caption: 0.15938620269298553
+They are doing something here. two children laying on restaurant booth seats 
+full_caption: 0.20273493230342865
+random_caption: 0.14046776294708252
+They are doing something here. Children laying in a booth at a restaurant
+full_caption: 0.20273493230342865
+random_caption: 0.1302989274263382
+They are doing something here. A veteran cutting a birthday cake that is decorated in red, white, and blue.
+full_caption: 0.20273493230342865
+random_caption: 0.18310315907001495
+They are doing something here. A woman is painting designs on an umbrella.
+full_caption: 0.20273493230342865
+random_caption: 0.22088584303855896
+../photobook_coco_images/images/COCO_train2014_000000121619.jpg full greater than random: 8
+../photobook_coco_images/images/COCO_train2014_000000121619.jpg random greater than full: 2
+../photobook_coco_images/images/COCO_train2014_000000035995.jpg
+They are doing something here. A man is standing beside a parking meter, writing on his hand.
+full_caption: 0.19273340702056885
+random_caption: 0.1946272999048233
+They are doing something here. Two young boys playing with letter magnets on the front of a refrigerator.
+full_caption: 0.19273340702056885
+random_caption: 0.15042567253112793
+They are doing something here. Two elderly women speak to each other on a bench.
+full_caption: 0.19273340702056885
+random_caption: 0.1288001388311386
+They are doing something here. two children laying on restaurant booth seats 
+full_caption: 0.19273340702056885
+random_caption: 0.10123506933450699
+They are doing something here. Two movers with their open moving van, which is parked on a city street.
+full_caption: 0.19273340702056885
+random_caption: 0.20184679329395294
+They are doing something here. An infant sits next to a stuffed teddy bear toy.
+full_caption: 0.19273340702056885
+random_caption: 0.14869630336761475
+They are doing something here. A white frosted cake in the middle of a table with someone holding a knife above it.
+full_caption: 0.19273340702056885
+random_caption: 0.13294416666030884
+They are doing something here. Without paper handy, a man writes a reminder about the parking meter on his palm.
+full_caption: 0.19273340702056885
+random_caption: 0.17426468431949615
+They are doing something here. A banana and strawberry on the keyboard of a laptop.
+full_caption: 0.19273340702056885
+random_caption: 0.1282772719860077
+They are doing something here. A man is laying on the floor of a hotel room next to an open suitcase.
+full_caption: 0.19273340702056885
+random_caption: 0.1400757133960724
+../photobook_coco_images/images/COCO_train2014_000000035995.jpg full greater than random: 8
+../photobook_coco_images/images/COCO_train2014_000000035995.jpg random greater than full: 2
+../photobook_coco_images/images/COCO_train2014_000000292101.jpg
+They are doing something here. Two children lying on the booth seats of a restaurant.
+full_caption: 0.22100430727005005
+random_caption: 0.18653756380081177
+They are doing something here. A girl with long brown hair with streaks of red lays on a bed and looks at an open laptop computer.
+full_caption: 0.22100430727005005
+random_caption: 0.2808828055858612
+They are doing something here. A young woman sitting at a table in front of a piece of pizza.
+full_caption: 0.22100430727005005
+random_caption: 0.20425382256507874
+They are doing something here. A banana and a strawboard are on a laptop keyboard.
+full_caption: 0.22100430727005005
+random_caption: 0.24990160763263702
+They are doing something here. A man is laying on the floor of a hotel room next to an open suitcase.
+full_caption: 0.22100430727005005
+random_caption: 0.2220555692911148
+They are doing something here. A dog inside a stuffed hot dog bun on a man's lap.
+full_caption: 0.22100430727005005
+random_caption: 0.19094273447990417
+They are doing something here. The two friends are playing a game on the Wii console.
+full_caption: 0.22100430727005005
+random_caption: 0.22999092936515808
+They are doing something here. A young woman sits at a cafe table with a piece of pizza and a beverage.
+full_caption: 0.22100430727005005
+random_caption: 0.18984730541706085
+They are doing something here. A man in a suit and tie holding an umbrella in an alley filled with them.
+full_caption: 0.22100430727005005
+random_caption: 0.1522177904844284
+They are doing something here. A white frosted cake in the middle of a table with someone holding a knife above it.
+full_caption: 0.22100430727005005
+random_caption: 0.2095152884721756
+../photobook_coco_images/images/COCO_train2014_000000292101.jpg full greater than random: 6
+../photobook_coco_images/images/COCO_train2014_000000292101.jpg random greater than full: 4
+../photobook_coco_images/images/COCO_train2014_000000420523.jpg
+They are doing something here. Two men sit on a boat and prepare to scuba dive.
+full_caption: 0.21377119421958923
+random_caption: 0.13633990287780762
+They are doing something here. A woman with luggage standing behind her open trunk
+full_caption: 0.21377119421958923
+random_caption: 0.15111972391605377
+They are doing something here. A large stack of brownies at a market.
+full_caption: 0.21377119421958923
+random_caption: 0.1644047349691391
+They are doing something here. A woman painting flowers on a red umbrella.
+full_caption: 0.21377119421958923
+random_caption: 0.15933381021022797
+They are doing something here. a man and a woman with bicycles standing next to a train
+full_caption: 0.21377119421958923
+random_caption: 0.1489962339401245
+They are doing something here. A cake with a missing slice on a floral plate, two bowls of fruit and a hand of bananas.
+full_caption: 0.21377119421958923
+random_caption: 0.3104141354560852
+They are doing something here. A young woman sitting at a table in front of a piece of pizza.
+full_caption: 0.21377119421958923
+random_caption: 0.17043109238147736
+They are doing something here. A soldier preparing to cut a large cake.
+full_caption: 0.21377119421958923
+random_caption: 0.223743736743927
+They are doing something here. A person with a yellow lab on a moped ridding down the street.
+full_caption: 0.21377119421958923
+random_caption: 0.11941985040903091
+They are doing something here. A man standing over a cake with candles.
+full_caption: 0.21377119421958923
+random_caption: 0.17654182016849518
+../photobook_coco_images/images/COCO_train2014_000000420523.jpg full greater than random: 8
+../photobook_coco_images/images/COCO_train2014_000000420523.jpg random greater than full: 2
+../photobook_coco_images/images/COCO_train2014_000000449904.jpg
+They are doing something here. A man is standing beside a parking meter, writing on his hand.
+full_caption: 0.18912188708782196
+random_caption: 0.15772013366222382
+They are doing something here. A gray cat laying on top of a laptop computer.
+full_caption: 0.18912188708782196
+random_caption: 0.11828256398439407
+They are doing something here. A woman standing in front of a metal refrigerator freezer.
+full_caption: 0.18912188708782196
+random_caption: 0.21941931545734406
+They are doing something here. A banana and a strawboard are on a laptop keyboard.
+full_caption: 0.18912188708782196
+random_caption: 0.1829277127981186
+They are doing something here. A man in grey sweater on floor next to a suitcase.
+full_caption: 0.18912188708782196
+random_caption: 0.1914365291595459
+They are doing something here. a woman stands in front of stainless steel refrigerators holding a sign
+full_caption: 0.18912188708782196
+random_caption: 0.22843942046165466
+They are doing something here. A man is carrying two extra large teddy bears.
+full_caption: 0.18912188708782196
+random_caption: 0.18716125190258026
+They are doing something here. A man is laying on the floor of a hotel room next to an open suitcase.
+full_caption: 0.18912188708782196
+random_caption: 0.14352230727672577
+They are doing something here. A small white dog being offered a glass of red wine.
+full_caption: 0.18912188708782196
+random_caption: 0.1715395748615265
+They are doing something here. A man doing a handstand trick on a skateboard near the beach and next to a group of parked bicycles.
+full_caption: 0.18912188708782196
+random_caption: 0.09403445571660995
+../photobook_coco_images/images/COCO_train2014_000000449904.jpg full greater than random: 7
+../photobook_coco_images/images/COCO_train2014_000000449904.jpg random greater than full: 3
+../photobook_coco_images/images/COCO_train2014_000000344597.jpg
+They are doing something here. A man in camouflage is shaking hands with a man in a suit in front of some trucks.
+full_caption: 0.21297530829906464
+random_caption: 0.11199931055307388
+They are doing something here. A woman with a tattoo playing the Wii.
+full_caption: 0.21297530829906464
+random_caption: 0.23351594805717468
+They are doing something here. A woman with luggage standing behind her open trunk
+full_caption: 0.21297530829906464
+random_caption: 0.14308102428913116
+They are doing something here. A man posing with a birthday cake in a kitchen.
+full_caption: 0.21297530829906464
+random_caption: 0.19773875176906586
+They are doing something here. A young boy eating a hot dog over a paper plate.
+full_caption: 0.21297530829906464
+random_caption: 0.20044636726379395
+They are doing something here. A cake with a missing slice on a floral plate, two bowls of fruit and a hand of bananas.
+full_caption: 0.21297530829906464
+random_caption: 0.1640213131904602
+They are doing something here. A woman with a wooden pizza board is near a huge oven.
+full_caption: 0.21297530829906464
+random_caption: 0.15394866466522217
+They are doing something here. A man is laying on the floor of a hotel room next to an open suitcase.
+full_caption: 0.21297530829906464
+random_caption: 0.2423471212387085
+They are doing something here. A woman holds a hot dog with toppings while sitting on a bench.
+full_caption: 0.21297530829906464
+random_caption: 0.1995575875043869
+They are doing something here. A man standing in front of a cake on a table.
+full_caption: 0.21297530829906464
+random_caption: 0.19154475629329681
+../photobook_coco_images/images/COCO_train2014_000000344597.jpg full greater than random: 8
+../photobook_coco_images/images/COCO_train2014_000000344597.jpg random greater than full: 2
+../photobook_coco_images/images/COCO_train2014_000000121619.jpg
+They are doing something here. a man and a woman with bicycles standing next to a train
+full_caption: 0.20273493230342865
+random_caption: 0.1677263081073761
+They are doing something here. The woman is showing the toppings on her hotdog.
+full_caption: 0.20273493230342865
+random_caption: 0.20680180191993713
+They are doing something here. A dog inside a stuffed hot dog bun on a man's lap.
+full_caption: 0.20273493230342865
+random_caption: 0.1605110913515091
+They are doing something here. A person in a yellow shirt about to ketchup the dog in a hot dog costume.
+full_caption: 0.20273493230342865
+random_caption: 0.19909848272800446
+They are doing something here. A man carrying two large teddy bears while looking to his left.
+full_caption: 0.20273493230342865
+random_caption: 0.1858283281326294
+They are doing something here. A banana and a strawberry sitting on a lap top computer.
+full_caption: 0.20273493230342865
+random_caption: 0.12304717302322388
+They are doing something here. A man in grey sweater on floor next to a suitcase.
+full_caption: 0.20273493230342865
+random_caption: 0.19712406396865845
+They are doing something here. A person holds a Wii-mote while a dog sleeps in their lap.
+full_caption: 0.20273493230342865
+random_caption: 0.20644672214984894
+They are doing something here. a man holding two very large teddy bears
+full_caption: 0.20273493230342865
+random_caption: 0.15938620269298553
+They are doing something here. A man riding on the back of a motorcycle with a large brown dog.
+full_caption: 0.20273493230342865
+random_caption: 0.15257245302200317
+../photobook_coco_images/images/COCO_train2014_000000121619.jpg full greater than random: 8
+../photobook_coco_images/images/COCO_train2014_000000121619.jpg random greater than full: 2
+../photobook_coco_images/images/COCO_train2014_000000096222.jpg
+They are doing something here. A person wearing a neon safety vest holding an orange and green umbrella
+full_caption: 0.1959156095981598
+random_caption: 0.20328786969184875
+They are doing something here. A banana and a strawberry sitting on a lap top computer.
+full_caption: 0.1959156095981598
+random_caption: 0.19126130640506744
+They are doing something here. Two Navy sailors cutting a large sheet cake.
+full_caption: 0.1959156095981598
+random_caption: 0.2489553838968277
+They are doing something here. A small white dog being offered a glass of red wine.
+full_caption: 0.1959156095981598
+random_caption: 0.20600250363349915
+They are doing something here. The two friends are playing a game on the Wii console.
+full_caption: 0.1959156095981598
+random_caption: 0.24261057376861572
+They are doing something here. a man and a woman with bicycles standing next to a train
+full_caption: 0.1959156095981598
+random_caption: 0.18653984367847443
+They are doing something here. Woman sitting on a bench holding a hotdog in her hand
+full_caption: 0.1959156095981598
+random_caption: 0.15326189994812012
+They are doing something here. A gray cat laying on top of a laptop computer.
+full_caption: 0.1959156095981598
+random_caption: 0.13358573615550995
+They are doing something here. A young woman sitting at a table in front of a piece of pizza.
+full_caption: 0.1959156095981598
+random_caption: 0.1887815147638321
+They are doing something here. A dog with a wine glass being held to its face.
+full_caption: 0.1959156095981598
+random_caption: 0.17644311487674713
+../photobook_coco_images/images/COCO_train2014_000000096222.jpg full greater than random: 6
+../photobook_coco_images/images/COCO_train2014_000000096222.jpg random greater than full: 4
+../photobook_coco_images/images/COCO_train2014_000000340923.jpg
+They are doing something here. A person is getting ready to cut a white cake.
+full_caption: 0.19383738934993744
+random_caption: 0.18710139393806458
+They are doing something here. Soldiers hold a refrigerator open to show a woman what's inside.
+full_caption: 0.19383738934993744
+random_caption: 0.14616204798221588
+They are doing something here. The woman is showing the toppings on her hotdog.
+full_caption: 0.19383738934993744
+random_caption: 0.14504651725292206
+They are doing something here. A man in a suit and tie holding an umbrella in an alley filled with them.
+full_caption: 0.19383738934993744
+random_caption: 0.10011167079210281
+They are doing something here. Two Navy sailors cutting a large sheet cake.
+full_caption: 0.19383738934993744
+random_caption: 0.10018108785152435
+They are doing something here. A man and woman pause with their bikes beside a train.
+full_caption: 0.19383738934993744
+random_caption: 0.1346953809261322
+They are doing something here. A woman standing next to refrigerators holding a sign.
+full_caption: 0.19383738934993744
+random_caption: 0.16184361279010773
+They are doing something here. A woman standing in front of a metal refrigerator freezer.
+full_caption: 0.19383738934993744
+random_caption: 0.15534141659736633
+They are doing something here. Two young boys playing with letter magnets on the front of a refrigerator.
+full_caption: 0.19383738934993744
+random_caption: 0.12728527188301086
+They are doing something here. A woman with luggage standing behind her open trunk
+full_caption: 0.19383738934993744
+random_caption: 0.1697303205728531
+../photobook_coco_images/images/COCO_train2014_000000340923.jpg full greater than random: 10
+../photobook_coco_images/images/COCO_train2014_000000340923.jpg random greater than full: 0
+../photobook_coco_images/images/COCO_train2014_000000292101.jpg
+They are doing something here. A man in camouflage is shaking hands with a man in a suit in front of some trucks.
+full_caption: 0.22100430727005005
+random_caption: 0.12205633521080017
+They are doing something here. A dog riding on a motorcycle with a person
+full_caption: 0.22100430727005005
+random_caption: 0.16765712201595306
+They are doing something here. A young boy eating a hot dog over a paper plate.
+full_caption: 0.22100430727005005
+random_caption: 0.1395827978849411
+They are doing something here. A man carrying two large teddy bears while looking to his left.
+full_caption: 0.22100430727005005
+random_caption: 0.17099115252494812
+They are doing something here. A man is carrying two extra large teddy bears.
+full_caption: 0.22100430727005005
+random_caption: 0.15982511639595032
+They are doing something here. A woman with luggage standing behind her open trunk
+full_caption: 0.22100430727005005
+random_caption: 0.1785503327846527
+They are doing something here. A hot dog covered in toppings sitting next to beer.
+full_caption: 0.22100430727005005
+random_caption: 0.15048401057720184
+They are doing something here. A young woman sitting at a table in front of a piece of pizza.
+full_caption: 0.22100430727005005
+random_caption: 0.20425382256507874
+They are doing something here. A red laptop on a desk with various devices plugged in.
+full_caption: 0.22100430727005005
+random_caption: 0.24422769248485565
+They are doing something here. A soldier cuts a large American military-themed cake.
+full_caption: 0.22100430727005005
+random_caption: 0.15073759853839874
+../photobook_coco_images/images/COCO_train2014_000000292101.jpg full greater than random: 9
+../photobook_coco_images/images/COCO_train2014_000000292101.jpg random greater than full: 1
+../photobook_coco_images/images/COCO_train2014_000000184930.jpg
+They are doing something here. Soldiers hold a refrigerator open to show a woman what's inside.
+full_caption: 0.19710199534893036
+random_caption: 0.14623476564884186
+They are doing something here. A girl with long brown hair with streaks of red lays on a bed and looks at an open laptop computer.
+full_caption: 0.19710199534893036
+random_caption: 0.1101282387971878
+They are doing something here. A lady holding a bottle of ketchup and a dog in a hot dog bun costume.
+full_caption: 0.19710199534893036
+random_caption: 0.15497924387454987
+They are doing something here. A large white cake sitting on top of a table.
+full_caption: 0.19710199534893036
+random_caption: 0.17238864302635193
+They are doing something here. A young woman in glasses is holding a hot dog.
+full_caption: 0.19710199534893036
+random_caption: 0.1278560310602188
+They are doing something here. A woman standing next to refrigerators holding a sign.
+full_caption: 0.19710199534893036
+random_caption: 0.1635291874408722
+They are doing something here. A red laptop on a desk with various devices plugged in.
+full_caption: 0.19710199534893036
+random_caption: 0.13345995545387268
+They are doing something here. A soldier preparing to cut a large cake.
+full_caption: 0.19710199534893036
+random_caption: 0.15667498111724854
+They are doing something here. A person holding a green plastic knife getting ready to cut a white cake.
+full_caption: 0.19710199534893036
+random_caption: 0.14279694855213165
+They are doing something here. A pug dog lying on a persons lap who's holding a remote controller.
+full_caption: 0.19710199534893036
+random_caption: 0.13075684010982513
+../photobook_coco_images/images/COCO_train2014_000000184930.jpg full greater than random: 10
+../photobook_coco_images/images/COCO_train2014_000000184930.jpg random greater than full: 0
+../photobook_coco_images/images/COCO_train2014_000000468357.jpg
+They are doing something here. The woman is showing the toppings on her hotdog.
+full_caption: 0.2103327512741089
+random_caption: 0.18259859085083008
+They are doing something here. A lady holding a bottle of ketchup and a dog in a hot dog bun costume.
+full_caption: 0.2103327512741089
+random_caption: 0.1424458920955658
+They are doing something here. A white frosted cake in the middle of a table with someone holding a knife above it.
+full_caption: 0.2103327512741089
+random_caption: 0.21344660222530365
+They are doing something here. A woman with glasses sitting at a table with a slice of pizza in front of her and a soft drink cup.
+full_caption: 0.2103327512741089
+random_caption: 0.24625593423843384
+They are doing something here. A woman in a white dress is sitting with her cell phone.
+full_caption: 0.2103327512741089
+random_caption: 0.22738659381866455
+They are doing something here. Two elderly women speak to each other on a bench.
+full_caption: 0.2103327512741089
+random_caption: 0.14645199477672577
+They are doing something here. a man carrying one brown and one tan stuffed bear standing in front of a car poster
+full_caption: 0.2103327512741089
+random_caption: 0.1067262813448906
+They are doing something here. A person is getting ready to cut a white cake.
+full_caption: 0.2103327512741089
+random_caption: 0.20267438888549805
+They are doing something here. A hot dog covered in toppings sitting next to beer.
+full_caption: 0.2103327512741089
+random_caption: 0.1820022016763687
+They are doing something here. A person wearing a neon safety vest holding an orange and green umbrella
+full_caption: 0.2103327512741089
+random_caption: 0.1630721539258957
+../photobook_coco_images/images/COCO_train2014_000000468357.jpg full greater than random: 7
+../photobook_coco_images/images/COCO_train2014_000000468357.jpg random greater than full: 3
+../photobook_coco_images/images/COCO_train2014_000000330652.jpg
+They are doing something here. A banana and a strawberry is sitting on an open laptop keyboard.
+full_caption: 0.2377873957157135
+random_caption: 0.15720313787460327
+They are doing something here. A young woman in glasses is holding a hot dog.
+full_caption: 0.2377873957157135
+random_caption: 0.13495761156082153
+They are doing something here. a gray and white cat is laying on top of a laptop
+full_caption: 0.2377873957157135
+random_caption: 0.13101479411125183
+They are doing something here. A woman standing next to refrigerators holding a sign.
+full_caption: 0.2377873957157135
+random_caption: 0.10402607172727585
+They are doing something here. A girl with long brown hair with streaks of red lays on a bed and looks at an open laptop computer.
+full_caption: 0.2377873957157135
+random_caption: 0.1274961233139038
+They are doing something here. A banana and a strawberry sitting on a lap top computer.
+full_caption: 0.2377873957157135
+random_caption: 0.16156260669231415
+They are doing something here. A person in a yellow shirt about to ketchup the dog in a hot dog costume.
+full_caption: 0.2377873957157135
+random_caption: 0.19574183225631714
+They are doing something here. A woman with a wooden pizza board is near a huge oven.
+full_caption: 0.2377873957157135
+random_caption: 0.1836220622062683
+They are doing something here. A woman with a tattoo playing the Wii.
+full_caption: 0.2377873957157135
+random_caption: 0.11968519538640976
+They are doing something here. An infant and a teddy beat sitting up next to each other.
+full_caption: 0.2377873957157135
+random_caption: 0.21634508669376373
+../photobook_coco_images/images/COCO_train2014_000000330652.jpg full greater than random: 10
+../photobook_coco_images/images/COCO_train2014_000000330652.jpg random greater than full: 0
+../photobook_coco_images/images/COCO_train2014_000000279373.jpg
+They are doing something here. A woman with a wooden pizza board is near a huge oven.
+full_caption: 0.1678558886051178
+random_caption: 0.17383192479610443
+They are doing something here. A girl with long brown hair with streaks of red lays on a bed and looks at an open laptop computer.
+full_caption: 0.1678558886051178
+random_caption: 0.10829295217990875
+They are doing something here. A woman is painting designs on an umbrella.
+full_caption: 0.1678558886051178
+random_caption: 0.15802045166492462
+They are doing something here. 2 children look at magnetic letters on a refrigerator
+full_caption: 0.1678558886051178
+random_caption: 0.06595505774021149
+They are doing something here. A woman standing next to refrigerators holding a sign.
+full_caption: 0.1678558886051178
+random_caption: 0.17055438458919525
+They are doing something here. A person is getting ready to cut a white cake.
+full_caption: 0.1678558886051178
+random_caption: 0.15907159447669983
+They are doing something here. A woman painting flowers on a red umbrella.
+full_caption: 0.1678558886051178
+random_caption: 0.1482405811548233
+They are doing something here. A man laying on the floor near a suitcase.
+full_caption: 0.1678558886051178
+random_caption: 0.12185515463352203
+They are doing something here. A soldier preparing to cut a large cake.
+full_caption: 0.1678558886051178
+random_caption: 0.14856518805027008
+They are doing something here. A man is standing beside a parking meter, writing on his hand.
+full_caption: 0.1678558886051178
+random_caption: 0.11791542917490005
+../photobook_coco_images/images/COCO_train2014_000000279373.jpg full greater than random: 8
+../photobook_coco_images/images/COCO_train2014_000000279373.jpg random greater than full: 2
+../photobook_coco_images/images/COCO_train2014_000000134599.jpg
+They are doing something here. A man doing a handstand trick on a skateboard near the beach and next to a group of parked bicycles.
+full_caption: 0.20580479502677917
+random_caption: 0.1592637151479721
+They are doing something here. A man in camouflage is shaking hands with a man in a suit in front of some trucks.
+full_caption: 0.20580479502677917
+random_caption: 0.13912400603294373
+They are doing something here. a man and a woman with bicycles standing next to a train
+full_caption: 0.20580479502677917
+random_caption: 0.13375358283519745
+They are doing something here. Two men sit on a boat and prepare to scuba dive.
+full_caption: 0.20580479502677917
+random_caption: 0.1268632858991623
+They are doing something here. Girl laying on bed with a stuffed panda posing for the camera.
+full_caption: 0.20580479502677917
+random_caption: 0.13742244243621826
+They are doing something here. two children laying on restaurant booth seats 
+full_caption: 0.20580479502677917
+random_caption: 0.13979627192020416
+They are doing something here. A man standing in front of a cake on a table.
+full_caption: 0.20580479502677917
+random_caption: 0.32277911901474
+They are doing something here. A woman in a dress standing by some motorcycles.
+full_caption: 0.20580479502677917
+random_caption: 0.1432873010635376
+They are doing something here. The two friends are playing a game on the Wii console.
+full_caption: 0.20580479502677917
+random_caption: 0.25618189573287964
+They are doing something here. A banana and a strawberry is sitting on an open laptop keyboard.
+full_caption: 0.20580479502677917
+random_caption: 0.17884929478168488
+../photobook_coco_images/images/COCO_train2014_000000134599.jpg full greater than random: 8
+../photobook_coco_images/images/COCO_train2014_000000134599.jpg random greater than full: 2
+../photobook_coco_images/images/COCO_train2014_000000324732.jpg
+They are doing something here. Two men sit on a boat and prepare to scuba dive.
+full_caption: 0.19190335273742676
+random_caption: 0.10764101892709732
+They are doing something here. a man carrying one brown and one tan stuffed bear standing in front of a car poster
+full_caption: 0.19190335273742676
+random_caption: 0.20588427782058716
+They are doing something here. A guy in a military uniform cutting a big cake.
+full_caption: 0.19190335273742676
+random_caption: 0.15006111562252045
+They are doing something here. A woman holds a hot dog with toppings while sitting on a bench.
+full_caption: 0.19190335273742676
+random_caption: 0.1634412407875061
+They are doing something here. A lady holding a bottle of ketchup and a dog in a hot dog bun costume.
+full_caption: 0.19190335273742676
+random_caption: 0.20028093457221985
+They are doing something here. A young woman sits at a cafe table with a piece of pizza and a beverage.
+full_caption: 0.19190335273742676
+random_caption: 0.12679773569107056
+They are doing something here. A man in a black t-shirt stands in front of a birthday cake in a kitchen.
+full_caption: 0.19190335273742676
+random_caption: 0.19513532519340515
+They are doing something here. A dog inside a stuffed hot dog bun on a man's lap.
+full_caption: 0.19190335273742676
+random_caption: 0.10913697630167007
+They are doing something here. a person on a motorcycle and a dog
+full_caption: 0.19190335273742676
+random_caption: 0.12460927665233612
+They are doing something here. A man standing over a cake with candles.
+full_caption: 0.19190335273742676
+random_caption: 0.12320519983768463
+../photobook_coco_images/images/COCO_train2014_000000324732.jpg full greater than random: 7
+../photobook_coco_images/images/COCO_train2014_000000324732.jpg random greater than full: 3
+../photobook_coco_images/images/COCO_train2014_000000145499.jpg
+They are doing something here. A man doing a handstand trick on a skateboard near the beach and next to a group of parked bicycles.
+full_caption: 0.21566343307495117
+random_caption: 0.15159684419631958
+They are doing something here. A dog riding on a motorcycle with a person
+full_caption: 0.21566343307495117
+random_caption: 0.19603636860847473
+They are doing something here. A man is standing beside a parking meter, writing on his hand.
+full_caption: 0.21566343307495117
+random_caption: 0.14480507373809814
+They are doing something here. A man posing with a birthday cake in a kitchen.
+full_caption: 0.21566343307495117
+random_caption: 0.2315441519021988
+They are doing something here. A man standing over a cake with candles.
+full_caption: 0.21566343307495117
+random_caption: 0.22284354269504547
+They are doing something here. The two friends are playing a game on the Wii console.
+full_caption: 0.21566343307495117
+random_caption: 0.2146608978509903
+They are doing something here. A man standing in front of a cake on a table.
+full_caption: 0.21566343307495117
+random_caption: 0.22967445850372314
+They are doing something here. A woman is painting designs on an umbrella.
+full_caption: 0.21566343307495117
+random_caption: 0.17950764298439026
+They are doing something here. A dog with a wine glass being held to its face.
+full_caption: 0.21566343307495117
+random_caption: 0.2130637764930725
+They are doing something here. Two elderly women speak to each other on a bench.
+full_caption: 0.21566343307495117
+random_caption: 0.1773928850889206
+../photobook_coco_images/images/COCO_train2014_000000145499.jpg full greater than random: 7
+../photobook_coco_images/images/COCO_train2014_000000145499.jpg random greater than full: 3
+../photobook_coco_images/images/COCO_train2014_000000459209.jpg
+They are doing something here. Without paper handy, a man writes a reminder about the parking meter on his palm.
+full_caption: 0.23731082677841187
+random_caption: 0.18314793705940247
+They are doing something here. a woman stands in front of stainless steel refrigerators holding a sign
+full_caption: 0.23731082677841187
+random_caption: 0.17464980483055115
+They are doing something here. A person holds a Wii-mote while a dog sleeps in their lap.
+full_caption: 0.23731082677841187
+random_caption: 0.17241942882537842
+They are doing something here. A large stack of brownies at a market.
+full_caption: 0.23731082677841187
+random_caption: 0.1478579342365265
+They are doing something here. A woman is painting designs on an umbrella.
+full_caption: 0.23731082677841187
+random_caption: 0.18031738698482513
+They are doing something here. A lady holding a bottle of ketchup and a dog in a hot dog bun costume.
+full_caption: 0.23731082677841187
+random_caption: 0.13382373750209808
+They are doing something here. A woman in a dress standing by some motorcycles.
+full_caption: 0.23731082677841187
+random_caption: 0.13386379182338715
+They are doing something here. A wallet, laptop, cellphone, cups and bottles of water sitting on a table.
+full_caption: 0.23731082677841187
+random_caption: 0.12474923580884933
+They are doing something here. A person wearing a neon safety vest holding an orange and green umbrella
+full_caption: 0.23731082677841187
+random_caption: 0.1363028734922409
+They are doing something here. A man is laying on the floor of a hotel room next to an open suitcase.
+full_caption: 0.23731082677841187
+random_caption: 0.149185910820961
+../photobook_coco_images/images/COCO_train2014_000000459209.jpg full greater than random: 10
+../photobook_coco_images/images/COCO_train2014_000000459209.jpg random greater than full: 0
+../photobook_coco_images/images/COCO_train2014_000000570019.jpg
+They are doing something here. A woman sitting on a bench holding a hot dog
+full_caption: 0.19473907351493835
+random_caption: 0.2301599085330963
+They are doing something here. A motorcyclist with helmet and neon vest taking a photograph in side mirror
+full_caption: 0.19473907351493835
+random_caption: 0.11663257330656052
+They are doing something here. A person in a yellow shirt about to ketchup the dog in a hot dog costume.
+full_caption: 0.19473907351493835
+random_caption: 0.23411479592323303
+They are doing something here. A man in camouflage is shaking hands with a man in a suit in front of some trucks.
+full_caption: 0.19473907351493835
+random_caption: 0.1143636479973793
+They are doing something here. A red laptop on a desk with various devices plugged in.
+full_caption: 0.19473907351493835
+random_caption: 0.1521691530942917
+They are doing something here. A woman with glasses sitting at a table with a slice of pizza in front of her and a soft drink cup.
+full_caption: 0.19473907351493835
+random_caption: 0.28742679953575134
+They are doing something here. Two men sit on a boat and prepare to scuba dive.
+full_caption: 0.19473907351493835
+random_caption: 0.15844646096229553
+They are doing something here. A gray cat laying on top of a laptop computer.
+full_caption: 0.19473907351493835
+random_caption: 0.04304889589548111
+They are doing something here. A person holding a green plastic knife getting ready to cut a white cake.
+full_caption: 0.19473907351493835
+random_caption: 0.16634024679660797
+They are doing something here. a man carrying one brown and one tan stuffed bear standing in front of a car poster
+full_caption: 0.19473907351493835
+random_caption: 0.10419285297393799
+../photobook_coco_images/images/COCO_train2014_000000570019.jpg full greater than random: 7
+../photobook_coco_images/images/COCO_train2014_000000570019.jpg random greater than full: 3
+../photobook_coco_images/images/COCO_train2014_000000335696.jpg
+They are doing something here. A tin cup of noodles in water sitting in front of a computer.
+full_caption: 0.20596714317798615
+random_caption: 0.16457028687000275
+They are doing something here. A young woman in glasses is holding a hot dog.
+full_caption: 0.20596714317798615
+random_caption: 0.23773899674415588
+They are doing something here. Children laying in a booth at a restaurant
+full_caption: 0.20596714317798615
+random_caption: 0.1879597306251526
+They are doing something here. A wallet, laptop, cellphone, cups and bottles of water sitting on a table.
+full_caption: 0.20596714317798615
+random_caption: 0.22330573201179504
+They are doing something here. A man is standing beside a parking meter, writing on his hand.
+full_caption: 0.20596714317798615
+random_caption: 0.1881699562072754
+They are doing something here. A lady holding a bottle of ketchup and a dog in a hot dog bun costume.
+full_caption: 0.20596714317798615
+random_caption: 0.20483547449111938
+They are doing something here. A man posing with a birthday cake in a kitchen.
+full_caption: 0.20596714317798615
+random_caption: 0.12457198649644852
+They are doing something here. A white frosted cake in the middle of a table with someone holding a knife above it.
+full_caption: 0.20596714317798615
+random_caption: 0.22664892673492432
+They are doing something here. A man and woman pause with their bikes beside a train.
+full_caption: 0.20596714317798615
+random_caption: 0.20886389911174774
+They are doing something here. A young boy eating a hot dog over a paper plate.
+full_caption: 0.20596714317798615
+random_caption: 0.17219027876853943
+../photobook_coco_images/images/COCO_train2014_000000335696.jpg full greater than random: 6
+../photobook_coco_images/images/COCO_train2014_000000335696.jpg random greater than full: 4
+../photobook_coco_images/images/COCO_train2014_000000198072.jpg
+They are doing something here. A man in a suit and tie holding an umbrella in an alley filled with them.
+full_caption: 0.1630234271287918
+random_caption: 0.11885763704776764
+They are doing something here. A woman painting flowers on a red umbrella.
+full_caption: 0.1630234271287918
+random_caption: 0.12209206819534302
+They are doing something here. An infant sits next to a stuffed teddy bear toy.
+full_caption: 0.1630234271287918
+random_caption: 0.13627579808235168
+They are doing something here. A tin cup of noodles in water sitting in front of a computer.
+full_caption: 0.1630234271287918
+random_caption: 0.11140953004360199
+They are doing something here. A dog riding on a motorcycle with a person
+full_caption: 0.1630234271287918
+random_caption: 0.22436435520648956
+They are doing something here. A gray cat laying on top of a laptop computer.
+full_caption: 0.1630234271287918
+random_caption: 0.042631737887859344
+They are doing something here. A woman standing next to refrigerators holding a sign.
+full_caption: 0.1630234271287918
+random_caption: 0.1149430125951767
+They are doing something here. A person with face make up and a multi color umbrella and jacket.
+full_caption: 0.1630234271287918
+random_caption: 0.18709754943847656
+They are doing something here. Two children are playing with letter magnets on a refrigerator.
+full_caption: 0.1630234271287918
+random_caption: 0.06890031695365906
+They are doing something here. A red laptop on a desk with various devices plugged in.
+full_caption: 0.1630234271287918
+random_caption: 0.08500576764345169
+../photobook_coco_images/images/COCO_train2014_000000198072.jpg full greater than random: 8
+../photobook_coco_images/images/COCO_train2014_000000198072.jpg random greater than full: 2
+../photobook_coco_images/images/COCO_train2014_000000468357.jpg
+They are doing something here. A cake with a missing slice on a floral plate, two bowls of fruit and a hand of bananas.
+full_caption: 0.2103327512741089
+random_caption: 0.18134011328220367
+They are doing something here. A banana and strawberry on top of a laptop
+full_caption: 0.2103327512741089
+random_caption: 0.27016499638557434
+They are doing something here. two children laying on restaurant booth seats 
+full_caption: 0.2103327512741089
+random_caption: 0.2213878035545349
+They are doing something here. A young woman sitting at a table in front of a piece of pizza.
+full_caption: 0.2103327512741089
+random_caption: 0.21199320256710052
+They are doing something here. Two children are playing with letter magnets on a refrigerator.
+full_caption: 0.2103327512741089
+random_caption: 0.11237490177154541
+They are doing something here. A person in a yellow shirt about to ketchup the dog in a hot dog costume.
+full_caption: 0.2103327512741089
+random_caption: 0.15295365452766418
+They are doing something here. A lady holding a bottle of ketchup and a dog in a hot dog bun costume.
+full_caption: 0.2103327512741089
+random_caption: 0.1424458920955658
+They are doing something here. The two friends are playing a game on the Wii console.
+full_caption: 0.2103327512741089
+random_caption: 0.21569015085697174
+They are doing something here. a man in a brown shirt is holding two large stuffed teddy bears
+full_caption: 0.2103327512741089
+random_caption: 0.13061992824077606
+They are doing something here. Two children lying on the booth seats of a restaurant.
+full_caption: 0.2103327512741089
+random_caption: 0.23442764580249786
+../photobook_coco_images/images/COCO_train2014_000000468357.jpg full greater than random: 5
+../photobook_coco_images/images/COCO_train2014_000000468357.jpg random greater than full: 5
+../photobook_coco_images/images/COCO_train2014_000000112029.jpg
+They are doing something here. A pug dog lying on a persons lap who's holding a remote controller.
+full_caption: 0.21284747123718262
+random_caption: 0.21478499472141266
+They are doing something here. a gray and white cat is laying on top of a laptop
+full_caption: 0.21284747123718262
+random_caption: 0.18952466547489166
+They are doing something here. A man in a black t-shirt stands in front of a birthday cake in a kitchen.
+full_caption: 0.21284747123718262
+random_caption: 0.18702039122581482
+They are doing something here. Soldiers hold a refrigerator open to show a woman what's inside.
+full_caption: 0.21284747123718262
+random_caption: 0.18685735762119293
+They are doing something here. A dog riding on a motorcycle with a person
+full_caption: 0.21284747123718262
+random_caption: 0.17269565165042877
+They are doing something here. A wallet, laptop, cellphone, cups and bottles of water sitting on a table.
+full_caption: 0.21284747123718262
+random_caption: 0.1870492547750473
+They are doing something here. A soldier preparing to cut a large cake.
+full_caption: 0.21284747123718262
+random_caption: 0.161422997713089
+They are doing something here. A woman sitting on a bench holding a hot dog
+full_caption: 0.21284747123718262
+random_caption: 0.17415063083171844
+They are doing something here. Two movers with their open moving van, which is parked on a city street.
+full_caption: 0.21284747123718262
+random_caption: 0.1575498729944229
+They are doing something here. A person holds a Wii-mote while a dog sleeps in their lap.
+full_caption: 0.21284747123718262
+random_caption: 0.2392529845237732
+../photobook_coco_images/images/COCO_train2014_000000112029.jpg full greater than random: 8
+../photobook_coco_images/images/COCO_train2014_000000112029.jpg random greater than full: 2
+../photobook_coco_images/images/COCO_train2014_000000205931.jpg
+They are doing something here. A pug dog lying on a persons lap who's holding a remote controller.
+full_caption: 0.19894199073314667
+random_caption: 0.14855629205703735
+They are doing something here. A woman in a white dress is sitting with her cell phone.
+full_caption: 0.19894199073314667
+random_caption: 0.2780781388282776
+They are doing something here. Girl laying on bed with a stuffed panda posing for the camera.
+full_caption: 0.19894199073314667
+random_caption: 0.18269415199756622
+They are doing something here. A banana and a strawberry is sitting on an open laptop keyboard.
+full_caption: 0.19894199073314667
+random_caption: 0.17686817049980164
+They are doing something here. A girl with long brown hair with streaks of red lays on a bed and looks at an open laptop computer.
+full_caption: 0.19894199073314667
+random_caption: 0.22896867990493774
+They are doing something here. a gray and white cat is laying on top of a laptop
+full_caption: 0.19894199073314667
+random_caption: 0.10531803220510483
+They are doing something here. A lady holding a bottle of ketchup and a dog in a hot dog bun costume.
+full_caption: 0.19894199073314667
+random_caption: 0.23903946578502655
+They are doing something here. An infant sits next to a stuffed teddy bear toy.
+full_caption: 0.19894199073314667
+random_caption: 0.20062068104743958
+They are doing something here. Woman sitting on a bench holding a hotdog in her hand
+full_caption: 0.19894199073314667
+random_caption: 0.22905918955802917
+They are doing something here. Two small children playing with their refrigerator magnets.
+full_caption: 0.19894199073314667
+random_caption: 0.22217172384262085
+../photobook_coco_images/images/COCO_train2014_000000205931.jpg full greater than random: 4
+../photobook_coco_images/images/COCO_train2014_000000205931.jpg random greater than full: 6
+../photobook_coco_images/images/COCO_train2014_000000145499.jpg
+They are doing something here. A man in a suit and tie holding an umbrella in an alley filled with them.
+full_caption: 0.21566343307495117
+random_caption: 0.11803536117076874
+They are doing something here. a man in a brown shirt is holding two large stuffed teddy bears
+full_caption: 0.21566343307495117
+random_caption: 0.2789054214954376
+They are doing something here. A young woman sitting at a table in front of a piece of pizza.
+full_caption: 0.21566343307495117
+random_caption: 0.24377234280109406
+They are doing something here. A young boy eating a hot dog over a paper plate.
+full_caption: 0.21566343307495117
+random_caption: 0.2843771278858185
+They are doing something here. An infant sits next to a stuffed teddy bear toy.
+full_caption: 0.21566343307495117
+random_caption: 0.29440736770629883
+They are doing something here. A wallet, laptop, cellphone, cups and bottles of water sitting on a table.
+full_caption: 0.21566343307495117
+random_caption: 0.19110625982284546
+They are doing something here. Two men sit on a boat and prepare to scuba dive.
+full_caption: 0.21566343307495117
+random_caption: 0.1645328849554062
+They are doing something here. A tin cup of noodles in water sitting in front of a computer.
+full_caption: 0.21566343307495117
+random_caption: 0.18737739324569702
+They are doing something here. A man laying on the floor near a suitcase.
+full_caption: 0.21566343307495117
+random_caption: 0.22610114514827728
+They are doing something here. The woman is standing above the two packed suitcases.
+full_caption: 0.21566343307495117
+random_caption: 0.2009773552417755
+../photobook_coco_images/images/COCO_train2014_000000145499.jpg full greater than random: 5
+../photobook_coco_images/images/COCO_train2014_000000145499.jpg random greater than full: 5
+../photobook_coco_images/images/COCO_train2014_000000528563.jpg
+They are doing something here. A soldier cuts a large American military-themed cake.
+full_caption: 0.22832949459552765
+random_caption: 0.20965446531772614
+They are doing something here. A banana and strawberry on the keyboard of a laptop.
+full_caption: 0.22832949459552765
+random_caption: 0.16888757050037384
+They are doing something here. A woman is painting designs on an umbrella.
+full_caption: 0.22832949459552765
+random_caption: 0.2001565396785736
+They are doing something here. A couple of kids laying on top of booths.
+full_caption: 0.22832949459552765
+random_caption: 0.19893941283226013
+They are doing something here. A man in a suit and tie holding an umbrella in an alley filled with them.
+full_caption: 0.22832949459552765
+random_caption: 0.1489037126302719
+They are doing something here. A banana and a strawboard are on a laptop keyboard.
+full_caption: 0.22832949459552765
+random_caption: 0.18258176743984222
+They are doing something here. A woman sitting on a bench holding a hot dog
+full_caption: 0.22832949459552765
+random_caption: 0.1984768509864807
+They are doing something here. A woman painting flowers on a red umbrella.
+full_caption: 0.22832949459552765
+random_caption: 0.18778300285339355
+They are doing something here. A wallet, laptop, cellphone, cups and bottles of water sitting on a table.
+full_caption: 0.22832949459552765
+random_caption: 0.21558162569999695
+They are doing something here. An infant and a teddy beat sitting up next to each other.
+full_caption: 0.22832949459552765
+random_caption: 0.23535338044166565
+../photobook_coco_images/images/COCO_train2014_000000528563.jpg full greater than random: 9
+../photobook_coco_images/images/COCO_train2014_000000528563.jpg random greater than full: 1
+../photobook_coco_images/images/COCO_train2014_000000330652.jpg
+They are doing something here. a woman stands in front of stainless steel refrigerators holding a sign
+full_caption: 0.2377873957157135
+random_caption: 0.07415876537561417
+They are doing something here. a man in a brown shirt is holding two large stuffed teddy bears
+full_caption: 0.2377873957157135
+random_caption: 0.13522657752037048
+They are doing something here. A man is standing beside a parking meter, writing on his hand.
+full_caption: 0.2377873957157135
+random_caption: 0.08184289187192917
+They are doing something here. A person wearing a neon safety vest holding an orange and green umbrella
+full_caption: 0.2377873957157135
+random_caption: 0.09188061207532883
+They are doing something here. A woman is painting designs on an umbrella.
+full_caption: 0.2377873957157135
+random_caption: 0.10637349635362625
+They are doing something here. A small white dog is poses near a wine glass.
+full_caption: 0.2377873957157135
+random_caption: 0.07389789819717407
+They are doing something here. a man and a woman with bicycles standing next to a train
+full_caption: 0.2377873957157135
+random_caption: 0.08778341859579086
+They are doing something here. Two men sit on a boat and prepare to scuba dive.
+full_caption: 0.2377873957157135
+random_caption: 0.1616002917289734
+They are doing something here. A man is laying on the floor of a hotel room next to an open suitcase.
+full_caption: 0.2377873957157135
+random_caption: 0.16290485858917236
+They are doing something here. A banana and a strawboard are on a laptop keyboard.
+full_caption: 0.2377873957157135
+random_caption: 0.13286156952381134
+../photobook_coco_images/images/COCO_train2014_000000330652.jpg full greater than random: 10
+../photobook_coco_images/images/COCO_train2014_000000330652.jpg random greater than full: 0
+../photobook_coco_images/images/COCO_train2014_000000184930.jpg
+They are doing something here. A woman with luggage standing behind her open trunk
+full_caption: 0.19710199534893036
+random_caption: 0.19764257967472076
+They are doing something here. A man in camouflage is shaking hands with a man in a suit in front of some trucks.
+full_caption: 0.19710199534893036
+random_caption: 0.23926280438899994
+They are doing something here. A pug dog lying on a persons lap who's holding a remote controller.
+full_caption: 0.19710199534893036
+random_caption: 0.13075684010982513
+They are doing something here. A woman in a white dress is sitting with her cell phone.
+full_caption: 0.19710199534893036
+random_caption: 0.11309316009283066
+They are doing something here. A large stack of brownies at a market.
+full_caption: 0.19710199534893036
+random_caption: 0.20093022286891937
+They are doing something here. A woman standing next to refrigerators holding a sign.
+full_caption: 0.19710199534893036
+random_caption: 0.1635291874408722
+They are doing something here. A woman with a wooden pizza board is near a huge oven.
+full_caption: 0.19710199534893036
+random_caption: 0.14182215929031372
+They are doing something here. A woman standing in front of a metal refrigerator freezer.
+full_caption: 0.19710199534893036
+random_caption: 0.1591767817735672
+They are doing something here. Two Navy sailors cutting a large sheet cake.
+full_caption: 0.19710199534893036
+random_caption: 0.14110293984413147
+They are doing something here. a man and woman standing next to a bike next to a subtrain
+full_caption: 0.19710199534893036
+random_caption: 0.16305451095104218
+../photobook_coco_images/images/COCO_train2014_000000184930.jpg full greater than random: 7
+../photobook_coco_images/images/COCO_train2014_000000184930.jpg random greater than full: 3
+../photobook_coco_images/images/COCO_train2014_000000196545.jpg
+They are doing something here. A white frosted cake in the middle of a table with someone holding a knife above it.
+full_caption: 0.1957653909921646
+random_caption: 0.22742924094200134
+They are doing something here. A man in camouflage is shaking hands with a man in a suit in front of some trucks.
+full_caption: 0.1957653909921646
+random_caption: 0.1536991447210312
+They are doing something here. Children laying in a booth at a restaurant
+full_caption: 0.1957653909921646
+random_caption: 0.18999339640140533
+They are doing something here. A man in a helmet observes his reflection in a motorcycle side mirror.
+full_caption: 0.1957653909921646
+random_caption: 0.11883191764354706
+They are doing something here. A person holding a green plastic knife getting ready to cut a white cake.
+full_caption: 0.1957653909921646
+random_caption: 0.22650155425071716
+They are doing something here. A man carrying two large teddy bears while looking to his left.
+full_caption: 0.1957653909921646
+random_caption: 0.18101941049098969
+They are doing something here. A young woman sitting in a restaurant with a pizza and soda in front of her.
+full_caption: 0.1957653909921646
+random_caption: 0.2740931510925293
+They are doing something here. A soldier cuts a large American military-themed cake.
+full_caption: 0.1957653909921646
+random_caption: 0.20624013245105743
+They are doing something here. A veteran cutting a birthday cake that is decorated in red, white, and blue.
+full_caption: 0.1957653909921646
+random_caption: 0.19383063912391663
+They are doing something here. The two friends are playing a game on the Wii console.
+full_caption: 0.1957653909921646
+random_caption: 0.22049061954021454
+../photobook_coco_images/images/COCO_train2014_000000196545.jpg full greater than random: 5
+../photobook_coco_images/images/COCO_train2014_000000196545.jpg random greater than full: 5
+../photobook_coco_images/images/COCO_train2014_000000198072.jpg
+They are doing something here. A couple of kids laying on top of booths.
+full_caption: 0.1630234271287918
+random_caption: 0.12613217532634735
+They are doing something here. A young woman sitting at a table in front of a piece of pizza.
+full_caption: 0.1630234271287918
+random_caption: 0.1365383118391037
+They are doing something here. A man and woman pause with their bikes beside a train.
+full_caption: 0.1630234271287918
+random_caption: 0.2072789967060089
+They are doing something here. A red laptop on a desk with various devices plugged in.
+full_caption: 0.1630234271287918
+random_caption: 0.08500576764345169
+They are doing something here. Two children are playing with letter magnets on a refrigerator.
+full_caption: 0.1630234271287918
+random_caption: 0.06890031695365906
+They are doing something here. A banana and a strawberry sitting on a lap top computer.
+full_caption: 0.1630234271287918
+random_caption: 0.11255013942718506
+They are doing something here. A young woman sits at a cafe table with a piece of pizza and a beverage.
+full_caption: 0.1630234271287918
+random_caption: 0.12172999233007431
+They are doing something here. Children laying in a booth at a restaurant
+full_caption: 0.1630234271287918
+random_caption: 0.08717695623636246
+They are doing something here. A man in grey sweater on floor next to a suitcase.
+full_caption: 0.1630234271287918
+random_caption: 0.09218508005142212
+They are doing something here. A woman in a white dress is sitting with her cell phone.
+full_caption: 0.1630234271287918
+random_caption: 0.11597565561532974
+../photobook_coco_images/images/COCO_train2014_000000198072.jpg full greater than random: 9
+../photobook_coco_images/images/COCO_train2014_000000198072.jpg random greater than full: 1
+../photobook_coco_images/images/COCO_train2014_000000439463.jpg
+They are doing something here. A dog with a wine glass being held to its face.
+full_caption: 0.20283113420009613
+random_caption: 0.10401607304811478
+They are doing something here. A large white cake sitting on top of a table.
+full_caption: 0.20283113420009613
+random_caption: 0.21008850634098053
+They are doing something here. A person is getting ready to cut a white cake.
+full_caption: 0.20283113420009613
+random_caption: 0.25245317816734314
+They are doing something here. A man is laying on the floor of a hotel room next to an open suitcase.
+full_caption: 0.20283113420009613
+random_caption: 0.17913943529129028
+They are doing something here. A soldier preparing to cut a large cake.
+full_caption: 0.20283113420009613
+random_caption: 0.22025640308856964
+They are doing something here. A white frosted cake in the middle of a table with someone holding a knife above it.
+full_caption: 0.20283113420009613
+random_caption: 0.22226884961128235
+They are doing something here. A woman is painting designs on an umbrella.
+full_caption: 0.20283113420009613
+random_caption: 0.19983023405075073
+They are doing something here. A man in grey sweater on floor next to a suitcase.
+full_caption: 0.20283113420009613
+random_caption: 0.19175472855567932
+They are doing something here. A small white dog is poses near a wine glass.
+full_caption: 0.20283113420009613
+random_caption: 0.12038680911064148
+They are doing something here. Two children are playing with letter magnets on a refrigerator.
+full_caption: 0.20283113420009613
+random_caption: 0.17104452848434448
+../photobook_coco_images/images/COCO_train2014_000000439463.jpg full greater than random: 6
+../photobook_coco_images/images/COCO_train2014_000000439463.jpg random greater than full: 4
+../photobook_coco_images/images/COCO_train2014_000000394151.jpg
+They are doing something here. A white frosted cake in the middle of a table with someone holding a knife above it.
+full_caption: 0.18583762645721436
+random_caption: 0.15179680287837982
+They are doing something here. A man and woman pause with their bikes beside a train.
+full_caption: 0.18583762645721436
+random_caption: 0.20075462758541107
+They are doing something here. A woman with a tattoo playing the Wii.
+full_caption: 0.18583762645721436
+random_caption: 0.17434906959533691
+They are doing something here. A banana and a strawberry is sitting on an open laptop keyboard.
+full_caption: 0.18583762645721436
+random_caption: 0.1669950634241104
+They are doing something here. A girl with long brown hair with streaks of red lays on a bed and looks at an open laptop computer.
+full_caption: 0.18583762645721436
+random_caption: 0.18723882734775543
+They are doing something here. 2 children look at magnetic letters on a refrigerator
+full_caption: 0.18583762645721436
+random_caption: 0.14417555928230286
+They are doing something here. a man and a woman with bicycles standing next to a train
+full_caption: 0.18583762645721436
+random_caption: 0.2246551215648651
+They are doing something here. A woman with glasses sitting at a table with a slice of pizza in front of her and a soft drink cup.
+full_caption: 0.18583762645721436
+random_caption: 0.1834549605846405
+They are doing something here. A dog riding on a scooter with someone.
+full_caption: 0.18583762645721436
+random_caption: 0.15019077062606812
+They are doing something here. A banana and strawberry on top of a laptop
+full_caption: 0.18583762645721436
+random_caption: 0.16786715388298035
+../photobook_coco_images/images/COCO_train2014_000000394151.jpg full greater than random: 7
+../photobook_coco_images/images/COCO_train2014_000000394151.jpg random greater than full: 3
+../photobook_coco_images/images/COCO_train2014_000000096222.jpg
+They are doing something here. The woman is standing above the two packed suitcases.
+full_caption: 0.1959156095981598
+random_caption: 0.18792691826820374
+They are doing something here. A person holding a green plastic knife getting ready to cut a white cake.
+full_caption: 0.1959156095981598
+random_caption: 0.31941667199134827
+They are doing something here. A banana and a strawboard are on a laptop keyboard.
+full_caption: 0.1959156095981598
+random_caption: 0.2267211377620697
+They are doing something here. A banana and strawberry on top of a laptop
+full_caption: 0.1959156095981598
+random_caption: 0.1851234883069992
+They are doing something here. Soldiers hold a refrigerator open to show a woman what's inside.
+full_caption: 0.1959156095981598
+random_caption: 0.20691430568695068
+They are doing something here. Girl laying on bed with a stuffed panda posing for the camera.
+full_caption: 0.1959156095981598
+random_caption: 0.07240746915340424
+They are doing something here. A woman standing in front of a metal refrigerator freezer.
+full_caption: 0.1959156095981598
+random_caption: 0.2361164093017578
+They are doing something here. A young boy eating a hot dog over a paper plate.
+full_caption: 0.1959156095981598
+random_caption: 0.22836895287036896
+They are doing something here. Two elderly women speak to each other on a bench.
+full_caption: 0.1959156095981598
+random_caption: 0.10480726510286331
+They are doing something here. A wallet, laptop, cellphone, cups and bottles of water sitting on a table.
+full_caption: 0.1959156095981598
+random_caption: 0.1901119500398636
+../photobook_coco_images/images/COCO_train2014_000000096222.jpg full greater than random: 5
+../photobook_coco_images/images/COCO_train2014_000000096222.jpg random greater than full: 5
+../photobook_coco_images/images/COCO_train2014_000000163939.jpg
+They are doing something here. A person in a yellow shirt about to ketchup the dog in a hot dog costume.
+full_caption: 0.20251843333244324
+random_caption: 0.11753438413143158
+They are doing something here. A dog with a wine glass being held to its face.
+full_caption: 0.20251843333244324
+random_caption: 0.13683314621448517
+They are doing something here. A man posing with a birthday cake in a kitchen.
+full_caption: 0.20251843333244324
+random_caption: 0.16517287492752075
+They are doing something here. A man standing in front of a cake on a table.
+full_caption: 0.20251843333244324
+random_caption: 0.18610616028308868
+They are doing something here. A banana and strawberry on the keyboard of a laptop.
+full_caption: 0.20251843333244324
+random_caption: 0.20785777270793915
+They are doing something here. A man doing a handstand trick on a skateboard near the beach and next to a group of parked bicycles.
+full_caption: 0.20251843333244324
+random_caption: 0.06911090016365051
+They are doing something here. An infant sits next to a stuffed teddy bear toy.
+full_caption: 0.20251843333244324
+random_caption: 0.14012902975082397
+They are doing something here. A man is carrying two extra large teddy bears.
+full_caption: 0.20251843333244324
+random_caption: 0.13309374451637268
+They are doing something here. A woman sitting on a bench holding a hot dog
+full_caption: 0.20251843333244324
+random_caption: 0.1480434685945511
+They are doing something here. A wallet, laptop, cellphone, cups and bottles of water sitting on a table.
+full_caption: 0.20251843333244324
+random_caption: 0.2530393600463867
+../photobook_coco_images/images/COCO_train2014_000000163939.jpg full greater than random: 8
+../photobook_coco_images/images/COCO_train2014_000000163939.jpg random greater than full: 2
+../photobook_coco_images/images/COCO_train2014_000000122731.jpg
+They are doing something here. Two men sit on a boat and prepare to scuba dive.
+full_caption: 0.19990170001983643
+random_caption: 0.20673727989196777
+They are doing something here. Two Navy sailors cutting a large sheet cake.
+full_caption: 0.19990170001983643
+random_caption: 0.17177456617355347
+They are doing something here. a person on a motorcycle and a dog
+full_caption: 0.19990170001983643
+random_caption: 0.15918447077274323
+They are doing something here. A motorcyclist with helmet and neon vest taking a photograph in side mirror
+full_caption: 0.19990170001983643
+random_caption: 0.2432558387517929
+They are doing something here. Soldiers hold a refrigerator open to show a woman what's inside.
+full_caption: 0.19990170001983643
+random_caption: 0.14591191709041595
+They are doing something here. Without paper handy, a man writes a reminder about the parking meter on his palm.
+full_caption: 0.19990170001983643
+random_caption: 0.19764354825019836
+They are doing something here. A small white dog is poses near a wine glass.
+full_caption: 0.19990170001983643
+random_caption: 0.13434316217899323
+They are doing something here. A young woman sitting in a restaurant with a pizza and soda in front of her.
+full_caption: 0.19990170001983643
+random_caption: 0.1349269449710846
+They are doing something here. A man in grey sweater on floor next to a suitcase.
+full_caption: 0.19990170001983643
+random_caption: 0.15636451542377472
+They are doing something here. A baby sits in a suitcase in front of a book shelf
+full_caption: 0.19990170001983643
+random_caption: 0.13761991262435913
+../photobook_coco_images/images/COCO_train2014_000000122731.jpg full greater than random: 8
+../photobook_coco_images/images/COCO_train2014_000000122731.jpg random greater than full: 2
+../photobook_coco_images/images/COCO_train2014_000000324732.jpg
+They are doing something here. A woman in a dress standing by some motorcycles.
+full_caption: 0.19190335273742676
+random_caption: 0.1891220510005951
+They are doing something here. A motorcyclist with helmet and neon vest taking a photograph in side mirror
+full_caption: 0.19190335273742676
+random_caption: 0.0977751612663269
+They are doing something here. A small white dog being offered a glass of red wine.
+full_caption: 0.19190335273742676
+random_caption: 0.11186205595731735
+They are doing something here. a man carrying one brown and one tan stuffed bear standing in front of a car poster
+full_caption: 0.19190335273742676
+random_caption: 0.20588427782058716
+They are doing something here. A person holding a green plastic knife getting ready to cut a white cake.
+full_caption: 0.19190335273742676
+random_caption: 0.1502847820520401
+They are doing something here. A white frosted cake in the middle of a table with someone holding a knife above it.
+full_caption: 0.19190335273742676
+random_caption: 0.13376165926456451
+They are doing something here. A young woman sits at a cafe table with a piece of pizza and a beverage.
+full_caption: 0.19190335273742676
+random_caption: 0.12679773569107056
+They are doing something here. A large stack of brownies at a market.
+full_caption: 0.19190335273742676
+random_caption: 0.16424793004989624
+They are doing something here. a man and a woman with bicycles standing next to a train
+full_caption: 0.19190335273742676
+random_caption: 0.17241303622722626
+They are doing something here. A man is standing beside a parking meter, writing on his hand.
+full_caption: 0.19190335273742676
+random_caption: 0.15562187135219574
+../photobook_coco_images/images/COCO_train2014_000000324732.jpg full greater than random: 9
+../photobook_coco_images/images/COCO_train2014_000000324732.jpg random greater than full: 1
+../photobook_coco_images/images/COCO_train2014_000000075299.jpg
+They are doing something here. A man and woman pause with their bikes beside a train.
+full_caption: 0.20429280400276184
+random_caption: 0.17905722558498383
+They are doing something here. Children laying in a booth at a restaurant
+full_caption: 0.20429280400276184
+random_caption: 0.15160037577152252
+They are doing something here. A woman with a wooden pizza board is near a huge oven.
+full_caption: 0.20429280400276184
+random_caption: 0.1909937709569931
+They are doing something here. a man holding two very large teddy bears
+full_caption: 0.20429280400276184
+random_caption: 0.21434417366981506
+They are doing something here. A man in camouflage is shaking hands with a man in a suit in front of some trucks.
+full_caption: 0.20429280400276184
+random_caption: 0.25535690784454346
+They are doing something here. Two small children playing with their refrigerator magnets.
+full_caption: 0.20429280400276184
+random_caption: 0.19085460901260376
+They are doing something here. A veteran cutting a birthday cake that is decorated in red, white, and blue.
+full_caption: 0.20429280400276184
+random_caption: 0.11984040588140488
+They are doing something here. a man and woman standing next to a bike next to a subtrain
+full_caption: 0.20429280400276184
+random_caption: 0.18436399102210999
+They are doing something here. a man in a brown shirt is holding two large stuffed teddy bears
+full_caption: 0.20429280400276184
+random_caption: 0.24167051911354065
+They are doing something here. A woman with glasses sitting at a table with a slice of pizza in front of her and a soft drink cup.
+full_caption: 0.20429280400276184
+random_caption: 0.12897855043411255
+../photobook_coco_images/images/COCO_train2014_000000075299.jpg full greater than random: 7
+../photobook_coco_images/images/COCO_train2014_000000075299.jpg random greater than full: 3
+../photobook_coco_images/images/COCO_train2014_000000184930.jpg
+They are doing something here. a person on a motorcycle and a dog
+full_caption: 0.19710199534893036
+random_caption: 0.19967737793922424
+They are doing something here. a man and a woman with bicycles standing next to a train
+full_caption: 0.19710199534893036
+random_caption: 0.15546803176403046
+They are doing something here. A motorcyclist with helmet and neon vest taking a photograph in side mirror
+full_caption: 0.19710199534893036
+random_caption: 0.15110982954502106
+They are doing something here. A person holding a green plastic knife getting ready to cut a white cake.
+full_caption: 0.19710199534893036
+random_caption: 0.14279694855213165
+They are doing something here. Two males in scuba gear on a boat.
+full_caption: 0.19710199534893036
+random_caption: 0.14098365604877472
+They are doing something here. A man doing a handstand trick on a skateboard near the beach and next to a group of parked bicycles.
+full_caption: 0.19710199534893036
+random_caption: 0.12620052695274353
+They are doing something here. A young woman sitting at a table in front of a piece of pizza.
+full_caption: 0.19710199534893036
+random_caption: 0.1201445609331131
+They are doing something here. A tin cup of noodles in water sitting in front of a computer.
+full_caption: 0.19710199534893036
+random_caption: 0.10041998326778412
+They are doing something here. A baby sits in a suitcase in front of a book shelf
+full_caption: 0.19710199534893036
+random_caption: 0.13484936952590942
+They are doing something here. A person with a yellow lab on a moped ridding down the street.
+full_caption: 0.19710199534893036
+random_caption: 0.16034595668315887
+../photobook_coco_images/images/COCO_train2014_000000184930.jpg full greater than random: 9
+../photobook_coco_images/images/COCO_train2014_000000184930.jpg random greater than full: 1
+
+# AGGREGATED RESULTS
+
+F0 R10: 0
+F1 R9: 0
+F2 R8: 2
+F3 R7: 1
+F4 R6: 4
+F5 R5: 8
+F6 R4: 15
+F7 R3: 15
+F8 R2: 20
+F9 R1: 17
+F10 R0: 18

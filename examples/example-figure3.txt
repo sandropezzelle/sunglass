@@ -1,0 +1,33 @@
+../photobook_coco_images/images/COCO_train2014_000000205931.jpg
+They are doing something here. A pug dog lying on a persons lap who's holding a remote controller.
+full_caption: 0.19894199073314667
+random_caption: 0.14855629205703735
+They are doing something here. A woman in a white dress is sitting with her cell phone.
+full_caption: 0.19894199073314667
+random_caption: 0.2780781388282776
+They are doing something here. Girl laying on bed with a stuffed panda posing for the camera.
+full_caption: 0.19894199073314667
+random_caption: 0.18269415199756622
+They are doing something here. A banana and a strawberry is sitting on an open laptop keyboard.
+full_caption: 0.19894199073314667
+random_caption: 0.17686817049980164
+They are doing something here. A girl with long brown hair with streaks of red lays on a bed and looks at an open laptop computer.
+full_caption: 0.19894199073314667
+random_caption: 0.22896867990493774
+They are doing something here. a gray and white cat is laying on top of a laptop
+full_caption: 0.19894199073314667
+random_caption: 0.10531803220510483
+They are doing something here. A lady holding a bottle of ketchup and a dog in a hot dog bun costume.
+full_caption: 0.19894199073314667
+random_caption: 0.23903946578502655
+They are doing something here. An infant sits next to a stuffed teddy bear toy.
+full_caption: 0.19894199073314667
+random_caption: 0.20062068104743958
+They are doing something here. Woman sitting on a bench holding a hotdog in her hand
+full_caption: 0.19894199073314667
+random_caption: 0.22905918955802917
+They are doing something here. Two small children playing with their refrigerator magnets.
+full_caption: 0.19894199073314667
+random_caption: 0.22217172384262085
+../photobook_coco_images/images/COCO_train2014_000000205931.jpg full greater than random: 4
+../photobook_coco_images/images/COCO_train2014_000000205931.jpg random greater than full: 6
