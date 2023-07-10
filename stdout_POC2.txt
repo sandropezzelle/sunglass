@@ -1,4 +1,4 @@
-../photobook_coco_images/images/COCO_train2014_000000196545.jpg
+./coco-images/images/COCO_train2014_000000196545.jpg
 They are doing something here. A person wearing a neon safety vest holding an orange and green umbrella
 full_caption: 0.1957653909921646
 random_caption: 0.1962849497795105
@@ -29,9 +29,9 @@ random_caption: 0.11883191764354706
 They are doing something here. Soldiers hold a refrigerator open to show a woman what's inside.
 full_caption: 0.1957653909921646
 random_caption: 0.18768310546875
-../photobook_coco_images/images/COCO_train2014_000000196545.jpg full greater than random: 6
-../photobook_coco_images/images/COCO_train2014_000000196545.jpg random greater than full: 4
-../photobook_coco_images/images/COCO_train2014_000000134599.jpg
+./coco-images/images/COCO_train2014_000000196545.jpg full greater than random: 6
+./coco-images/images/COCO_train2014_000000196545.jpg random greater than full: 4
+./coco-images/images/COCO_train2014_000000134599.jpg
 They are doing something here. A couple of kids laying on top of booths.
 full_caption: 0.20580479502677917
 random_caption: 0.1456090658903122
@@ -62,9 +62,9 @@ random_caption: 0.14936795830726624
 They are doing something here. Two young boys playing with letter magnets on the front of a refrigerator.
 full_caption: 0.20580479502677917
 random_caption: 0.1971307396888733
-../photobook_coco_images/images/COCO_train2014_000000134599.jpg full greater than random: 7
-../photobook_coco_images/images/COCO_train2014_000000134599.jpg random greater than full: 3
-../photobook_coco_images/images/COCO_train2014_000000196545.jpg
+./coco-images/images/COCO_train2014_000000134599.jpg full greater than random: 7
+./coco-images/images/COCO_train2014_000000134599.jpg random greater than full: 3
+./coco-images/images/COCO_train2014_000000196545.jpg
 They are doing something here. A man in grey sweater on floor next to a suitcase.
 full_caption: 0.1957653909921646
 random_caption: 0.2056841105222702
@@ -95,9 +95,9 @@ random_caption: 0.1962849497795105
 They are doing something here. Children laying in a booth at a restaurant
 full_caption: 0.1957653909921646
 random_caption: 0.18999339640140533
-../photobook_coco_images/images/COCO_train2014_000000196545.jpg full greater than random: 4
-../photobook_coco_images/images/COCO_train2014_000000196545.jpg random greater than full: 6
-../photobook_coco_images/images/COCO_train2014_000000475999.jpg
+./coco-images/images/COCO_train2014_000000196545.jpg full greater than random: 4
+./coco-images/images/COCO_train2014_000000196545.jpg random greater than full: 6
+./coco-images/images/COCO_train2014_000000475999.jpg
 They are doing something here. Without paper handy, a man writes a reminder about the parking meter on his palm.
 full_caption: 0.2014448046684265
 random_caption: 0.14208471775054932
@@ -128,9 +128,9 @@ random_caption: 0.25194481015205383
 They are doing something here. Two small children playing with their refrigerator magnets.
 full_caption: 0.2014448046684265
 random_caption: 0.1738370656967163
-../photobook_coco_images/images/COCO_train2014_000000475999.jpg full greater than random: 6
-../photobook_coco_images/images/COCO_train2014_000000475999.jpg random greater than full: 4
-../photobook_coco_images/images/COCO_train2014_000000134599.jpg
+./coco-images/images/COCO_train2014_000000475999.jpg full greater than random: 6
+./coco-images/images/COCO_train2014_000000475999.jpg random greater than full: 4
+./coco-images/images/COCO_train2014_000000134599.jpg
 They are doing something here. The woman is showing the toppings on her hotdog.
 full_caption: 0.20580479502677917
 random_caption: 0.21781879663467407
@@ -161,9 +161,9 @@ random_caption: 0.30746990442276
 They are doing something here. Children laying in a booth at a restaurant
 full_caption: 0.20580479502677917
 random_caption: 0.17303714156150818
-../photobook_coco_images/images/COCO_train2014_000000134599.jpg full greater than random: 5
-../photobook_coco_images/images/COCO_train2014_000000134599.jpg random greater than full: 5
-../photobook_coco_images/images/COCO_train2014_000000488127.jpg
+./coco-images/images/COCO_train2014_000000134599.jpg full greater than random: 5
+./coco-images/images/COCO_train2014_000000134599.jpg random greater than full: 5
+./coco-images/images/COCO_train2014_000000488127.jpg
 They are doing something here. A dog with a wine glass being held to its face.
 full_caption: 0.18412353098392487
 random_caption: 0.10090173780918121
@@ -194,9 +194,9 @@ random_caption: 0.1659362018108368
 They are doing something here. A woman sitting on a bench holding a hot dog
 full_caption: 0.18412353098392487
 random_caption: 0.12646393477916718
-../photobook_coco_images/images/COCO_train2014_000000488127.jpg full greater than random: 8
-../photobook_coco_images/images/COCO_train2014_000000488127.jpg random greater than full: 2
-../photobook_coco_images/images/COCO_train2014_000000096222.jpg
+./coco-images/images/COCO_train2014_000000488127.jpg full greater than random: 8
+./coco-images/images/COCO_train2014_000000488127.jpg random greater than full: 2
+./coco-images/images/COCO_train2014_000000096222.jpg
 They are doing something here. a woman stands in front of stainless steel refrigerators holding a sign
 full_caption: 0.1959156095981598
 random_caption: 0.18737809360027313
@@ -227,9 +227,9 @@ random_caption: 0.1514301747083664
 They are doing something here. A banana and a strawberry is sitting on an open laptop keyboard.
 full_caption: 0.1959156095981598
 random_caption: 0.2112933248281479
-../photobook_coco_images/images/COCO_train2014_000000096222.jpg full greater than random: 7
-../photobook_coco_images/images/COCO_train2014_000000096222.jpg random greater than full: 3
-../photobook_coco_images/images/COCO_train2014_000000266311.jpg
+./coco-images/images/COCO_train2014_000000096222.jpg full greater than random: 7
+./coco-images/images/COCO_train2014_000000096222.jpg random greater than full: 3
+./coco-images/images/COCO_train2014_000000266311.jpg
 They are doing something here. Two movers with their open moving van, which is parked on a city street.
 full_caption: 0.1951168179512024
 random_caption: 0.18698036670684814
@@ -260,9 +260,9 @@ random_caption: 0.18694539368152618
 They are doing something here. A dog riding on a motorcycle with a person
 full_caption: 0.1951168179512024
 random_caption: 0.1964135468006134
-../photobook_coco_images/images/COCO_train2014_000000266311.jpg full greater than random: 8
-../photobook_coco_images/images/COCO_train2014_000000266311.jpg random greater than full: 2
-../photobook_coco_images/images/COCO_train2014_000000195449.jpg
+./coco-images/images/COCO_train2014_000000266311.jpg full greater than random: 8
+./coco-images/images/COCO_train2014_000000266311.jpg random greater than full: 2
+./coco-images/images/COCO_train2014_000000195449.jpg
 They are doing something here. A large white cake sitting on top of a table.
 full_caption: 0.2288864403963089
 random_caption: 0.19324171543121338
@@ -293,9 +293,9 @@ random_caption: 0.17501607537269592
 They are doing something here. A wallet, laptop, cellphone, cups and bottles of water sitting on a table.
 full_caption: 0.2288864403963089
 random_caption: 0.1643514186143875
-../photobook_coco_images/images/COCO_train2014_000000195449.jpg full greater than random: 10
-../photobook_coco_images/images/COCO_train2014_000000195449.jpg random greater than full: 0
-../photobook_coco_images/images/COCO_train2014_000000449904.jpg
+./coco-images/images/COCO_train2014_000000195449.jpg full greater than random: 10
+./coco-images/images/COCO_train2014_000000195449.jpg random greater than full: 0
+./coco-images/images/COCO_train2014_000000449904.jpg
 They are doing something here. Children laying in a booth at a restaurant
 full_caption: 0.18912188708782196
 random_caption: 0.2366352677345276
@@ -326,9 +326,9 @@ random_caption: 0.24175001680850983
 They are doing something here. A young woman in glasses is holding a hot dog.
 full_caption: 0.18912188708782196
 random_caption: 0.3201642632484436
-../photobook_coco_images/images/COCO_train2014_000000449904.jpg full greater than random: 2
-../photobook_coco_images/images/COCO_train2014_000000449904.jpg random greater than full: 8
-../photobook_coco_images/images/COCO_train2014_000000522288.jpg
+./coco-images/images/COCO_train2014_000000449904.jpg full greater than random: 2
+./coco-images/images/COCO_train2014_000000449904.jpg random greater than full: 8
+./coco-images/images/COCO_train2014_000000522288.jpg
 They are doing something here. A dog riding on a scooter with someone.
 full_caption: 0.19043506681919098
 random_caption: 0.18335430324077606
@@ -359,9 +359,9 @@ random_caption: 0.1972701996564865
 They are doing something here. A man and woman pause with their bikes beside a train.
 full_caption: 0.19043506681919098
 random_caption: 0.06427199393510818
-../photobook_coco_images/images/COCO_train2014_000000522288.jpg full greater than random: 9
-../photobook_coco_images/images/COCO_train2014_000000522288.jpg random greater than full: 1
-../photobook_coco_images/images/COCO_train2014_000000196545.jpg
+./coco-images/images/COCO_train2014_000000522288.jpg full greater than random: 9
+./coco-images/images/COCO_train2014_000000522288.jpg random greater than full: 1
+./coco-images/images/COCO_train2014_000000196545.jpg
 They are doing something here. Girl laying on bed with a stuffed panda posing for the camera.
 full_caption: 0.1957653909921646
 random_caption: 0.16089271008968353
@@ -392,9 +392,9 @@ random_caption: 0.19761468470096588
 They are doing something here. A person wearing a neon safety vest holding an orange and green umbrella
 full_caption: 0.1957653909921646
 random_caption: 0.1962849497795105
-../photobook_coco_images/images/COCO_train2014_000000196545.jpg full greater than random: 5
-../photobook_coco_images/images/COCO_train2014_000000196545.jpg random greater than full: 5
-../photobook_coco_images/images/COCO_train2014_000000488127.jpg
+./coco-images/images/COCO_train2014_000000196545.jpg full greater than random: 5
+./coco-images/images/COCO_train2014_000000196545.jpg random greater than full: 5
+./coco-images/images/COCO_train2014_000000488127.jpg
 They are doing something here. A woman painting flowers on a red umbrella.
 full_caption: 0.18412353098392487
 random_caption: 0.11710644513368607
@@ -425,9 +425,9 @@ random_caption: 0.06909434497356415
 They are doing something here. A tin cup of noodles in water sitting in front of a computer.
 full_caption: 0.18412353098392487
 random_caption: 0.12553009390830994
-../photobook_coco_images/images/COCO_train2014_000000488127.jpg full greater than random: 9
-../photobook_coco_images/images/COCO_train2014_000000488127.jpg random greater than full: 1
-../photobook_coco_images/images/COCO_train2014_000000459209.jpg
+./coco-images/images/COCO_train2014_000000488127.jpg full greater than random: 9
+./coco-images/images/COCO_train2014_000000488127.jpg random greater than full: 1
+./coco-images/images/COCO_train2014_000000459209.jpg
 They are doing something here. A woman with glasses sitting at a table with a slice of pizza in front of her and a soft drink cup.
 full_caption: 0.23731082677841187
 random_caption: 0.08447384089231491
@@ -458,9 +458,9 @@ random_caption: 0.18222084641456604
 They are doing something here. A woman is painting designs on an umbrella.
 full_caption: 0.23731082677841187
 random_caption: 0.18031738698482513
-../photobook_coco_images/images/COCO_train2014_000000459209.jpg full greater than random: 10
-../photobook_coco_images/images/COCO_train2014_000000459209.jpg random greater than full: 0
-../photobook_coco_images/images/COCO_train2014_000000522288.jpg
+./coco-images/images/COCO_train2014_000000459209.jpg full greater than random: 10
+./coco-images/images/COCO_train2014_000000459209.jpg random greater than full: 0
+./coco-images/images/COCO_train2014_000000522288.jpg
 They are doing something here. A large white cake sitting on top of a table.
 full_caption: 0.19043506681919098
 random_caption: 0.2063644975423813
@@ -491,9 +491,9 @@ random_caption: 0.14699117839336395
 They are doing something here. A person with face make up and a multi color umbrella and jacket.
 full_caption: 0.19043506681919098
 random_caption: 0.20356695353984833
-../photobook_coco_images/images/COCO_train2014_000000522288.jpg full greater than random: 8
-../photobook_coco_images/images/COCO_train2014_000000522288.jpg random greater than full: 2
-../photobook_coco_images/images/COCO_train2014_000000210266.jpg
+./coco-images/images/COCO_train2014_000000522288.jpg full greater than random: 8
+./coco-images/images/COCO_train2014_000000522288.jpg random greater than full: 2
+./coco-images/images/COCO_train2014_000000210266.jpg
 They are doing something here. A woman with glasses sitting at a table with a slice of pizza in front of her and a soft drink cup.
 full_caption: 0.20282433927059174
 random_caption: 0.13747228682041168
@@ -524,9 +524,9 @@ random_caption: 0.16355983912944794
 They are doing something here. a man and woman standing next to a bike next to a subtrain
 full_caption: 0.20282433927059174
 random_caption: 0.15737439692020416
-../photobook_coco_images/images/COCO_train2014_000000210266.jpg full greater than random: 10
-../photobook_coco_images/images/COCO_train2014_000000210266.jpg random greater than full: 0
-../photobook_coco_images/images/COCO_train2014_000000122731.jpg
+./coco-images/images/COCO_train2014_000000210266.jpg full greater than random: 10
+./coco-images/images/COCO_train2014_000000210266.jpg random greater than full: 0
+./coco-images/images/COCO_train2014_000000122731.jpg
 They are doing something here. Soldiers hold a refrigerator open to show a woman what's inside.
 full_caption: 0.19990170001983643
 random_caption: 0.14591191709041595
@@ -557,9 +557,9 @@ random_caption: 0.14627259969711304
 They are doing something here. A woman in a white dress is sitting with her cell phone.
 full_caption: 0.19990170001983643
 random_caption: 0.17280173301696777
-../photobook_coco_images/images/COCO_train2014_000000122731.jpg full greater than random: 10
-../photobook_coco_images/images/COCO_train2014_000000122731.jpg random greater than full: 0
-../photobook_coco_images/images/COCO_train2014_000000029642.jpg
+./coco-images/images/COCO_train2014_000000122731.jpg full greater than random: 10
+./coco-images/images/COCO_train2014_000000122731.jpg random greater than full: 0
+./coco-images/images/COCO_train2014_000000029642.jpg
 They are doing something here. The woman is standing above the two packed suitcases.
 full_caption: 0.21945028007030487
 random_caption: 0.23738476634025574
@@ -590,9 +590,9 @@ random_caption: 0.21665461361408234
 They are doing something here. A person with face make up and a multi color umbrella and jacket.
 full_caption: 0.21945028007030487
 random_caption: 0.21938568353652954
-../photobook_coco_images/images/COCO_train2014_000000029642.jpg full greater than random: 7
-../photobook_coco_images/images/COCO_train2014_000000029642.jpg random greater than full: 3
-../photobook_coco_images/images/COCO_train2014_000000096222.jpg
+./coco-images/images/COCO_train2014_000000029642.jpg full greater than random: 7
+./coco-images/images/COCO_train2014_000000029642.jpg random greater than full: 3
+./coco-images/images/COCO_train2014_000000096222.jpg
 They are doing something here. A man and woman pause with their bikes beside a train.
 full_caption: 0.1959156095981598
 random_caption: 0.15026867389678955
@@ -623,9 +623,9 @@ random_caption: 0.1925526261329651
 They are doing something here. two women are chatting on a brown bench
 full_caption: 0.1959156095981598
 random_caption: 0.12231135368347168
-../photobook_coco_images/images/COCO_train2014_000000096222.jpg full greater than random: 6
-../photobook_coco_images/images/COCO_train2014_000000096222.jpg random greater than full: 4
-../photobook_coco_images/images/COCO_train2014_000000195449.jpg
+./coco-images/images/COCO_train2014_000000096222.jpg full greater than random: 6
+./coco-images/images/COCO_train2014_000000096222.jpg random greater than full: 4
+./coco-images/images/COCO_train2014_000000195449.jpg
 They are doing something here. a woman stands in front of stainless steel refrigerators holding a sign
 full_caption: 0.2288864403963089
 random_caption: 0.1157146468758583
@@ -656,9 +656,9 @@ random_caption: 0.16291460394859314
 They are doing something here. An infant sits next to a stuffed teddy bear toy.
 full_caption: 0.2288864403963089
 random_caption: 0.2176891565322876
-../photobook_coco_images/images/COCO_train2014_000000195449.jpg full greater than random: 8
-../photobook_coco_images/images/COCO_train2014_000000195449.jpg random greater than full: 2
-../photobook_coco_images/images/COCO_train2014_000000195449.jpg
+./coco-images/images/COCO_train2014_000000195449.jpg full greater than random: 8
+./coco-images/images/COCO_train2014_000000195449.jpg random greater than full: 2
+./coco-images/images/COCO_train2014_000000195449.jpg
 They are doing something here. A man standing over a cake with candles.
 full_caption: 0.2288864403963089
 random_caption: 0.12065722793340683
@@ -689,9 +689,9 @@ random_caption: 0.1643514186143875
 They are doing something here. A banana and a strawberry is sitting on an open laptop keyboard.
 full_caption: 0.2288864403963089
 random_caption: 0.17489880323410034
-../photobook_coco_images/images/COCO_train2014_000000195449.jpg full greater than random: 10
-../photobook_coco_images/images/COCO_train2014_000000195449.jpg random greater than full: 0
-../photobook_coco_images/images/COCO_train2014_000000134599.jpg
+./coco-images/images/COCO_train2014_000000195449.jpg full greater than random: 10
+./coco-images/images/COCO_train2014_000000195449.jpg random greater than full: 0
+./coco-images/images/COCO_train2014_000000134599.jpg
 They are doing something here. A banana and a strawberry is sitting on an open laptop keyboard.
 full_caption: 0.20580479502677917
 random_caption: 0.17884929478168488
@@ -722,9 +722,9 @@ random_caption: 0.2299533486366272
 They are doing something here. A man is standing beside a parking meter, writing on his hand.
 full_caption: 0.20580479502677917
 random_caption: 0.14555765688419342
-../photobook_coco_images/images/COCO_train2014_000000134599.jpg full greater than random: 8
-../photobook_coco_images/images/COCO_train2014_000000134599.jpg random greater than full: 2
-../photobook_coco_images/images/COCO_train2014_000000420523.jpg
+./coco-images/images/COCO_train2014_000000134599.jpg full greater than random: 8
+./coco-images/images/COCO_train2014_000000134599.jpg random greater than full: 2
+./coco-images/images/COCO_train2014_000000420523.jpg
 They are doing something here. 2 children look at magnetic letters on a refrigerator
 full_caption: 0.21377119421958923
 random_caption: 0.13513226807117462
@@ -755,9 +755,9 @@ random_caption: 0.17825773358345032
 They are doing something here. The two friends are playing a game on the Wii console.
 full_caption: 0.21377119421958923
 random_caption: 0.19217713177204132
-../photobook_coco_images/images/COCO_train2014_000000420523.jpg full greater than random: 10
-../photobook_coco_images/images/COCO_train2014_000000420523.jpg random greater than full: 0
-../photobook_coco_images/images/COCO_train2014_000000488127.jpg
+./coco-images/images/COCO_train2014_000000420523.jpg full greater than random: 10
+./coco-images/images/COCO_train2014_000000420523.jpg random greater than full: 0
+./coco-images/images/COCO_train2014_000000488127.jpg
 They are doing something here. A gray cat laying on top of a laptop computer.
 full_caption: 0.18412353098392487
 random_caption: 0.07850709557533264
@@ -788,9 +788,9 @@ random_caption: 0.11551617830991745
 They are doing something here. The woman is showing the toppings on her hotdog.
 full_caption: 0.18412353098392487
 random_caption: 0.1659362018108368
-../photobook_coco_images/images/COCO_train2014_000000488127.jpg full greater than random: 9
-../photobook_coco_images/images/COCO_train2014_000000488127.jpg random greater than full: 1
-../photobook_coco_images/images/COCO_train2014_000000160471.jpg
+./coco-images/images/COCO_train2014_000000488127.jpg full greater than random: 9
+./coco-images/images/COCO_train2014_000000488127.jpg random greater than full: 1
+./coco-images/images/COCO_train2014_000000160471.jpg
 They are doing something here. Two elderly women speak to each other on a bench.
 full_caption: 0.21017064154148102
 random_caption: 0.12250150740146637
@@ -821,9 +821,9 @@ random_caption: 0.20318269729614258
 They are doing something here. Two movers with their open moving van, which is parked on a city street.
 full_caption: 0.21017064154148102
 random_caption: 0.19920974969863892
-../photobook_coco_images/images/COCO_train2014_000000160471.jpg full greater than random: 8
-../photobook_coco_images/images/COCO_train2014_000000160471.jpg random greater than full: 2
-../photobook_coco_images/images/COCO_train2014_000000481931.jpg
+./coco-images/images/COCO_train2014_000000160471.jpg full greater than random: 8
+./coco-images/images/COCO_train2014_000000160471.jpg random greater than full: 2
+./coco-images/images/COCO_train2014_000000481931.jpg
 They are doing something here. A motorcyclist with helmet and neon vest taking a photograph in side mirror
 full_caption: 0.2017640322446823
 random_caption: 0.09343499690294266
@@ -854,9 +854,9 @@ random_caption: 0.1345314383506775
 They are doing something here. A pug dog lying on a persons lap who's holding a remote controller.
 full_caption: 0.2017640322446823
 random_caption: 0.09610788524150848
-../photobook_coco_images/images/COCO_train2014_000000481931.jpg full greater than random: 8
-../photobook_coco_images/images/COCO_train2014_000000481931.jpg random greater than full: 2
-../photobook_coco_images/images/COCO_train2014_000000420523.jpg
+./coco-images/images/COCO_train2014_000000481931.jpg full greater than random: 8
+./coco-images/images/COCO_train2014_000000481931.jpg random greater than full: 2
+./coco-images/images/COCO_train2014_000000420523.jpg
 They are doing something here. 2 children look at magnetic letters on a refrigerator
 full_caption: 0.21377119421958923
 random_caption: 0.13513226807117462
@@ -887,9 +887,9 @@ random_caption: 0.17119809985160828
 They are doing something here. A man riding on the back of a motorcycle with a large brown dog.
 full_caption: 0.21377119421958923
 random_caption: 0.1008453443646431
-../photobook_coco_images/images/COCO_train2014_000000420523.jpg full greater than random: 10
-../photobook_coco_images/images/COCO_train2014_000000420523.jpg random greater than full: 0
-../photobook_coco_images/images/COCO_train2014_000000522288.jpg
+./coco-images/images/COCO_train2014_000000420523.jpg full greater than random: 10
+./coco-images/images/COCO_train2014_000000420523.jpg random greater than full: 0
+./coco-images/images/COCO_train2014_000000522288.jpg
 They are doing something here. A hot dog covered in toppings sitting next to beer.
 full_caption: 0.19043506681919098
 random_caption: 0.20444513857364655
@@ -920,9 +920,9 @@ random_caption: 0.12986889481544495
 They are doing something here. a man and a woman with bicycles standing next to a train
 full_caption: 0.19043506681919098
 random_caption: 0.08537085354328156
-../photobook_coco_images/images/COCO_train2014_000000522288.jpg full greater than random: 9
-../photobook_coco_images/images/COCO_train2014_000000522288.jpg random greater than full: 1
-../photobook_coco_images/images/COCO_train2014_000000336942.jpg
+./coco-images/images/COCO_train2014_000000522288.jpg full greater than random: 9
+./coco-images/images/COCO_train2014_000000522288.jpg random greater than full: 1
+./coco-images/images/COCO_train2014_000000336942.jpg
 They are doing something here. A motorcyclist with helmet and neon vest taking a photograph in side mirror
 full_caption: 0.21237966418266296
 random_caption: 0.16445446014404297
@@ -953,9 +953,9 @@ random_caption: 0.20138663053512573
 They are doing something here. A young woman sits at a cafe table with a piece of pizza and a beverage.
 full_caption: 0.21237966418266296
 random_caption: 0.27459046244621277
-../photobook_coco_images/images/COCO_train2014_000000336942.jpg full greater than random: 4
-../photobook_coco_images/images/COCO_train2014_000000336942.jpg random greater than full: 6
-../photobook_coco_images/images/COCO_train2014_000000134238.jpg
+./coco-images/images/COCO_train2014_000000336942.jpg full greater than random: 4
+./coco-images/images/COCO_train2014_000000336942.jpg random greater than full: 6
+./coco-images/images/COCO_train2014_000000134238.jpg
 They are doing something here. A person holds a Wii-mote while a dog sleeps in their lap.
 full_caption: 0.18175910413265228
 random_caption: 0.1260223537683487
@@ -986,9 +986,9 @@ random_caption: 0.17993232607841492
 They are doing something here. A man in grey sweater on floor next to a suitcase.
 full_caption: 0.18175910413265228
 random_caption: 0.13561518490314484
-../photobook_coco_images/images/COCO_train2014_000000134238.jpg full greater than random: 9
-../photobook_coco_images/images/COCO_train2014_000000134238.jpg random greater than full: 1
-../photobook_coco_images/images/COCO_train2014_000000196545.jpg
+./coco-images/images/COCO_train2014_000000134238.jpg full greater than random: 9
+./coco-images/images/COCO_train2014_000000134238.jpg random greater than full: 1
+./coco-images/images/COCO_train2014_000000196545.jpg
 They are doing something here. two women are chatting on a brown bench
 full_caption: 0.1957653909921646
 random_caption: 0.26252278685569763
@@ -1019,9 +1019,9 @@ random_caption: 0.18999339640140533
 They are doing something here. A man is carrying two extra large teddy bears.
 full_caption: 0.1957653909921646
 random_caption: 0.17355065047740936
-../photobook_coco_images/images/COCO_train2014_000000196545.jpg full greater than random: 6
-../photobook_coco_images/images/COCO_train2014_000000196545.jpg random greater than full: 4
-../photobook_coco_images/images/COCO_train2014_000000195449.jpg
+./coco-images/images/COCO_train2014_000000196545.jpg full greater than random: 6
+./coco-images/images/COCO_train2014_000000196545.jpg random greater than full: 4
+./coco-images/images/COCO_train2014_000000195449.jpg
 They are doing something here. A large stack of brownies at a market.
 full_caption: 0.2288864403963089
 random_caption: 0.17393758893013
@@ -1052,9 +1052,9 @@ random_caption: 0.24529999494552612
 They are doing something here. A dog inside a stuffed hot dog bun on a man's lap.
 full_caption: 0.2288864403963089
 random_caption: 0.27602314949035645
-../photobook_coco_images/images/COCO_train2014_000000195449.jpg full greater than random: 6
-../photobook_coco_images/images/COCO_train2014_000000195449.jpg random greater than full: 4
-../photobook_coco_images/images/COCO_train2014_000000184930.jpg
+./coco-images/images/COCO_train2014_000000195449.jpg full greater than random: 6
+./coco-images/images/COCO_train2014_000000195449.jpg random greater than full: 4
+./coco-images/images/COCO_train2014_000000184930.jpg
 They are doing something here. A soldier preparing to cut a large cake.
 full_caption: 0.19710199534893036
 random_caption: 0.15667498111724854
@@ -1085,9 +1085,9 @@ random_caption: 0.13957087695598602
 They are doing something here. Woman sitting on a bench holding a hotdog in her hand
 full_caption: 0.19710199534893036
 random_caption: 0.11613171547651291
-../photobook_coco_images/images/COCO_train2014_000000184930.jpg full greater than random: 9
-../photobook_coco_images/images/COCO_train2014_000000184930.jpg random greater than full: 1
-../photobook_coco_images/images/COCO_train2014_000000200221.jpg
+./coco-images/images/COCO_train2014_000000184930.jpg full greater than random: 9
+./coco-images/images/COCO_train2014_000000184930.jpg random greater than full: 1
+./coco-images/images/COCO_train2014_000000200221.jpg
 They are doing something here. A young woman sitting at a table in front of a piece of pizza.
 full_caption: 0.19130559265613556
 random_caption: 0.18425670266151428
@@ -1118,9 +1118,9 @@ random_caption: 0.17481771111488342
 They are doing something here. A young woman sitting in a restaurant with a pizza and soda in front of her.
 full_caption: 0.19130559265613556
 random_caption: 0.15334951877593994
-../photobook_coco_images/images/COCO_train2014_000000200221.jpg full greater than random: 6
-../photobook_coco_images/images/COCO_train2014_000000200221.jpg random greater than full: 4
-../photobook_coco_images/images/COCO_train2014_000000449904.jpg
+./coco-images/images/COCO_train2014_000000200221.jpg full greater than random: 6
+./coco-images/images/COCO_train2014_000000200221.jpg random greater than full: 4
+./coco-images/images/COCO_train2014_000000449904.jpg
 They are doing something here. A motorcyclist with helmet and neon vest taking a photograph in side mirror
 full_caption: 0.18912188708782196
 random_caption: 0.18537616729736328
@@ -1151,9 +1151,9 @@ random_caption: 0.1707669496536255
 They are doing something here. Two children lying on the booth seats of a restaurant.
 full_caption: 0.18912188708782196
 random_caption: 0.2563808560371399
-../photobook_coco_images/images/COCO_train2014_000000449904.jpg full greater than random: 5
-../photobook_coco_images/images/COCO_train2014_000000449904.jpg random greater than full: 5
-../photobook_coco_images/images/COCO_train2014_000000488127.jpg
+./coco-images/images/COCO_train2014_000000449904.jpg full greater than random: 5
+./coco-images/images/COCO_train2014_000000449904.jpg random greater than full: 5
+./coco-images/images/COCO_train2014_000000488127.jpg
 They are doing something here. A person with a yellow lab on a moped ridding down the street.
 full_caption: 0.18412353098392487
 random_caption: 0.06992660462856293
@@ -1184,9 +1184,9 @@ random_caption: 0.24265387654304504
 They are doing something here. a person on a motorcycle and a dog
 full_caption: 0.18412353098392487
 random_caption: 0.12295404076576233
-../photobook_coco_images/images/COCO_train2014_000000488127.jpg full greater than random: 7
-../photobook_coco_images/images/COCO_train2014_000000488127.jpg random greater than full: 3
-../photobook_coco_images/images/COCO_train2014_000000330652.jpg
+./coco-images/images/COCO_train2014_000000488127.jpg full greater than random: 7
+./coco-images/images/COCO_train2014_000000488127.jpg random greater than full: 3
+./coco-images/images/COCO_train2014_000000330652.jpg
 They are doing something here. A person with a yellow lab on a moped ridding down the street.
 full_caption: 0.2377873957157135
 random_caption: 0.09812501072883606
@@ -1217,9 +1217,9 @@ random_caption: 0.14281392097473145
 They are doing something here. a person on a motorcycle and a dog
 full_caption: 0.2377873957157135
 random_caption: 0.14426474273204803
-../photobook_coco_images/images/COCO_train2014_000000330652.jpg full greater than random: 10
-../photobook_coco_images/images/COCO_train2014_000000330652.jpg random greater than full: 0
-../photobook_coco_images/images/COCO_train2014_000000459209.jpg
+./coco-images/images/COCO_train2014_000000330652.jpg full greater than random: 10
+./coco-images/images/COCO_train2014_000000330652.jpg random greater than full: 0
+./coco-images/images/COCO_train2014_000000459209.jpg
 They are doing something here. a man holding two very large teddy bears
 full_caption: 0.23731082677841187
 random_caption: 0.1386355310678482
@@ -1250,9 +1250,9 @@ random_caption: 0.10338611155748367
 They are doing something here. A young woman sits at a cafe table with a piece of pizza and a beverage.
 full_caption: 0.23731082677841187
 random_caption: 0.08126472681760788
-../photobook_coco_images/images/COCO_train2014_000000459209.jpg full greater than random: 10
-../photobook_coco_images/images/COCO_train2014_000000459209.jpg random greater than full: 0
-../photobook_coco_images/images/COCO_train2014_000000034815.jpg
+./coco-images/images/COCO_train2014_000000459209.jpg full greater than random: 10
+./coco-images/images/COCO_train2014_000000459209.jpg random greater than full: 0
+./coco-images/images/COCO_train2014_000000034815.jpg
 They are doing something here. Two children are playing with letter magnets on a refrigerator.
 full_caption: 0.18677569925785065
 random_caption: 0.1311069279909134
@@ -1283,9 +1283,9 @@ random_caption: 0.13952478766441345
 They are doing something here. A dog riding on a motorcycle with a person
 full_caption: 0.18677569925785065
 random_caption: 0.17980366945266724
-../photobook_coco_images/images/COCO_train2014_000000034815.jpg full greater than random: 9
-../photobook_coco_images/images/COCO_train2014_000000034815.jpg random greater than full: 1
-../photobook_coco_images/images/COCO_train2014_000000449904.jpg
+./coco-images/images/COCO_train2014_000000034815.jpg full greater than random: 9
+./coco-images/images/COCO_train2014_000000034815.jpg random greater than full: 1
+./coco-images/images/COCO_train2014_000000449904.jpg
 They are doing something here. A small white dog is poses near a wine glass.
 full_caption: 0.18912188708782196
 random_caption: 0.15522149205207825
@@ -1316,9 +1316,9 @@ random_caption: 0.22196780145168304
 They are doing something here. A man doing a handstand trick on a skateboard near the beach and next to a group of parked bicycles.
 full_caption: 0.18912188708782196
 random_caption: 0.09403445571660995
-../photobook_coco_images/images/COCO_train2014_000000449904.jpg full greater than random: 5
-../photobook_coco_images/images/COCO_train2014_000000449904.jpg random greater than full: 5
-../photobook_coco_images/images/COCO_train2014_000000420523.jpg
+./coco-images/images/COCO_train2014_000000449904.jpg full greater than random: 5
+./coco-images/images/COCO_train2014_000000449904.jpg random greater than full: 5
+./coco-images/images/COCO_train2014_000000420523.jpg
 They are doing something here. A red laptop on a desk with various devices plugged in.
 full_caption: 0.21377119421958923
 random_caption: 0.23607808351516724
@@ -1349,9 +1349,9 @@ random_caption: 0.10712362080812454
 They are doing something here. A small white dog is poses near a wine glass.
 full_caption: 0.21377119421958923
 random_caption: 0.11659769713878632
-../photobook_coco_images/images/COCO_train2014_000000420523.jpg full greater than random: 9
-../photobook_coco_images/images/COCO_train2014_000000420523.jpg random greater than full: 1
-../photobook_coco_images/images/COCO_train2014_000000560969.jpg
+./coco-images/images/COCO_train2014_000000420523.jpg full greater than random: 9
+./coco-images/images/COCO_train2014_000000420523.jpg random greater than full: 1
+./coco-images/images/COCO_train2014_000000560969.jpg
 They are doing something here. two women are chatting on a brown bench
 full_caption: 0.20682485401630402
 random_caption: 0.10623520612716675
@@ -1382,9 +1382,9 @@ random_caption: 0.22109438478946686
 They are doing something here. A woman standing next to refrigerators holding a sign.
 full_caption: 0.20682485401630402
 random_caption: 0.07697475701570511
-../photobook_coco_images/images/COCO_train2014_000000560969.jpg full greater than random: 9
-../photobook_coco_images/images/COCO_train2014_000000560969.jpg random greater than full: 1
-../photobook_coco_images/images/COCO_train2014_000000420523.jpg
+./coco-images/images/COCO_train2014_000000560969.jpg full greater than random: 9
+./coco-images/images/COCO_train2014_000000560969.jpg random greater than full: 1
+./coco-images/images/COCO_train2014_000000420523.jpg
 They are doing something here. A cake with a missing slice on a floral plate, two bowls of fruit and a hand of bananas.
 full_caption: 0.21377119421958923
 random_caption: 0.3104141354560852
@@ -1415,9 +1415,9 @@ random_caption: 0.13560982048511505
 They are doing something here. a person on a motorcycle and a dog
 full_caption: 0.21377119421958923
 random_caption: 0.14229154586791992
-../photobook_coco_images/images/COCO_train2014_000000420523.jpg full greater than random: 8
-../photobook_coco_images/images/COCO_train2014_000000420523.jpg random greater than full: 2
-../photobook_coco_images/images/COCO_train2014_000000340923.jpg
+./coco-images/images/COCO_train2014_000000420523.jpg full greater than random: 8
+./coco-images/images/COCO_train2014_000000420523.jpg random greater than full: 2
+./coco-images/images/COCO_train2014_000000340923.jpg
 They are doing something here. A banana and a strawboard are on a laptop keyboard.
 full_caption: 0.19383738934993744
 random_caption: 0.1328776627779007
@@ -1448,9 +1448,9 @@ random_caption: 0.10938549786806107
 They are doing something here. A person with a yellow lab on a moped ridding down the street.
 full_caption: 0.19383738934993744
 random_caption: 0.12548747658729553
-../photobook_coco_images/images/COCO_train2014_000000340923.jpg full greater than random: 9
-../photobook_coco_images/images/COCO_train2014_000000340923.jpg random greater than full: 1
-../photobook_coco_images/images/COCO_train2014_000000330652.jpg
+./coco-images/images/COCO_train2014_000000340923.jpg full greater than random: 9
+./coco-images/images/COCO_train2014_000000340923.jpg random greater than full: 1
+./coco-images/images/COCO_train2014_000000330652.jpg
 They are doing something here. A man standing over a cake with candles.
 full_caption: 0.2377873957157135
 random_caption: 0.09735270589590073
@@ -1481,9 +1481,9 @@ random_caption: 0.10402607172727585
 They are doing something here. Woman sitting on a bench holding a hotdog in her hand
 full_caption: 0.2377873957157135
 random_caption: 0.18153265118598938
-../photobook_coco_images/images/COCO_train2014_000000330652.jpg full greater than random: 10
-../photobook_coco_images/images/COCO_train2014_000000330652.jpg random greater than full: 0
-../photobook_coco_images/images/COCO_train2014_000000195449.jpg
+./coco-images/images/COCO_train2014_000000330652.jpg full greater than random: 10
+./coco-images/images/COCO_train2014_000000330652.jpg random greater than full: 0
+./coco-images/images/COCO_train2014_000000195449.jpg
 They are doing something here. A person in a yellow shirt about to ketchup the dog in a hot dog costume.
 full_caption: 0.2288864403963089
 random_caption: 0.26159951090812683
@@ -1514,9 +1514,9 @@ random_caption: 0.20878644287586212
 They are doing something here. two women are chatting on a brown bench
 full_caption: 0.2288864403963089
 random_caption: 0.19059962034225464
-../photobook_coco_images/images/COCO_train2014_000000195449.jpg full greater than random: 7
-../photobook_coco_images/images/COCO_train2014_000000195449.jpg random greater than full: 3
-../photobook_coco_images/images/COCO_train2014_000000034815.jpg
+./coco-images/images/COCO_train2014_000000195449.jpg full greater than random: 7
+./coco-images/images/COCO_train2014_000000195449.jpg random greater than full: 3
+./coco-images/images/COCO_train2014_000000034815.jpg
 They are doing something here. a woman stands in front of stainless steel refrigerators holding a sign
 full_caption: 0.18677569925785065
 random_caption: 0.17189598083496094
@@ -1547,9 +1547,9 @@ random_caption: 0.12343159317970276
 They are doing something here. A large stack of brownies at a market.
 full_caption: 0.18677569925785065
 random_caption: 0.13843725621700287
-../photobook_coco_images/images/COCO_train2014_000000034815.jpg full greater than random: 7
-../photobook_coco_images/images/COCO_train2014_000000034815.jpg random greater than full: 3
-../photobook_coco_images/images/COCO_train2014_000000160471.jpg
+./coco-images/images/COCO_train2014_000000034815.jpg full greater than random: 7
+./coco-images/images/COCO_train2014_000000034815.jpg random greater than full: 3
+./coco-images/images/COCO_train2014_000000160471.jpg
 They are doing something here. A man posing with a birthday cake in a kitchen.
 full_caption: 0.21017064154148102
 random_caption: 0.2523905038833618
@@ -1580,9 +1580,9 @@ random_caption: 0.18911346793174744
 They are doing something here. Two young boys playing with letter magnets on the front of a refrigerator.
 full_caption: 0.21017064154148102
 random_caption: 0.20626752078533173
-../photobook_coco_images/images/COCO_train2014_000000160471.jpg full greater than random: 4
-../photobook_coco_images/images/COCO_train2014_000000160471.jpg random greater than full: 6
-../photobook_coco_images/images/COCO_train2014_000000034815.jpg
+./coco-images/images/COCO_train2014_000000160471.jpg full greater than random: 4
+./coco-images/images/COCO_train2014_000000160471.jpg random greater than full: 6
+./coco-images/images/COCO_train2014_000000034815.jpg
 They are doing something here. A motorcyclist with helmet and neon vest taking a photograph in side mirror
 full_caption: 0.18677569925785065
 random_caption: 0.1994735151529312
@@ -1613,9 +1613,9 @@ random_caption: 0.18570759892463684
 They are doing something here. A wallet, laptop, cellphone, cups and bottles of water sitting on a table.
 full_caption: 0.18677569925785065
 random_caption: 0.15281185507774353
-../photobook_coco_images/images/COCO_train2014_000000034815.jpg full greater than random: 6
-../photobook_coco_images/images/COCO_train2014_000000034815.jpg random greater than full: 4
-../photobook_coco_images/images/COCO_train2014_000000335696.jpg
+./coco-images/images/COCO_train2014_000000034815.jpg full greater than random: 6
+./coco-images/images/COCO_train2014_000000034815.jpg random greater than full: 4
+./coco-images/images/COCO_train2014_000000335696.jpg
 They are doing something here. A man carrying two large teddy bears while looking to his left.
 full_caption: 0.20596714317798615
 random_caption: 0.1711462438106537
@@ -1646,9 +1646,9 @@ random_caption: 0.1899014711380005
 They are doing something here. An infant sits next to a stuffed teddy bear toy.
 full_caption: 0.20596714317798615
 random_caption: 0.187139630317688
-../photobook_coco_images/images/COCO_train2014_000000335696.jpg full greater than random: 6
-../photobook_coco_images/images/COCO_train2014_000000335696.jpg random greater than full: 4
-../photobook_coco_images/images/COCO_train2014_000000040338.jpg
+./coco-images/images/COCO_train2014_000000335696.jpg full greater than random: 6
+./coco-images/images/COCO_train2014_000000335696.jpg random greater than full: 4
+./coco-images/images/COCO_train2014_000000040338.jpg
 They are doing something here. A dog riding on a motorcycle with a person
 full_caption: 0.1941472291946411
 random_caption: 0.08053130656480789
@@ -1679,9 +1679,9 @@ random_caption: 0.19991429150104523
 They are doing something here. two children laying on restaurant booth seats 
 full_caption: 0.1941472291946411
 random_caption: 0.160608172416687
-../photobook_coco_images/images/COCO_train2014_000000040338.jpg full greater than random: 6
-../photobook_coco_images/images/COCO_train2014_000000040338.jpg random greater than full: 4
-../photobook_coco_images/images/COCO_train2014_000000394151.jpg
+./coco-images/images/COCO_train2014_000000040338.jpg full greater than random: 6
+./coco-images/images/COCO_train2014_000000040338.jpg random greater than full: 4
+./coco-images/images/COCO_train2014_000000394151.jpg
 They are doing something here. A veteran cutting a birthday cake that is decorated in red, white, and blue.
 full_caption: 0.18583762645721436
 random_caption: 0.15070146322250366
@@ -1712,9 +1712,9 @@ random_caption: 0.18343335390090942
 They are doing something here. A woman standing next to refrigerators holding a sign.
 full_caption: 0.18583762645721436
 random_caption: 0.24736204743385315
-../photobook_coco_images/images/COCO_train2014_000000394151.jpg full greater than random: 8
-../photobook_coco_images/images/COCO_train2014_000000394151.jpg random greater than full: 2
-../photobook_coco_images/images/COCO_train2014_000000459209.jpg
+./coco-images/images/COCO_train2014_000000394151.jpg full greater than random: 8
+./coco-images/images/COCO_train2014_000000394151.jpg random greater than full: 2
+./coco-images/images/COCO_train2014_000000459209.jpg
 They are doing something here. A young woman sits at a cafe table with a piece of pizza and a beverage.
 full_caption: 0.23731082677841187
 random_caption: 0.08126472681760788
@@ -1745,9 +1745,9 @@ random_caption: 0.12662242352962494
 They are doing something here. A dog riding on a motorcycle with a person
 full_caption: 0.23731082677841187
 random_caption: 0.1297869086265564
-../photobook_coco_images/images/COCO_train2014_000000459209.jpg full greater than random: 10
-../photobook_coco_images/images/COCO_train2014_000000459209.jpg random greater than full: 0
-../photobook_coco_images/images/COCO_train2014_000000145499.jpg
+./coco-images/images/COCO_train2014_000000459209.jpg full greater than random: 10
+./coco-images/images/COCO_train2014_000000459209.jpg random greater than full: 0
+./coco-images/images/COCO_train2014_000000145499.jpg
 They are doing something here. A man laying on the floor near a suitcase.
 full_caption: 0.21566343307495117
 random_caption: 0.22610114514827728
@@ -1778,9 +1778,9 @@ random_caption: 0.22875908017158508
 They are doing something here. two children laying on restaurant booth seats 
 full_caption: 0.21566343307495117
 random_caption: 0.23666328191757202
-../photobook_coco_images/images/COCO_train2014_000000145499.jpg full greater than random: 2
-../photobook_coco_images/images/COCO_train2014_000000145499.jpg random greater than full: 8
-../photobook_coco_images/images/COCO_train2014_000000184930.jpg
+./coco-images/images/COCO_train2014_000000145499.jpg full greater than random: 2
+./coco-images/images/COCO_train2014_000000145499.jpg random greater than full: 8
+./coco-images/images/COCO_train2014_000000184930.jpg
 They are doing something here. Two children are playing with letter magnets on a refrigerator.
 full_caption: 0.19710199534893036
 random_caption: 0.168008953332901
@@ -1811,9 +1811,9 @@ random_caption: 0.19085413217544556
 They are doing something here. A young woman in glasses is holding a hot dog.
 full_caption: 0.19710199534893036
 random_caption: 0.1278560310602188
-../photobook_coco_images/images/COCO_train2014_000000184930.jpg full greater than random: 10
-../photobook_coco_images/images/COCO_train2014_000000184930.jpg random greater than full: 0
-../photobook_coco_images/images/COCO_train2014_000000461183.jpg
+./coco-images/images/COCO_train2014_000000184930.jpg full greater than random: 10
+./coco-images/images/COCO_train2014_000000184930.jpg random greater than full: 0
+./coco-images/images/COCO_train2014_000000461183.jpg
 They are doing something here. A banana and strawberry on the keyboard of a laptop.
 full_caption: 0.1840866357088089
 random_caption: 0.11767050623893738
@@ -1844,9 +1844,9 @@ random_caption: 0.11746174842119217
 They are doing something here. Soldiers hold a refrigerator open to show a woman what's inside.
 full_caption: 0.1840866357088089
 random_caption: 0.1729976236820221
-../photobook_coco_images/images/COCO_train2014_000000461183.jpg full greater than random: 9
-../photobook_coco_images/images/COCO_train2014_000000461183.jpg random greater than full: 1
-../photobook_coco_images/images/COCO_train2014_000000344597.jpg
+./coco-images/images/COCO_train2014_000000461183.jpg full greater than random: 9
+./coco-images/images/COCO_train2014_000000461183.jpg random greater than full: 1
+./coco-images/images/COCO_train2014_000000344597.jpg
 They are doing something here. A young boy eating a hot dog over a paper plate.
 full_caption: 0.21297530829906464
 random_caption: 0.20044636726379395
@@ -1877,9 +1877,9 @@ random_caption: 0.18940408527851105
 They are doing something here. two children laying on restaurant booth seats 
 full_caption: 0.21297530829906464
 random_caption: 0.18513087928295135
-../photobook_coco_images/images/COCO_train2014_000000344597.jpg full greater than random: 6
-../photobook_coco_images/images/COCO_train2014_000000344597.jpg random greater than full: 4
-../photobook_coco_images/images/COCO_train2014_000000205931.jpg
+./coco-images/images/COCO_train2014_000000344597.jpg full greater than random: 6
+./coco-images/images/COCO_train2014_000000344597.jpg random greater than full: 4
+./coco-images/images/COCO_train2014_000000205931.jpg
 They are doing something here. A woman with a tattoo playing the Wii.
 full_caption: 0.19894199073314667
 random_caption: 0.26262861490249634
@@ -1910,9 +1910,9 @@ random_caption: 0.20149771869182587
 They are doing something here. A person with a yellow lab on a moped ridding down the street.
 full_caption: 0.19894199073314667
 random_caption: 0.11065376549959183
-../photobook_coco_images/images/COCO_train2014_000000205931.jpg full greater than random: 3
-../photobook_coco_images/images/COCO_train2014_000000205931.jpg random greater than full: 7
-../photobook_coco_images/images/COCO_train2014_000000528563.jpg
+./coco-images/images/COCO_train2014_000000205931.jpg full greater than random: 3
+./coco-images/images/COCO_train2014_000000205931.jpg random greater than full: 7
+./coco-images/images/COCO_train2014_000000528563.jpg
 They are doing something here. A man laying on the floor near a suitcase.
 full_caption: 0.22832949459552765
 random_caption: 0.1745876967906952
@@ -1943,9 +1943,9 @@ random_caption: 0.28303322196006775
 They are doing something here. A man in a suit and tie holding an umbrella in an alley filled with them.
 full_caption: 0.22832949459552765
 random_caption: 0.1489037126302719
-../photobook_coco_images/images/COCO_train2014_000000528563.jpg full greater than random: 9
-../photobook_coco_images/images/COCO_train2014_000000528563.jpg random greater than full: 1
-../photobook_coco_images/images/COCO_train2014_000000160471.jpg
+./coco-images/images/COCO_train2014_000000528563.jpg full greater than random: 9
+./coco-images/images/COCO_train2014_000000528563.jpg random greater than full: 1
+./coco-images/images/COCO_train2014_000000160471.jpg
 They are doing something here. A woman with a tattoo playing the Wii.
 full_caption: 0.21017064154148102
 random_caption: 0.25285908579826355
@@ -1976,9 +1976,9 @@ random_caption: 0.20318269729614258
 They are doing something here. A person in a yellow shirt about to ketchup the dog in a hot dog costume.
 full_caption: 0.21017064154148102
 random_caption: 0.21851617097854614
-../photobook_coco_images/images/COCO_train2014_000000160471.jpg full greater than random: 6
-../photobook_coco_images/images/COCO_train2014_000000160471.jpg random greater than full: 4
-../photobook_coco_images/images/COCO_train2014_000000324732.jpg
+./coco-images/images/COCO_train2014_000000160471.jpg full greater than random: 6
+./coco-images/images/COCO_train2014_000000160471.jpg random greater than full: 4
+./coco-images/images/COCO_train2014_000000324732.jpg
 They are doing something here. A man is standing beside a parking meter, writing on his hand.
 full_caption: 0.19190335273742676
 random_caption: 0.15562187135219574
@@ -2009,9 +2009,9 @@ random_caption: 0.2121122181415558
 They are doing something here. A soldier cuts a large American military-themed cake.
 full_caption: 0.19190335273742676
 random_caption: 0.13222582638263702
-../photobook_coco_images/images/COCO_train2014_000000324732.jpg full greater than random: 7
-../photobook_coco_images/images/COCO_train2014_000000324732.jpg random greater than full: 3
-../photobook_coco_images/images/COCO_train2014_000000461183.jpg
+./coco-images/images/COCO_train2014_000000324732.jpg full greater than random: 7
+./coco-images/images/COCO_train2014_000000324732.jpg random greater than full: 3
+./coco-images/images/COCO_train2014_000000461183.jpg
 They are doing something here. Two movers with their open moving van, which is parked on a city street.
 full_caption: 0.1840866357088089
 random_caption: 0.1749468296766281
@@ -2042,9 +2042,9 @@ random_caption: 0.1494324654340744
 They are doing something here. The woman is showing the toppings on her hotdog.
 full_caption: 0.1840866357088089
 random_caption: 0.10676269233226776
-../photobook_coco_images/images/COCO_train2014_000000461183.jpg full greater than random: 10
-../photobook_coco_images/images/COCO_train2014_000000461183.jpg random greater than full: 0
-../photobook_coco_images/images/COCO_train2014_000000121619.jpg
+./coco-images/images/COCO_train2014_000000461183.jpg full greater than random: 10
+./coco-images/images/COCO_train2014_000000461183.jpg random greater than full: 0
+./coco-images/images/COCO_train2014_000000121619.jpg
 They are doing something here. A person with a yellow lab on a moped ridding down the street.
 full_caption: 0.20273493230342865
 random_caption: 0.16279096901416779
@@ -2075,9 +2075,9 @@ random_caption: 0.18310315907001495
 They are doing something here. A woman is painting designs on an umbrella.
 full_caption: 0.20273493230342865
 random_caption: 0.22088584303855896
-../photobook_coco_images/images/COCO_train2014_000000121619.jpg full greater than random: 8
-../photobook_coco_images/images/COCO_train2014_000000121619.jpg random greater than full: 2
-../photobook_coco_images/images/COCO_train2014_000000035995.jpg
+./coco-images/images/COCO_train2014_000000121619.jpg full greater than random: 8
+./coco-images/images/COCO_train2014_000000121619.jpg random greater than full: 2
+./coco-images/images/COCO_train2014_000000035995.jpg
 They are doing something here. A man is standing beside a parking meter, writing on his hand.
 full_caption: 0.19273340702056885
 random_caption: 0.1946272999048233
@@ -2108,9 +2108,9 @@ random_caption: 0.1282772719860077
 They are doing something here. A man is laying on the floor of a hotel room next to an open suitcase.
 full_caption: 0.19273340702056885
 random_caption: 0.1400757133960724
-../photobook_coco_images/images/COCO_train2014_000000035995.jpg full greater than random: 8
-../photobook_coco_images/images/COCO_train2014_000000035995.jpg random greater than full: 2
-../photobook_coco_images/images/COCO_train2014_000000292101.jpg
+./coco-images/images/COCO_train2014_000000035995.jpg full greater than random: 8
+./coco-images/images/COCO_train2014_000000035995.jpg random greater than full: 2
+./coco-images/images/COCO_train2014_000000292101.jpg
 They are doing something here. Two children lying on the booth seats of a restaurant.
 full_caption: 0.22100430727005005
 random_caption: 0.18653756380081177
@@ -2141,9 +2141,9 @@ random_caption: 0.1522177904844284
 They are doing something here. A white frosted cake in the middle of a table with someone holding a knife above it.
 full_caption: 0.22100430727005005
 random_caption: 0.2095152884721756
-../photobook_coco_images/images/COCO_train2014_000000292101.jpg full greater than random: 6
-../photobook_coco_images/images/COCO_train2014_000000292101.jpg random greater than full: 4
-../photobook_coco_images/images/COCO_train2014_000000420523.jpg
+./coco-images/images/COCO_train2014_000000292101.jpg full greater than random: 6
+./coco-images/images/COCO_train2014_000000292101.jpg random greater than full: 4
+./coco-images/images/COCO_train2014_000000420523.jpg
 They are doing something here. Two men sit on a boat and prepare to scuba dive.
 full_caption: 0.21377119421958923
 random_caption: 0.13633990287780762
@@ -2174,9 +2174,9 @@ random_caption: 0.11941985040903091
 They are doing something here. A man standing over a cake with candles.
 full_caption: 0.21377119421958923
 random_caption: 0.17654182016849518
-../photobook_coco_images/images/COCO_train2014_000000420523.jpg full greater than random: 8
-../photobook_coco_images/images/COCO_train2014_000000420523.jpg random greater than full: 2
-../photobook_coco_images/images/COCO_train2014_000000449904.jpg
+./coco-images/images/COCO_train2014_000000420523.jpg full greater than random: 8
+./coco-images/images/COCO_train2014_000000420523.jpg random greater than full: 2
+./coco-images/images/COCO_train2014_000000449904.jpg
 They are doing something here. A man is standing beside a parking meter, writing on his hand.
 full_caption: 0.18912188708782196
 random_caption: 0.15772013366222382
@@ -2207,9 +2207,9 @@ random_caption: 0.1715395748615265
 They are doing something here. A man doing a handstand trick on a skateboard near the beach and next to a group of parked bicycles.
 full_caption: 0.18912188708782196
 random_caption: 0.09403445571660995
-../photobook_coco_images/images/COCO_train2014_000000449904.jpg full greater than random: 7
-../photobook_coco_images/images/COCO_train2014_000000449904.jpg random greater than full: 3
-../photobook_coco_images/images/COCO_train2014_000000344597.jpg
+./coco-images/images/COCO_train2014_000000449904.jpg full greater than random: 7
+./coco-images/images/COCO_train2014_000000449904.jpg random greater than full: 3
+./coco-images/images/COCO_train2014_000000344597.jpg
 They are doing something here. A man in camouflage is shaking hands with a man in a suit in front of some trucks.
 full_caption: 0.21297530829906464
 random_caption: 0.11199931055307388
@@ -2240,9 +2240,9 @@ random_caption: 0.1995575875043869
 They are doing something here. A man standing in front of a cake on a table.
 full_caption: 0.21297530829906464
 random_caption: 0.19154475629329681
-../photobook_coco_images/images/COCO_train2014_000000344597.jpg full greater than random: 8
-../photobook_coco_images/images/COCO_train2014_000000344597.jpg random greater than full: 2
-../photobook_coco_images/images/COCO_train2014_000000121619.jpg
+./coco-images/images/COCO_train2014_000000344597.jpg full greater than random: 8
+./coco-images/images/COCO_train2014_000000344597.jpg random greater than full: 2
+./coco-images/images/COCO_train2014_000000121619.jpg
 They are doing something here. a man and a woman with bicycles standing next to a train
 full_caption: 0.20273493230342865
 random_caption: 0.1677263081073761
@@ -2273,9 +2273,9 @@ random_caption: 0.15938620269298553
 They are doing something here. A man riding on the back of a motorcycle with a large brown dog.
 full_caption: 0.20273493230342865
 random_caption: 0.15257245302200317
-../photobook_coco_images/images/COCO_train2014_000000121619.jpg full greater than random: 8
-../photobook_coco_images/images/COCO_train2014_000000121619.jpg random greater than full: 2
-../photobook_coco_images/images/COCO_train2014_000000096222.jpg
+./coco-images/images/COCO_train2014_000000121619.jpg full greater than random: 8
+./coco-images/images/COCO_train2014_000000121619.jpg random greater than full: 2
+./coco-images/images/COCO_train2014_000000096222.jpg
 They are doing something here. A person wearing a neon safety vest holding an orange and green umbrella
 full_caption: 0.1959156095981598
 random_caption: 0.20328786969184875
@@ -2306,9 +2306,9 @@ random_caption: 0.1887815147638321
 They are doing something here. A dog with a wine glass being held to its face.
 full_caption: 0.1959156095981598
 random_caption: 0.17644311487674713
-../photobook_coco_images/images/COCO_train2014_000000096222.jpg full greater than random: 6
-../photobook_coco_images/images/COCO_train2014_000000096222.jpg random greater than full: 4
-../photobook_coco_images/images/COCO_train2014_000000340923.jpg
+./coco-images/images/COCO_train2014_000000096222.jpg full greater than random: 6
+./coco-images/images/COCO_train2014_000000096222.jpg random greater than full: 4
+./coco-images/images/COCO_train2014_000000340923.jpg
 They are doing something here. A person is getting ready to cut a white cake.
 full_caption: 0.19383738934993744
 random_caption: 0.18710139393806458
@@ -2339,9 +2339,9 @@ random_caption: 0.12728527188301086
 They are doing something here. A woman with luggage standing behind her open trunk
 full_caption: 0.19383738934993744
 random_caption: 0.1697303205728531
-../photobook_coco_images/images/COCO_train2014_000000340923.jpg full greater than random: 10
-../photobook_coco_images/images/COCO_train2014_000000340923.jpg random greater than full: 0
-../photobook_coco_images/images/COCO_train2014_000000292101.jpg
+./coco-images/images/COCO_train2014_000000340923.jpg full greater than random: 10
+./coco-images/images/COCO_train2014_000000340923.jpg random greater than full: 0
+./coco-images/images/COCO_train2014_000000292101.jpg
 They are doing something here. A man in camouflage is shaking hands with a man in a suit in front of some trucks.
 full_caption: 0.22100430727005005
 random_caption: 0.12205633521080017
@@ -2372,9 +2372,9 @@ random_caption: 0.24422769248485565
 They are doing something here. A soldier cuts a large American military-themed cake.
 full_caption: 0.22100430727005005
 random_caption: 0.15073759853839874
-../photobook_coco_images/images/COCO_train2014_000000292101.jpg full greater than random: 9
-../photobook_coco_images/images/COCO_train2014_000000292101.jpg random greater than full: 1
-../photobook_coco_images/images/COCO_train2014_000000184930.jpg
+./coco-images/images/COCO_train2014_000000292101.jpg full greater than random: 9
+./coco-images/images/COCO_train2014_000000292101.jpg random greater than full: 1
+./coco-images/images/COCO_train2014_000000184930.jpg
 They are doing something here. Soldiers hold a refrigerator open to show a woman what's inside.
 full_caption: 0.19710199534893036
 random_caption: 0.14623476564884186
@@ -2405,9 +2405,9 @@ random_caption: 0.14279694855213165
 They are doing something here. A pug dog lying on a persons lap who's holding a remote controller.
 full_caption: 0.19710199534893036
 random_caption: 0.13075684010982513
-../photobook_coco_images/images/COCO_train2014_000000184930.jpg full greater than random: 10
-../photobook_coco_images/images/COCO_train2014_000000184930.jpg random greater than full: 0
-../photobook_coco_images/images/COCO_train2014_000000468357.jpg
+./coco-images/images/COCO_train2014_000000184930.jpg full greater than random: 10
+./coco-images/images/COCO_train2014_000000184930.jpg random greater than full: 0
+./coco-images/images/COCO_train2014_000000468357.jpg
 They are doing something here. The woman is showing the toppings on her hotdog.
 full_caption: 0.2103327512741089
 random_caption: 0.18259859085083008
@@ -2438,9 +2438,9 @@ random_caption: 0.1820022016763687
 They are doing something here. A person wearing a neon safety vest holding an orange and green umbrella
 full_caption: 0.2103327512741089
 random_caption: 0.1630721539258957
-../photobook_coco_images/images/COCO_train2014_000000468357.jpg full greater than random: 7
-../photobook_coco_images/images/COCO_train2014_000000468357.jpg random greater than full: 3
-../photobook_coco_images/images/COCO_train2014_000000330652.jpg
+./coco-images/images/COCO_train2014_000000468357.jpg full greater than random: 7
+./coco-images/images/COCO_train2014_000000468357.jpg random greater than full: 3
+./coco-images/images/COCO_train2014_000000330652.jpg
 They are doing something here. A banana and a strawberry is sitting on an open laptop keyboard.
 full_caption: 0.2377873957157135
 random_caption: 0.15720313787460327
@@ -2471,9 +2471,9 @@ random_caption: 0.11968519538640976
 They are doing something here. An infant and a teddy beat sitting up next to each other.
 full_caption: 0.2377873957157135
 random_caption: 0.21634508669376373
-../photobook_coco_images/images/COCO_train2014_000000330652.jpg full greater than random: 10
-../photobook_coco_images/images/COCO_train2014_000000330652.jpg random greater than full: 0
-../photobook_coco_images/images/COCO_train2014_000000279373.jpg
+./coco-images/images/COCO_train2014_000000330652.jpg full greater than random: 10
+./coco-images/images/COCO_train2014_000000330652.jpg random greater than full: 0
+./coco-images/images/COCO_train2014_000000279373.jpg
 They are doing something here. A woman with a wooden pizza board is near a huge oven.
 full_caption: 0.1678558886051178
 random_caption: 0.17383192479610443
@@ -2504,9 +2504,9 @@ random_caption: 0.14856518805027008
 They are doing something here. A man is standing beside a parking meter, writing on his hand.
 full_caption: 0.1678558886051178
 random_caption: 0.11791542917490005
-../photobook_coco_images/images/COCO_train2014_000000279373.jpg full greater than random: 8
-../photobook_coco_images/images/COCO_train2014_000000279373.jpg random greater than full: 2
-../photobook_coco_images/images/COCO_train2014_000000134599.jpg
+./coco-images/images/COCO_train2014_000000279373.jpg full greater than random: 8
+./coco-images/images/COCO_train2014_000000279373.jpg random greater than full: 2
+./coco-images/images/COCO_train2014_000000134599.jpg
 They are doing something here. A man doing a handstand trick on a skateboard near the beach and next to a group of parked bicycles.
 full_caption: 0.20580479502677917
 random_caption: 0.1592637151479721
@@ -2537,9 +2537,9 @@ random_caption: 0.25618189573287964
 They are doing something here. A banana and a strawberry is sitting on an open laptop keyboard.
 full_caption: 0.20580479502677917
 random_caption: 0.17884929478168488
-../photobook_coco_images/images/COCO_train2014_000000134599.jpg full greater than random: 8
-../photobook_coco_images/images/COCO_train2014_000000134599.jpg random greater than full: 2
-../photobook_coco_images/images/COCO_train2014_000000324732.jpg
+./coco-images/images/COCO_train2014_000000134599.jpg full greater than random: 8
+./coco-images/images/COCO_train2014_000000134599.jpg random greater than full: 2
+./coco-images/images/COCO_train2014_000000324732.jpg
 They are doing something here. Two men sit on a boat and prepare to scuba dive.
 full_caption: 0.19190335273742676
 random_caption: 0.10764101892709732
@@ -2570,9 +2570,9 @@ random_caption: 0.12460927665233612
 They are doing something here. A man standing over a cake with candles.
 full_caption: 0.19190335273742676
 random_caption: 0.12320519983768463
-../photobook_coco_images/images/COCO_train2014_000000324732.jpg full greater than random: 7
-../photobook_coco_images/images/COCO_train2014_000000324732.jpg random greater than full: 3
-../photobook_coco_images/images/COCO_train2014_000000145499.jpg
+./coco-images/images/COCO_train2014_000000324732.jpg full greater than random: 7
+./coco-images/images/COCO_train2014_000000324732.jpg random greater than full: 3
+./coco-images/images/COCO_train2014_000000145499.jpg
 They are doing something here. A man doing a handstand trick on a skateboard near the beach and next to a group of parked bicycles.
 full_caption: 0.21566343307495117
 random_caption: 0.15159684419631958
@@ -2603,9 +2603,9 @@ random_caption: 0.2130637764930725
 They are doing something here. Two elderly women speak to each other on a bench.
 full_caption: 0.21566343307495117
 random_caption: 0.1773928850889206
-../photobook_coco_images/images/COCO_train2014_000000145499.jpg full greater than random: 7
-../photobook_coco_images/images/COCO_train2014_000000145499.jpg random greater than full: 3
-../photobook_coco_images/images/COCO_train2014_000000459209.jpg
+./coco-images/images/COCO_train2014_000000145499.jpg full greater than random: 7
+./coco-images/images/COCO_train2014_000000145499.jpg random greater than full: 3
+./coco-images/images/COCO_train2014_000000459209.jpg
 They are doing something here. Without paper handy, a man writes a reminder about the parking meter on his palm.
 full_caption: 0.23731082677841187
 random_caption: 0.18314793705940247
@@ -2636,9 +2636,9 @@ random_caption: 0.1363028734922409
 They are doing something here. A man is laying on the floor of a hotel room next to an open suitcase.
 full_caption: 0.23731082677841187
 random_caption: 0.149185910820961
-../photobook_coco_images/images/COCO_train2014_000000459209.jpg full greater than random: 10
-../photobook_coco_images/images/COCO_train2014_000000459209.jpg random greater than full: 0
-../photobook_coco_images/images/COCO_train2014_000000570019.jpg
+./coco-images/images/COCO_train2014_000000459209.jpg full greater than random: 10
+./coco-images/images/COCO_train2014_000000459209.jpg random greater than full: 0
+./coco-images/images/COCO_train2014_000000570019.jpg
 They are doing something here. A woman sitting on a bench holding a hot dog
 full_caption: 0.19473907351493835
 random_caption: 0.2301599085330963
@@ -2669,9 +2669,9 @@ random_caption: 0.16634024679660797
 They are doing something here. a man carrying one brown and one tan stuffed bear standing in front of a car poster
 full_caption: 0.19473907351493835
 random_caption: 0.10419285297393799
-../photobook_coco_images/images/COCO_train2014_000000570019.jpg full greater than random: 7
-../photobook_coco_images/images/COCO_train2014_000000570019.jpg random greater than full: 3
-../photobook_coco_images/images/COCO_train2014_000000335696.jpg
+./coco-images/images/COCO_train2014_000000570019.jpg full greater than random: 7
+./coco-images/images/COCO_train2014_000000570019.jpg random greater than full: 3
+./coco-images/images/COCO_train2014_000000335696.jpg
 They are doing something here. A tin cup of noodles in water sitting in front of a computer.
 full_caption: 0.20596714317798615
 random_caption: 0.16457028687000275
@@ -2702,9 +2702,9 @@ random_caption: 0.20886389911174774
 They are doing something here. A young boy eating a hot dog over a paper plate.
 full_caption: 0.20596714317798615
 random_caption: 0.17219027876853943
-../photobook_coco_images/images/COCO_train2014_000000335696.jpg full greater than random: 6
-../photobook_coco_images/images/COCO_train2014_000000335696.jpg random greater than full: 4
-../photobook_coco_images/images/COCO_train2014_000000198072.jpg
+./coco-images/images/COCO_train2014_000000335696.jpg full greater than random: 6
+./coco-images/images/COCO_train2014_000000335696.jpg random greater than full: 4
+./coco-images/images/COCO_train2014_000000198072.jpg
 They are doing something here. A man in a suit and tie holding an umbrella in an alley filled with them.
 full_caption: 0.1630234271287918
 random_caption: 0.11885763704776764
@@ -2735,9 +2735,9 @@ random_caption: 0.06890031695365906
 They are doing something here. A red laptop on a desk with various devices plugged in.
 full_caption: 0.1630234271287918
 random_caption: 0.08500576764345169
-../photobook_coco_images/images/COCO_train2014_000000198072.jpg full greater than random: 8
-../photobook_coco_images/images/COCO_train2014_000000198072.jpg random greater than full: 2
-../photobook_coco_images/images/COCO_train2014_000000468357.jpg
+./coco-images/images/COCO_train2014_000000198072.jpg full greater than random: 8
+./coco-images/images/COCO_train2014_000000198072.jpg random greater than full: 2
+./coco-images/images/COCO_train2014_000000468357.jpg
 They are doing something here. A cake with a missing slice on a floral plate, two bowls of fruit and a hand of bananas.
 full_caption: 0.2103327512741089
 random_caption: 0.18134011328220367
@@ -2768,9 +2768,9 @@ random_caption: 0.13061992824077606
 They are doing something here. Two children lying on the booth seats of a restaurant.
 full_caption: 0.2103327512741089
 random_caption: 0.23442764580249786
-../photobook_coco_images/images/COCO_train2014_000000468357.jpg full greater than random: 5
-../photobook_coco_images/images/COCO_train2014_000000468357.jpg random greater than full: 5
-../photobook_coco_images/images/COCO_train2014_000000112029.jpg
+./coco-images/images/COCO_train2014_000000468357.jpg full greater than random: 5
+./coco-images/images/COCO_train2014_000000468357.jpg random greater than full: 5
+./coco-images/images/COCO_train2014_000000112029.jpg
 They are doing something here. A pug dog lying on a persons lap who's holding a remote controller.
 full_caption: 0.21284747123718262
 random_caption: 0.21478499472141266
@@ -2801,9 +2801,9 @@ random_caption: 0.1575498729944229
 They are doing something here. A person holds a Wii-mote while a dog sleeps in their lap.
 full_caption: 0.21284747123718262
 random_caption: 0.2392529845237732
-../photobook_coco_images/images/COCO_train2014_000000112029.jpg full greater than random: 8
-../photobook_coco_images/images/COCO_train2014_000000112029.jpg random greater than full: 2
-../photobook_coco_images/images/COCO_train2014_000000205931.jpg
+./coco-images/images/COCO_train2014_000000112029.jpg full greater than random: 8
+./coco-images/images/COCO_train2014_000000112029.jpg random greater than full: 2
+./coco-images/images/COCO_train2014_000000205931.jpg
 They are doing something here. A pug dog lying on a persons lap who's holding a remote controller.
 full_caption: 0.19894199073314667
 random_caption: 0.14855629205703735
@@ -2834,9 +2834,9 @@ random_caption: 0.22905918955802917
 They are doing something here. Two small children playing with their refrigerator magnets.
 full_caption: 0.19894199073314667
 random_caption: 0.22217172384262085
-../photobook_coco_images/images/COCO_train2014_000000205931.jpg full greater than random: 4
-../photobook_coco_images/images/COCO_train2014_000000205931.jpg random greater than full: 6
-../photobook_coco_images/images/COCO_train2014_000000145499.jpg
+./coco-images/images/COCO_train2014_000000205931.jpg full greater than random: 4
+./coco-images/images/COCO_train2014_000000205931.jpg random greater than full: 6
+./coco-images/images/COCO_train2014_000000145499.jpg
 They are doing something here. A man in a suit and tie holding an umbrella in an alley filled with them.
 full_caption: 0.21566343307495117
 random_caption: 0.11803536117076874
@@ -2867,9 +2867,9 @@ random_caption: 0.22610114514827728
 They are doing something here. The woman is standing above the two packed suitcases.
 full_caption: 0.21566343307495117
 random_caption: 0.2009773552417755
-../photobook_coco_images/images/COCO_train2014_000000145499.jpg full greater than random: 5
-../photobook_coco_images/images/COCO_train2014_000000145499.jpg random greater than full: 5
-../photobook_coco_images/images/COCO_train2014_000000528563.jpg
+./coco-images/images/COCO_train2014_000000145499.jpg full greater than random: 5
+./coco-images/images/COCO_train2014_000000145499.jpg random greater than full: 5
+./coco-images/images/COCO_train2014_000000528563.jpg
 They are doing something here. A soldier cuts a large American military-themed cake.
 full_caption: 0.22832949459552765
 random_caption: 0.20965446531772614
@@ -2900,9 +2900,9 @@ random_caption: 0.21558162569999695
 They are doing something here. An infant and a teddy beat sitting up next to each other.
 full_caption: 0.22832949459552765
 random_caption: 0.23535338044166565
-../photobook_coco_images/images/COCO_train2014_000000528563.jpg full greater than random: 9
-../photobook_coco_images/images/COCO_train2014_000000528563.jpg random greater than full: 1
-../photobook_coco_images/images/COCO_train2014_000000330652.jpg
+./coco-images/images/COCO_train2014_000000528563.jpg full greater than random: 9
+./coco-images/images/COCO_train2014_000000528563.jpg random greater than full: 1
+./coco-images/images/COCO_train2014_000000330652.jpg
 They are doing something here. a woman stands in front of stainless steel refrigerators holding a sign
 full_caption: 0.2377873957157135
 random_caption: 0.07415876537561417
@@ -2933,9 +2933,9 @@ random_caption: 0.16290485858917236
 They are doing something here. A banana and a strawboard are on a laptop keyboard.
 full_caption: 0.2377873957157135
 random_caption: 0.13286156952381134
-../photobook_coco_images/images/COCO_train2014_000000330652.jpg full greater than random: 10
-../photobook_coco_images/images/COCO_train2014_000000330652.jpg random greater than full: 0
-../photobook_coco_images/images/COCO_train2014_000000184930.jpg
+./coco-images/images/COCO_train2014_000000330652.jpg full greater than random: 10
+./coco-images/images/COCO_train2014_000000330652.jpg random greater than full: 0
+./coco-images/images/COCO_train2014_000000184930.jpg
 They are doing something here. A woman with luggage standing behind her open trunk
 full_caption: 0.19710199534893036
 random_caption: 0.19764257967472076
@@ -2966,9 +2966,9 @@ random_caption: 0.14110293984413147
 They are doing something here. a man and woman standing next to a bike next to a subtrain
 full_caption: 0.19710199534893036
 random_caption: 0.16305451095104218
-../photobook_coco_images/images/COCO_train2014_000000184930.jpg full greater than random: 7
-../photobook_coco_images/images/COCO_train2014_000000184930.jpg random greater than full: 3
-../photobook_coco_images/images/COCO_train2014_000000196545.jpg
+./coco-images/images/COCO_train2014_000000184930.jpg full greater than random: 7
+./coco-images/images/COCO_train2014_000000184930.jpg random greater than full: 3
+./coco-images/images/COCO_train2014_000000196545.jpg
 They are doing something here. A white frosted cake in the middle of a table with someone holding a knife above it.
 full_caption: 0.1957653909921646
 random_caption: 0.22742924094200134
@@ -2999,9 +2999,9 @@ random_caption: 0.19383063912391663
 They are doing something here. The two friends are playing a game on the Wii console.
 full_caption: 0.1957653909921646
 random_caption: 0.22049061954021454
-../photobook_coco_images/images/COCO_train2014_000000196545.jpg full greater than random: 5
-../photobook_coco_images/images/COCO_train2014_000000196545.jpg random greater than full: 5
-../photobook_coco_images/images/COCO_train2014_000000198072.jpg
+./coco-images/images/COCO_train2014_000000196545.jpg full greater than random: 5
+./coco-images/images/COCO_train2014_000000196545.jpg random greater than full: 5
+./coco-images/images/COCO_train2014_000000198072.jpg
 They are doing something here. A couple of kids laying on top of booths.
 full_caption: 0.1630234271287918
 random_caption: 0.12613217532634735
@@ -3032,9 +3032,9 @@ random_caption: 0.09218508005142212
 They are doing something here. A woman in a white dress is sitting with her cell phone.
 full_caption: 0.1630234271287918
 random_caption: 0.11597565561532974
-../photobook_coco_images/images/COCO_train2014_000000198072.jpg full greater than random: 9
-../photobook_coco_images/images/COCO_train2014_000000198072.jpg random greater than full: 1
-../photobook_coco_images/images/COCO_train2014_000000439463.jpg
+./coco-images/images/COCO_train2014_000000198072.jpg full greater than random: 9
+./coco-images/images/COCO_train2014_000000198072.jpg random greater than full: 1
+./coco-images/images/COCO_train2014_000000439463.jpg
 They are doing something here. A dog with a wine glass being held to its face.
 full_caption: 0.20283113420009613
 random_caption: 0.10401607304811478
@@ -3065,9 +3065,9 @@ random_caption: 0.12038680911064148
 They are doing something here. Two children are playing with letter magnets on a refrigerator.
 full_caption: 0.20283113420009613
 random_caption: 0.17104452848434448
-../photobook_coco_images/images/COCO_train2014_000000439463.jpg full greater than random: 6
-../photobook_coco_images/images/COCO_train2014_000000439463.jpg random greater than full: 4
-../photobook_coco_images/images/COCO_train2014_000000394151.jpg
+./coco-images/images/COCO_train2014_000000439463.jpg full greater than random: 6
+./coco-images/images/COCO_train2014_000000439463.jpg random greater than full: 4
+./coco-images/images/COCO_train2014_000000394151.jpg
 They are doing something here. A white frosted cake in the middle of a table with someone holding a knife above it.
 full_caption: 0.18583762645721436
 random_caption: 0.15179680287837982
@@ -3098,9 +3098,9 @@ random_caption: 0.15019077062606812
 They are doing something here. A banana and strawberry on top of a laptop
 full_caption: 0.18583762645721436
 random_caption: 0.16786715388298035
-../photobook_coco_images/images/COCO_train2014_000000394151.jpg full greater than random: 7
-../photobook_coco_images/images/COCO_train2014_000000394151.jpg random greater than full: 3
-../photobook_coco_images/images/COCO_train2014_000000096222.jpg
+./coco-images/images/COCO_train2014_000000394151.jpg full greater than random: 7
+./coco-images/images/COCO_train2014_000000394151.jpg random greater than full: 3
+./coco-images/images/COCO_train2014_000000096222.jpg
 They are doing something here. The woman is standing above the two packed suitcases.
 full_caption: 0.1959156095981598
 random_caption: 0.18792691826820374
@@ -3131,9 +3131,9 @@ random_caption: 0.10480726510286331
 They are doing something here. A wallet, laptop, cellphone, cups and bottles of water sitting on a table.
 full_caption: 0.1959156095981598
 random_caption: 0.1901119500398636
-../photobook_coco_images/images/COCO_train2014_000000096222.jpg full greater than random: 5
-../photobook_coco_images/images/COCO_train2014_000000096222.jpg random greater than full: 5
-../photobook_coco_images/images/COCO_train2014_000000163939.jpg
+./coco-images/images/COCO_train2014_000000096222.jpg full greater than random: 5
+./coco-images/images/COCO_train2014_000000096222.jpg random greater than full: 5
+./coco-images/images/COCO_train2014_000000163939.jpg
 They are doing something here. A person in a yellow shirt about to ketchup the dog in a hot dog costume.
 full_caption: 0.20251843333244324
 random_caption: 0.11753438413143158
@@ -3164,9 +3164,9 @@ random_caption: 0.1480434685945511
 They are doing something here. A wallet, laptop, cellphone, cups and bottles of water sitting on a table.
 full_caption: 0.20251843333244324
 random_caption: 0.2530393600463867
-../photobook_coco_images/images/COCO_train2014_000000163939.jpg full greater than random: 8
-../photobook_coco_images/images/COCO_train2014_000000163939.jpg random greater than full: 2
-../photobook_coco_images/images/COCO_train2014_000000122731.jpg
+./coco-images/images/COCO_train2014_000000163939.jpg full greater than random: 8
+./coco-images/images/COCO_train2014_000000163939.jpg random greater than full: 2
+./coco-images/images/COCO_train2014_000000122731.jpg
 They are doing something here. Two men sit on a boat and prepare to scuba dive.
 full_caption: 0.19990170001983643
 random_caption: 0.20673727989196777
@@ -3197,9 +3197,9 @@ random_caption: 0.15636451542377472
 They are doing something here. A baby sits in a suitcase in front of a book shelf
 full_caption: 0.19990170001983643
 random_caption: 0.13761991262435913
-../photobook_coco_images/images/COCO_train2014_000000122731.jpg full greater than random: 8
-../photobook_coco_images/images/COCO_train2014_000000122731.jpg random greater than full: 2
-../photobook_coco_images/images/COCO_train2014_000000324732.jpg
+./coco-images/images/COCO_train2014_000000122731.jpg full greater than random: 8
+./coco-images/images/COCO_train2014_000000122731.jpg random greater than full: 2
+./coco-images/images/COCO_train2014_000000324732.jpg
 They are doing something here. A woman in a dress standing by some motorcycles.
 full_caption: 0.19190335273742676
 random_caption: 0.1891220510005951
@@ -3230,9 +3230,9 @@ random_caption: 0.17241303622722626
 They are doing something here. A man is standing beside a parking meter, writing on his hand.
 full_caption: 0.19190335273742676
 random_caption: 0.15562187135219574
-../photobook_coco_images/images/COCO_train2014_000000324732.jpg full greater than random: 9
-../photobook_coco_images/images/COCO_train2014_000000324732.jpg random greater than full: 1
-../photobook_coco_images/images/COCO_train2014_000000075299.jpg
+./coco-images/images/COCO_train2014_000000324732.jpg full greater than random: 9
+./coco-images/images/COCO_train2014_000000324732.jpg random greater than full: 1
+./coco-images/images/COCO_train2014_000000075299.jpg
 They are doing something here. A man and woman pause with their bikes beside a train.
 full_caption: 0.20429280400276184
 random_caption: 0.17905722558498383
@@ -3263,9 +3263,9 @@ random_caption: 0.24167051911354065
 They are doing something here. A woman with glasses sitting at a table with a slice of pizza in front of her and a soft drink cup.
 full_caption: 0.20429280400276184
 random_caption: 0.12897855043411255
-../photobook_coco_images/images/COCO_train2014_000000075299.jpg full greater than random: 7
-../photobook_coco_images/images/COCO_train2014_000000075299.jpg random greater than full: 3
-../photobook_coco_images/images/COCO_train2014_000000184930.jpg
+./coco-images/images/COCO_train2014_000000075299.jpg full greater than random: 7
+./coco-images/images/COCO_train2014_000000075299.jpg random greater than full: 3
+./coco-images/images/COCO_train2014_000000184930.jpg
 They are doing something here. a person on a motorcycle and a dog
 full_caption: 0.19710199534893036
 random_caption: 0.19967737793922424
@@ -3296,8 +3296,8 @@ random_caption: 0.13484936952590942
 They are doing something here. A person with a yellow lab on a moped ridding down the street.
 full_caption: 0.19710199534893036
 random_caption: 0.16034595668315887
-../photobook_coco_images/images/COCO_train2014_000000184930.jpg full greater than random: 9
-../photobook_coco_images/images/COCO_train2014_000000184930.jpg random greater than full: 1
+./coco-images/images/COCO_train2014_000000184930.jpg full greater than random: 9
+./coco-images/images/COCO_train2014_000000184930.jpg random greater than full: 1
 
 # AGGREGATED RESULTS
 
